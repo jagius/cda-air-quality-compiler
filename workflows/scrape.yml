@@ -1,0 +1,41 @@
+#!/usr/bin/env python3
+name: Scrape and Compile Air Quality Data
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Every 6 hours
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install pandas lxml
+
+      - name: Run scraper
+        run: python scrape_to_scv.py
+
+      - name: Compile CSV
+        run: python compile_air_quality.py
+
+      - name: Move compiled CSV to docs for GitHub Pages
+        run: |
+          mkdir -p docs
+          cp output/compiled_air_quality.csv docs/
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add docs/compiled_air_quality.csv
+          git commit -m "Update compiled air quality CSV [skip ci]" || echo "No changes to commit"
+          git push
