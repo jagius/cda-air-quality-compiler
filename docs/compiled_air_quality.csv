@@ -6,7 +6,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Cranbrook, bc, Canada",Moderate Risk,49.5129678,-115.7694002,Moderate (4-6),Cranbrook
 "Duncan, bc, Canada",Low Risk,48.7786908,-123.7079416,Low (1-3),Duncan
 "Eastern Fraser Valley, bc, Canada",Low Risk,49.3764104,-121.8159307,Low (1-3),Eastern Fraser Valley
-"Fort St. John, bc, Canada",Low Risk,56.252423,-120.846409,Low (1-3),Fort St. John
+"Fort St. John, bc, Canada",Moderate Risk,56.252423,-120.846409,Moderate (4-6),Fort St. John
 "Kamloops, bc, Canada",Low Risk,50.674522,-120.3272674,Low (1-3),Kamloops
 "Kitimat, bc, Canada",Low Risk,54.0632661,-128.637191,Low (1-3),Kitimat
 "Metro Vancouver - NE, bc, Canada",Low Risk,49.3224696,-122.8568391,Low (1-3),Metro Vancouver - NE
@@ -15,7 +15,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Metro Vancouver - SW, bc, Canada",Low Risk,49.3224696,-122.8568391,Low (1-3),Metro Vancouver - SW
 "Nanaimo, bc, Canada",Low Risk,49.1658836,-123.9400647,Low (1-3),Nanaimo
 "North Okanagan, bc, Canada",Low Risk,50.3398977,-118.7840936,Low (1-3),North Okanagan
-"Prince George, bc, Canada",High Risk,53.9170641,-122.7496693,High (7-9),Prince George
+"Prince George, bc, Canada",Moderate Risk,53.9170641,-122.7496693,Moderate (4-6),Prince George
 "Quesnel, bc, Canada",Moderate Risk,52.9817372,-122.4949058,Moderate (4-6),Quesnel
 "Smithers, bc, Canada",Low Risk,54.782355,-127.1685541,Low (1-3),Smithers
 "South Okanagan, bc, Canada",Low Risk,53.7266683,-127.6476206,Low (1-3),South Okanagan
@@ -28,18 +28,18 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Williams Lake, bc, Canada",Moderate Risk,52.1416736,-122.1416885,Moderate (4-6),Williams Lake
 "Airdrie, ab, Canada",,51.2926968,-114.0134113,,Airdrie
 "Brooks, ab, Canada",Moderate Risk,50.56538876,-111.897462,Moderate (4-6),Brooks
-"Calgary, ab, Canada",High Risk,51.0447331,-114.0718831,High (7-9),Calgary
+"Calgary, ab, Canada",Moderate Risk,51.0447331,-114.0718831,Moderate (4-6),Calgary
 "Cold Lake, ab, Canada",Low Risk,54.464249,-110.1731779,Low (1-3),Cold Lake
-"Drayton Valley, ab, Canada",Moderate Risk,53.2214945,-114.976746,Moderate (4-6),Drayton Valley
-"Edmonton, ab, Canada",Moderate Risk,53.5460983,-113.4937266,Moderate (4-6),Edmonton
-"Edson, ab, Canada",Moderate Risk,53.585422,-116.4337219,Moderate (4-6),Edson
+"Drayton Valley, ab, Canada",Low Risk,53.2214945,-114.976746,Low (1-3),Drayton Valley
+"Edmonton, ab, Canada",Low Risk,53.5460983,-113.4937266,Low (1-3),Edmonton
+"Edson, ab, Canada",Low Risk,53.585422,-116.4337219,Low (1-3),Edson
 "Fort Chipewyan, ab, Canada",Low Risk,58.7133284,-111.1574916,Low (1-3),Fort Chipewyan
 "Fort McKay, ab, Canada",Low Risk,57.186758,-111.636785,Low (1-3),Fort McKay
 "Fort McMurray, ab, Canada",Low Risk,56.7266231,-111.3790095,Low (1-3),Fort McMurray
 "Fort Saskatchewan, ab, Canada",Low Risk,53.6962239,-113.2163654,Low (1-3),Fort Saskatchewan
-"Genesee, ab, Canada",Moderate Risk,53.34453394,-114.3267988,Moderate (4-6),Genesee
-"Grande Prairie, ab, Canada",Low Risk,55.170691,-118.7884808,Low (1-3),Grande Prairie
-"Hinton, ab, Canada",High Risk,53.399067,-117.5794057,High (7-9),Hinton
+"Genesee, ab, Canada",Low Risk,53.34453394,-114.3267988,Low (1-3),Genesee
+"Grande Prairie, ab, Canada",Very High Risk,55.170691,-118.7884808,Very high (10+),Grande Prairie
+"Hinton, ab, Canada",Moderate Risk,53.399067,-117.5794057,Moderate (4-6),Hinton
 "Lamont County, ab, Canada",Low Risk,53.7901566,-112.5577641,Low (1-3),Lamont County
 "Lethbridge, ab, Canada",Moderate Risk,49.6956181,-112.8451067,Moderate (4-6),Lethbridge
 "Medicine Hat, ab, Canada",Moderate Risk,50.0290218,-110.7031976,Moderate (4-6),Medicine Hat
@@ -52,49 +52,49 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Estevan, sk, Canada",High Risk,49.1390842,-102.9914807,High (7-9),Estevan
 "Prince Albert, sk, Canada",Low Risk,53.2033494,-105.7530705,Low (1-3),Prince Albert
 "Regina, sk, Canada",High Risk,50.4452112,-104.6188944,High (7-9),Regina
-"Saskatoon, sk, Canada",Moderate Risk,52.157902,-106.6701577,Moderate (4-6),Saskatoon
-"Swift Current, sk, Canada",Moderate Risk,50.285069,-107.7971722,Moderate (4-6),Swift Current
-"Brandon, mb, Canada",High Risk,49.8437486,-99.9514807,High (7-9),Brandon
+"Saskatoon, sk, Canada",Low Risk,52.157902,-106.6701577,Low (1-3),Saskatoon
+"Swift Current, sk, Canada",High Risk,50.285069,-107.7971722,High (7-9),Swift Current
+"Brandon, mb, Canada",Moderate Risk,49.8437486,-99.9514807,Moderate (4-6),Brandon
 "Flin Flon, mb, Canada",Low Risk,54.7751389,-101.8493669,Low (1-3),Flin Flon
 "Winnipeg, mb, Canada",Moderate Risk,49.8954221,-97.1385145,Moderate (4-6),Winnipeg
-"Barrie, on, Canada",Moderate Risk,44.3893556,-79.6903316,Moderate (4-6),Barrie
+"Barrie, on, Canada",Low Risk,44.3893556,-79.6903316,Low (1-3),Barrie
 "Belleville, on, Canada",Moderate Risk,44.1627589,-77.3832315,Moderate (4-6),Belleville
-"Brampton, on, Canada",Moderate Risk,43.7315479,-79.7624177,Moderate (4-6),Brampton
-"Brantford, on, Canada",Moderate Risk,43.1393867,-80.2644254,Moderate (4-6),Brantford
+"Brampton, on, Canada",Low Risk,43.7315479,-79.7624177,Low (1-3),Brampton
+"Brantford, on, Canada",Low Risk,43.1393867,-80.2644254,Low (1-3),Brantford
 "Burlington, on, Canada",Moderate Risk,43.3255196,-79.7990319,Moderate (4-6),Burlington
 "Chatham, on, Canada",Moderate Risk,42.4048018,-82.1910376,Moderate (4-6),Chatham
-"Cornwall, on, Canada",Moderate Risk,45.0212762,-74.730345,Moderate (4-6),Cornwall
+"Cornwall, on, Canada",Low Risk,45.0212762,-74.730345,Low (1-3),Cornwall
 "Dorset, on, Canada",Low Risk,45.2444301,-78.8939439,Low (1-3),Dorset
-"Grand Bend, on, Canada",Moderate Risk,43.3130397,-81.7562242,Moderate (4-6),Grand Bend
-"Guelph, on, Canada",Moderate Risk,43.5448048,-80.2481666,Moderate (4-6),Guelph
-"Hamilton, on, Canada",Moderate Risk,43.2557206,-79.8711024,Moderate (4-6),Hamilton
-"Hamilton Downtown, on, Canada",Moderate Risk,,,Moderate (4-6),Hamilton Downtown
-"Hamilton Mountain, on, Canada",Moderate Risk,,,Moderate (4-6),Hamilton Mountain
-"Hamilton West, on, Canada",Moderate Risk,,,Moderate (4-6),Hamilton West
+"Grand Bend, on, Canada",Low Risk,43.3130397,-81.7562242,Low (1-3),Grand Bend
+"Guelph, on, Canada",Low Risk,43.5448048,-80.2481666,Low (1-3),Guelph
+"Hamilton, on, Canada",Low Risk,43.2557206,-79.8711024,Low (1-3),Hamilton
+"Hamilton Downtown, on, Canada",Low Risk,,,Low (1-3),Hamilton Downtown
+"Hamilton Mountain, on, Canada",Low Risk,,,Low (1-3),Hamilton Mountain
+"Hamilton West, on, Canada",Low Risk,,,Low (1-3),Hamilton West
 "Kingston, on, Canada",Moderate Risk,44.2311717,-76.4859544,Moderate (4-6),Kingston
-"Kitchener, on, Canada",Moderate Risk,43.4516395,-80.4925337,Moderate (4-6),Kitchener
-"London, on, Canada",Moderate Risk,42.9849233,-81.2452768,Moderate (4-6),London
-"Milton, on, Canada",Moderate Risk,43.5182991,-79.8774042,Moderate (4-6),Milton
-"Mississauga, on, Canada",Moderate Risk,43.5890452,-79.6441198,Moderate (4-6),Mississauga
-"Newmarket, on, Canada",Moderate Risk,44.059187,-79.461256,Moderate (4-6),Newmarket
-"North Bay, on, Canada",Moderate Risk,46.3091152,-79.4608204,Moderate (4-6),North Bay
-"Oakville, on, Canada",Moderate Risk,43.467517,-79.6876659,Moderate (4-6),Oakville
-"Oshawa, on, Canada",Moderate Risk,43.8970929,-78.8657912,Moderate (4-6),Oshawa
+"Kitchener, on, Canada",Low Risk,43.4516395,-80.4925337,Low (1-3),Kitchener
+"London, on, Canada",Low Risk,42.9849233,-81.2452768,Low (1-3),London
+"Milton, on, Canada",Low Risk,43.5182991,-79.8774042,Low (1-3),Milton
+"Mississauga, on, Canada",Low Risk,43.5890452,-79.6441198,Low (1-3),Mississauga
+"Newmarket, on, Canada",Low Risk,44.059187,-79.461256,Low (1-3),Newmarket
+"North Bay, on, Canada",Low Risk,46.3091152,-79.4608204,Low (1-3),North Bay
+"Oakville, on, Canada",Low Risk,43.467517,-79.6876659,Low (1-3),Oakville
+"Oshawa, on, Canada",Low Risk,43.8970929,-78.8657912,Low (1-3),Oshawa
 "Ottawa, on, Canada",Low Risk,45.4215296,-75.6971931,Low (1-3),Ottawa
-"Parry Sound, on, Canada",Moderate Risk,45.3473925,-80.034783,Moderate (4-6),Parry Sound
-"Peterborough, on, Canada",Moderate Risk,44.3047061,-78.3199606,Moderate (4-6),Peterborough
+"Parry Sound, on, Canada",Low Risk,45.3473925,-80.034783,Low (1-3),Parry Sound
+"Peterborough, on, Canada",Low Risk,44.3047061,-78.3199606,Low (1-3),Peterborough
 "Port Stanley, on, Canada",Moderate Risk,42.6641353,-81.2156329,Moderate (4-6),Port Stanley
 "Sarnia, on, Canada",Moderate Risk,42.974536,-82.4065901,Moderate (4-6),Sarnia
 "Sault Ste. Marie, on, Canada",Low Risk,46.5136494,-84.3357526,Low (1-3),Sault Ste. Marie
-"St. Catharines, on, Canada",Moderate Risk,43.1593745,-79.2468626,Moderate (4-6),St. Catharines
+"St. Catharines, on, Canada",Low Risk,43.1593745,-79.2468626,Low (1-3),St. Catharines
 "Sudbury, on, Canada",Low Risk,46.4917317,-80.993029,Low (1-3),Sudbury
 "Thunder Bay, on, Canada",Low Risk,48.3808951,-89.2476823,Low (1-3),Thunder Bay
-"Tiverton, on, Canada",Moderate Risk,44.2676578,-81.5433231,Moderate (4-6),Tiverton
-"Toronto, on, Canada",Moderate Risk,43.653226,-79.3831843,Moderate (4-6),Toronto
-"Toronto Downtown, on, Canada",Moderate Risk,,,Moderate (4-6),Toronto Downtown
-"Toronto East, on, Canada",Moderate Risk,,,Moderate (4-6),Toronto East
-"Toronto North, on, Canada",Moderate Risk,,,Moderate (4-6),Toronto North
-"Toronto West, on, Canada",Moderate Risk,,,Moderate (4-6),Toronto West
+"Tiverton, on, Canada",Low Risk,44.2676578,-81.5433231,Low (1-3),Tiverton
+"Toronto, on, Canada",Low Risk,43.653226,-79.3831843,Low (1-3),Toronto
+"Toronto Downtown, on, Canada",Low Risk,,,Low (1-3),Toronto Downtown
+"Toronto East, on, Canada",Low Risk,,,Low (1-3),Toronto East
+"Toronto North, on, Canada",Low Risk,,,Low (1-3),Toronto North
+"Toronto West, on, Canada",Low Risk,,,Low (1-3),Toronto West
 "Windsor, on, Canada",Moderate Risk,42.3149367,-83.0363633,Moderate (4-6),Windsor
 "Windsor Downtown, on, Canada",Moderate Risk,,,Moderate (4-6),Windsor Downtown
 "Windsor West, on, Canada",Moderate Risk,,,Moderate (4-6),Windsor West
@@ -121,7 +121,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Summerside (Wellington), pe, Canada",Low Risk,46.4538293,-63.9995297,Low (1-3),Summerside (Wellington)
 "Burin, nl, Canada",Low Risk,47.0777517,-55.1762977,Low (1-3),Burin
 "Corner Brook, nl, Canada",Low Risk,48.9523316,-57.9460401,Low (1-3),Corner Brook
-"Grand Falls-Windsor, nl, Canada",Low Risk,48.9279047,-55.6598977,Low (1-3),Grand Falls-Windsor
+"Grand Falls-Windsor, nl, Canada",,48.9279047,-55.6598977,,Grand Falls-Windsor
 "Labrador City, nl, Canada",Low Risk,52.9383852,-66.9153137,Low (1-3),Labrador City
 "St. John's, nl, Canada",,47.5556097,-52.7452511,,St. John's
 "Whitehorse, yt, Canada",,60.7197137,-135.0522761,,Whitehorse
