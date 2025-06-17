@@ -7,7 +7,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Duncan, bc, Canada",Low Risk,48.7786908,-123.7079416,Low (1-3),Duncan
 "Eastern Fraser Valley, bc, Canada",Low Risk,49.3764104,-121.8159307,Low (1-3),Eastern Fraser Valley
 "Fort St. John, bc, Canada",Low Risk,56.252423,-120.846409,Low (1-3),Fort St. John
-"Kamloops, bc, Canada",Low Risk,50.674522,-120.3272674,Low (1-3),Kamloops
+"Kamloops, bc, Canada",Moderate Risk,50.674522,-120.3272674,Moderate (4-6),Kamloops
 "Kitimat, bc, Canada",Low Risk,54.0632661,-128.637191,Low (1-3),Kitimat
 "Metro Vancouver - NE, bc, Canada",Low Risk,49.3224696,-122.8568391,Low (1-3),Metro Vancouver - NE
 "Metro Vancouver - NW, bc, Canada",Low Risk,49.2057179,-122.910956,Low (1-3),Metro Vancouver - NW
@@ -26,8 +26,8 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "WestShore, bc, Canada",Low Risk,48.4474626,-123.4956337,Low (1-3),WestShore
 "Whistler, bc, Canada",Low Risk,50.1161686,-122.9535117,Low (1-3),Whistler
 "Williams Lake, bc, Canada",Low Risk,52.1416736,-122.1416885,Low (1-3),Williams Lake
-"Airdrie, ab, Canada",Low Risk,51.2926968,-114.0134113,Low (1-3),Airdrie
-"Brooks, ab, Canada",Low Risk,50.56538876,-111.897462,Low (1-3),Brooks
+"Airdrie, ab, Canada",Moderate Risk,51.2926968,-114.0134113,Moderate (4-6),Airdrie
+"Brooks, ab, Canada",Moderate Risk,50.56538876,-111.897462,Moderate (4-6),Brooks
 "Calgary, ab, Canada",Low Risk,51.0447331,-114.0718831,Low (1-3),Calgary
 "Cold Lake, ab, Canada",Low Risk,54.464249,-110.1731779,Low (1-3),Cold Lake
 "Drayton Valley, ab, Canada",Low Risk,53.2214945,-114.976746,Low (1-3),Drayton Valley
@@ -60,19 +60,19 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Barrie, on, Canada",Low Risk,44.3893556,-79.6903316,Low (1-3),Barrie
 "Belleville, on, Canada",Low Risk,44.1627589,-77.3832315,Low (1-3),Belleville
 "Brampton, on, Canada",Low Risk,43.7315479,-79.7624177,Low (1-3),Brampton
-"Brantford, on, Canada",Low Risk,43.1393867,-80.2644254,Low (1-3),Brantford
+"Brantford, on, Canada",Moderate Risk,43.1393867,-80.2644254,Moderate (4-6),Brantford
 "Burlington, on, Canada",Low Risk,43.3255196,-79.7990319,Low (1-3),Burlington
 "Chatham, on, Canada",Low Risk,42.4048018,-82.1910376,Low (1-3),Chatham
 "Cornwall, on, Canada",Low Risk,45.0212762,-74.730345,Low (1-3),Cornwall
 "Dorset, on, Canada",Low Risk,45.2444301,-78.8939439,Low (1-3),Dorset
 "Grand Bend, on, Canada",Low Risk,43.3130397,-81.7562242,Low (1-3),Grand Bend
-"Guelph, on, Canada",Low Risk,43.5448048,-80.2481666,Low (1-3),Guelph
+"Guelph, on, Canada",Moderate Risk,43.5448048,-80.2481666,Moderate (4-6),Guelph
 "Hamilton, on, Canada",Low Risk,43.2557206,-79.8711024,Low (1-3),Hamilton
 "Hamilton Downtown, on, Canada",Low Risk,,,Low (1-3),Hamilton Downtown
 "Hamilton Mountain, on, Canada",Low Risk,,,Low (1-3),Hamilton Mountain
 "Hamilton West, on, Canada",Low Risk,,,Low (1-3),Hamilton West
 "Kingston, on, Canada",Low Risk,44.2311717,-76.4859544,Low (1-3),Kingston
-"Kitchener, on, Canada",Low Risk,43.4516395,-80.4925337,Low (1-3),Kitchener
+"Kitchener, on, Canada",Moderate Risk,43.4516395,-80.4925337,Moderate (4-6),Kitchener
 "London, on, Canada",Low Risk,42.9849233,-81.2452768,Low (1-3),London
 "Milton, on, Canada",Low Risk,43.5182991,-79.8774042,Low (1-3),Milton
 "Mississauga, on, Canada",Low Risk,43.5890452,-79.6441198,Low (1-3),Mississauga
@@ -85,7 +85,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Peterborough, on, Canada",Low Risk,44.3047061,-78.3199606,Low (1-3),Peterborough
 "Port Stanley, on, Canada",Low Risk,42.6641353,-81.2156329,Low (1-3),Port Stanley
 "Sarnia, on, Canada",Low Risk,42.974536,-82.4065901,Low (1-3),Sarnia
-"Sault Ste. Marie, on, Canada",Low Risk,46.5136494,-84.3357526,Low (1-3),Sault Ste. Marie
+"Sault Ste. Marie, on, Canada",Moderate Risk,46.5136494,-84.3357526,Moderate (4-6),Sault Ste. Marie
 "St. Catharines, on, Canada",Low Risk,43.1593745,-79.2468626,Low (1-3),St. Catharines
 "Sudbury, on, Canada",Low Risk,46.4917317,-80.993029,Low (1-3),Sudbury
 "Thunder Bay, on, Canada",Low Risk,48.3808951,-89.2476823,Low (1-3),Thunder Bay
@@ -107,7 +107,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Fredericton, nb, Canada",Low Risk,45.9635895,-66.6431151,Low (1-3),Fredericton
 "Miramichi, nb, Canada",Low Risk,47.0295709,-65.5059061,Low (1-3),Miramichi
 "Moncton, nb, Canada",Low Risk,46.0878165,-64.7782313,Low (1-3),Moncton
-"Saint Andrews, nb, Canada",,45.0738432,-67.0530897,,Saint Andrews
+"Saint Andrews, nb, Canada",Low Risk,45.0738432,-67.0530897,Low (1-3),Saint Andrews
 "Saint John, nb, Canada",Low Risk,45.2733153,-66.0633081,Low (1-3),Saint John
 "Halifax, ns, Canada",Low Risk,44.8857087,-63.1005273,Low (1-3),Halifax
 "Halifax - Lake Major, ns, Canada",Low Risk,,,Low (1-3),Halifax - Lake Major
@@ -121,10 +121,10 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Summerside (Wellington), pe, Canada",Low Risk,46.4538293,-63.9995297,Low (1-3),Summerside (Wellington)
 "Burin, nl, Canada",Low Risk,47.0777517,-55.1762977,Low (1-3),Burin
 "Corner Brook, nl, Canada",Low Risk,48.9523316,-57.9460401,Low (1-3),Corner Brook
-"Grand Falls-Windsor, nl, Canada",,48.9279047,-55.6598977,,Grand Falls-Windsor
+"Grand Falls-Windsor, nl, Canada",Low Risk,48.9279047,-55.6598977,Low (1-3),Grand Falls-Windsor
 "Labrador City, nl, Canada",Low Risk,52.9383852,-66.9153137,Low (1-3),Labrador City
 "St. John's, nl, Canada",,47.5556097,-52.7452511,,St. John's
-"Whitehorse, yt, Canada",,60.7197137,-135.0522761,,Whitehorse
+"Whitehorse, yt, Canada",Moderate Risk,60.7197137,-135.0522761,Moderate (4-6),Whitehorse
 "Fort Simpson, nt, Canada",,61.86330512,-121.3537357,,Fort Simpson
 "Fort Smith, nt, Canada",Low Risk,60.00552,-111.8849379,Low (1-3),Fort Smith
 "Inuvik, nt, Canada",Low Risk,68.3607437,-133.7230177,Low (1-3),Inuvik
