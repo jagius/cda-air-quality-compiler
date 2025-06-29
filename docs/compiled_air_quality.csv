@@ -84,7 +84,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Parry Sound, on, Canada",Low Risk,45.3473925,-80.034783,Low (1-3),Parry Sound
 "Peterborough, on, Canada",Low Risk,44.3047061,-78.3199606,Low (1-3),Peterborough
 "Port Stanley, on, Canada",Low Risk,42.6641353,-81.2156329,Low (1-3),Port Stanley
-"Sarnia, on, Canada",Low Risk,42.974536,-82.4065901,Low (1-3),Sarnia
+"Sarnia, on, Canada",Moderate Risk,42.974536,-82.4065901,Moderate (4-6),Sarnia
 "Sault Ste. Marie, on, Canada",Low Risk,46.5136494,-84.3357526,Low (1-3),Sault Ste. Marie
 "St. Catharines, on, Canada",Low Risk,43.1593745,-79.2468626,Low (1-3),St. Catharines
 "Sudbury, on, Canada",Low Risk,46.4917317,-80.993029,Low (1-3),Sudbury
