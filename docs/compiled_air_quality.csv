@@ -59,7 +59,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Winnipeg, mb, Canada",Low Risk,49.8954221,-97.1385145,Low (1-3),Winnipeg
 "Barrie, on, Canada",Low Risk,44.3893556,-79.6903316,Low (1-3),Barrie
 "Belleville, on, Canada",Low Risk,44.1627589,-77.3832315,Low (1-3),Belleville
-"Brampton, on, Canada",Low Risk,43.7315479,-79.7624177,Low (1-3),Brampton
+"Brampton, on, Canada",Moderate Risk,43.7315479,-79.7624177,Moderate (4-6),Brampton
 "Brantford, on, Canada",Low Risk,43.1393867,-80.2644254,Low (1-3),Brantford
 "Burlington, on, Canada",Low Risk,43.3255196,-79.7990319,Low (1-3),Burlington
 "Chatham, on, Canada",Low Risk,42.4048018,-82.1910376,Low (1-3),Chatham
@@ -68,15 +68,15 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Grand Bend, on, Canada",Low Risk,43.3130397,-81.7562242,Low (1-3),Grand Bend
 "Guelph, on, Canada",Low Risk,43.5448048,-80.2481666,Low (1-3),Guelph
 "Hamilton, on, Canada",Low Risk,43.2557206,-79.8711024,Low (1-3),Hamilton
-"Hamilton Downtown, on, Canada",Low Risk,,,Low (1-3),Hamilton Downtown
+"Hamilton Downtown, on, Canada",Moderate Risk,,,Moderate (4-6),Hamilton Downtown
 "Hamilton Mountain, on, Canada",Low Risk,,,Low (1-3),Hamilton Mountain
-"Hamilton West, on, Canada",Low Risk,,,Low (1-3),Hamilton West
+"Hamilton West, on, Canada",Moderate Risk,,,Moderate (4-6),Hamilton West
 "Kingston, on, Canada",Low Risk,44.2311717,-76.4859544,Low (1-3),Kingston
 "Kitchener, on, Canada",Low Risk,43.4516395,-80.4925337,Low (1-3),Kitchener
 "London, on, Canada",Low Risk,42.9849233,-81.2452768,Low (1-3),London
 "Milton, on, Canada",Low Risk,43.5182991,-79.8774042,Low (1-3),Milton
 "Mississauga, on, Canada",Low Risk,43.5890452,-79.6441198,Low (1-3),Mississauga
-"Newmarket, on, Canada",Low Risk,44.059187,-79.461256,Low (1-3),Newmarket
+"Newmarket, on, Canada",Moderate Risk,44.059187,-79.461256,Moderate (4-6),Newmarket
 "North Bay, on, Canada",Low Risk,46.3091152,-79.4608204,Low (1-3),North Bay
 "Oakville, on, Canada",Low Risk,43.467517,-79.6876659,Low (1-3),Oakville
 "Oshawa, on, Canada",Low Risk,43.8970929,-78.8657912,Low (1-3),Oshawa
@@ -91,9 +91,9 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Thunder Bay, on, Canada",Low Risk,48.3808951,-89.2476823,Low (1-3),Thunder Bay
 "Tiverton, on, Canada",Low Risk,44.2676578,-81.5433231,Low (1-3),Tiverton
 "Toronto, on, Canada",Low Risk,43.653226,-79.3831843,Low (1-3),Toronto
-"Toronto Downtown, on, Canada",Low Risk,,,Low (1-3),Toronto Downtown
+"Toronto Downtown, on, Canada",Moderate Risk,,,Moderate (4-6),Toronto Downtown
 "Toronto East, on, Canada",Low Risk,,,Low (1-3),Toronto East
-"Toronto North, on, Canada",Low Risk,,,Low (1-3),Toronto North
+"Toronto North, on, Canada",Moderate Risk,,,Moderate (4-6),Toronto North
 "Toronto West, on, Canada",Low Risk,,,Low (1-3),Toronto West
 "Windsor, on, Canada",Low Risk,42.3149367,-83.0363633,Low (1-3),Windsor
 "Windsor Downtown, on, Canada",Low Risk,,,Low (1-3),Windsor Downtown
