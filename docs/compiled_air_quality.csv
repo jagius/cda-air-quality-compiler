@@ -33,7 +33,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Drayton Valley, ab, Canada",Low Risk,53.2214945,-114.976746,Low (1-3),Drayton Valley
 "Edmonton, ab, Canada",Low Risk,53.5460983,-113.4937266,Low (1-3),Edmonton
 "Edson, ab, Canada",Low Risk,53.585422,-116.4337219,Low (1-3),Edson
-"Fort Chipewyan, ab, Canada",Moderate Risk,58.7133284,-111.1574916,Moderate (4-6),Fort Chipewyan
+"Fort Chipewyan, ab, Canada",Low Risk,58.7133284,-111.1574916,Low (1-3),Fort Chipewyan
 "Fort McKay, ab, Canada",Low Risk,57.186758,-111.636785,Low (1-3),Fort McKay
 "Fort McMurray, ab, Canada",Low Risk,56.7266231,-111.3790095,Low (1-3),Fort McMurray
 "Fort Saskatchewan, ab, Canada",Low Risk,53.6962239,-113.2163654,Low (1-3),Fort Saskatchewan
@@ -51,11 +51,11 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Buffalo Narrows, sk, Canada",Low Risk,55.8628398,-108.4794604,Low (1-3),Buffalo Narrows
 "Estevan, sk, Canada",Very High Risk,49.1390842,-102.9914807,Very high (10+),Estevan
 "Prince Albert, sk, Canada",Low Risk,53.2033494,-105.7530705,Low (1-3),Prince Albert
-"Regina, sk, Canada",High Risk,50.4452112,-104.6188944,High (7-9),Regina
+"Regina, sk, Canada",Moderate Risk,50.4452112,-104.6188944,Moderate (4-6),Regina
 "Saskatoon, sk, Canada",Low Risk,52.157902,-106.6701577,Low (1-3),Saskatoon
 "Swift Current, sk, Canada",Low Risk,50.285069,-107.7971722,Low (1-3),Swift Current
 "Brandon, mb, Canada",Very High Risk,49.8437486,-99.9514807,Very high (10+),Brandon
-"Flin Flon, mb, Canada",High Risk,54.7751389,-101.8493669,High (7-9),Flin Flon
+"Flin Flon, mb, Canada",Moderate Risk,54.7751389,-101.8493669,Moderate (4-6),Flin Flon
 "Winnipeg, mb, Canada",Very High Risk,49.8954221,-97.1385145,Very high (10+),Winnipeg
 "Barrie, on, Canada",Low Risk,44.3893556,-79.6903316,Low (1-3),Barrie
 "Belleville, on, Canada",Low Risk,44.1627589,-77.3832315,Low (1-3),Belleville
@@ -76,7 +76,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "London, on, Canada",Low Risk,42.9849233,-81.2452768,Low (1-3),London
 "Milton, on, Canada",Low Risk,43.5182991,-79.8774042,Low (1-3),Milton
 "Mississauga, on, Canada",Low Risk,43.5890452,-79.6441198,Low (1-3),Mississauga
-"Newmarket, on, Canada",Low Risk,44.059187,-79.461256,Low (1-3),Newmarket
+"Newmarket, on, Canada",Moderate Risk,44.059187,-79.461256,Moderate (4-6),Newmarket
 "North Bay, on, Canada",Low Risk,46.3091152,-79.4608204,Low (1-3),North Bay
 "Oakville, on, Canada",Low Risk,43.467517,-79.6876659,Low (1-3),Oakville
 "Oshawa, on, Canada",Low Risk,43.8970929,-78.8657912,Low (1-3),Oshawa
@@ -84,7 +84,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Parry Sound, on, Canada",Low Risk,45.3473925,-80.034783,Low (1-3),Parry Sound
 "Peterborough, on, Canada",Low Risk,44.3047061,-78.3199606,Low (1-3),Peterborough
 "Port Stanley, on, Canada",Low Risk,42.6641353,-81.2156329,Low (1-3),Port Stanley
-"Sarnia, on, Canada",Low Risk,42.974536,-82.4065901,Low (1-3),Sarnia
+"Sarnia, on, Canada",Moderate Risk,42.974536,-82.4065901,Moderate (4-6),Sarnia
 "Sault Ste. Marie, on, Canada",Low Risk,46.5136494,-84.3357526,Low (1-3),Sault Ste. Marie
 "St. Catharines, on, Canada",Low Risk,43.1593745,-79.2468626,Low (1-3),St. Catharines
 "Sudbury, on, Canada",Low Risk,46.4917317,-80.993029,Low (1-3),Sudbury
@@ -97,7 +97,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Toronto West, on, Canada",Low Risk,,,Low (1-3),Toronto West
 "Windsor, on, Canada",Low Risk,42.3149367,-83.0363633,Low (1-3),Windsor
 "Windsor Downtown, on, Canada",Low Risk,,,Low (1-3),Windsor Downtown
-"Windsor West, on, Canada",Low Risk,,,Low (1-3),Windsor West
+"Windsor West, on, Canada",Moderate Risk,,,Moderate (4-6),Windsor West
 "Gatineau, qc, Canada",,45.4765446,-75.7012723,,Gatineau
 "Montréal, qc, Canada",,45.5018869,-73.5673919,,Montréal
 "Québec, qc, Canada",,46.8130816,-71.2074596,,Québec
