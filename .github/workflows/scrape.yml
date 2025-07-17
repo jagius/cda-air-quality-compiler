@@ -23,21 +23,26 @@ jobs:
       - name: Install dependencies
         run: pip install pandas lxml
 
-      - name: Run scraper
-        run: python scrape_to_scv.py
+      - name: Run air quality scraper
+        run: python scrape_to_csv.py
 
       - name: Compile CSV
         run: python compile_air_quality.py
+
+      - name: Run fire data scraper
+        run: python scrape_fire_data.py
 
       - name: Move compiled CSV to docs for GitHub Pages
         run: |
           mkdir -p docs
           cp output/compiled_air_quality.csv docs/
+          cp output/active_fires.csv docs/
 
       - name: Commit and push changes
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add docs/compiled_air_quality.csv
+          git add docs/active_fires.csv
           git commit -m "Update compiled air quality CSV [skip ci]" || echo "No changes to commit"
           git push

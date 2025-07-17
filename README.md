@@ -1,2 +1,2 @@
 # cda-air-quality-compiler
-compiles provincial air quality index information from weather.gc.ca 
+compiles provincial air quality index information and fire data from weather.gc.ca 
