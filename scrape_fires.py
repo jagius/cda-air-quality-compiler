@@ -2,7 +2,15 @@
 import pandas as pd
 import os
 
-url = "https://cwfis.cfs.nrcan.gc.ca/geoserver/public/wfs?SERVICE=WFS&REQUEST=GetFeature&VERSION=2.0.0&TYPENAME=public:activefires_current&PROPERTYNAME=(lat,lon,hectares,stage_of_control)&CQL_FILTER=NOT agency='ak' AND NOT agency='conus' AND NOT stage_of_control='OUT'&SRSNAME=urn:x-ogc:def:crs:EPSG:4326&OUTPUTFORMAT=csv"
+url = (
+    "https://cwfis.cfs.nrcan.gc.ca/geoserver/public/wfs"
+    "?SERVICE=WFS&REQUEST=GetFeature&VERSION=2.0.0"
+    "&TYPENAME=public%3Aactivefires_current"
+    "&PROPERTYNAME=lat%2Clon%2Chectares%2Cstage_of_control"
+    "&CQL_FILTER=NOT%20agency%3D%27ak%27%20AND%20NOT%20agency%3D%27conus%27%20AND%20NOT%20stage_of_control%3D%27OUT%27"
+    "&SRSNAME=urn%3Ax-ogc%3Adef%3Acrs%3AEPSG%3A4326"
+    "&OUTPUTFORMAT=csv"
+)
 
 # first ensure the output directory exists
 if not os.path.exists("output"):
