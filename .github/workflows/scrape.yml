@@ -30,7 +30,7 @@ jobs:
         run: python compile_air_quality.py
 
       - name: Run fire data scraper
-        run: python scrape_fire_data.py
+        run: python scrape_fires.py
 
       - name: Move compiled CSV to docs for GitHub Pages
         run: |
