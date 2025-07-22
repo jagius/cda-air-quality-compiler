@@ -41,7 +41,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Grande Prairie, ab, Canada",Low Risk,55.170691,-118.7884808,Low (1-3),Grande Prairie
 "Hinton, ab, Canada",Low Risk,53.399067,-117.5794057,Low (1-3),Hinton
 "Lamont County, ab, Canada",Low Risk,53.7901566,-112.5577641,Low (1-3),Lamont County
-"Lethbridge, ab, Canada",Moderate Risk,49.6956181,-112.8451067,Moderate (4-6),Lethbridge
+"Lethbridge, ab, Canada",Low Risk,49.6956181,-112.8451067,Low (1-3),Lethbridge
 "Medicine Hat, ab, Canada",Moderate Risk,50.0290218,-110.7031976,Moderate (4-6),Medicine Hat
 "Red Deer, ab, Canada",Low Risk,52.2690328,-113.8114955,Low (1-3),Red Deer
 "St. Albert, ab, Canada",Low Risk,53.6539037,-113.6292701,Low (1-3),St. Albert
@@ -49,11 +49,11 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Sturgeon County, ab, Canada",Low Risk,53.81567,-113.562732,Low (1-3),Sturgeon County
 "Wood Buffalo - south, ab, Canada",Low Risk,57.6066083,-111.6495855,Low (1-3),Wood Buffalo - south
 "Buffalo Narrows, sk, Canada",Low Risk,55.8628398,-108.4794604,Low (1-3),Buffalo Narrows
-"Estevan, sk, Canada",Moderate Risk,49.1390842,-102.9914807,Moderate (4-6),Estevan
-"Prince Albert, sk, Canada",High Risk,53.2033494,-105.7530705,High (7-9),Prince Albert
-"Regina, sk, Canada",High Risk,50.4452112,-104.6188944,High (7-9),Regina
+"Estevan, sk, Canada",Low Risk,49.1390842,-102.9914807,Low (1-3),Estevan
+"Prince Albert, sk, Canada",Moderate Risk,53.2033494,-105.7530705,Moderate (4-6),Prince Albert
+"Regina, sk, Canada",Moderate Risk,50.4452112,-104.6188944,Moderate (4-6),Regina
 "Saskatoon, sk, Canada",High Risk,52.157902,-106.6701577,High (7-9),Saskatoon
-"Swift Current, sk, Canada",Moderate Risk,50.285069,-107.7971722,Moderate (4-6),Swift Current
+"Swift Current, sk, Canada",Very High Risk,50.285069,-107.7971722,Very high (10+),Swift Current
 "Brandon, mb, Canada",Low Risk,49.8437486,-99.9514807,Low (1-3),Brandon
 "Flin Flon, mb, Canada",Low Risk,54.7751389,-101.8493669,Low (1-3),Flin Flon
 "Winnipeg, mb, Canada",Low Risk,49.8954221,-97.1385145,Low (1-3),Winnipeg
@@ -69,7 +69,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Guelph, on, Canada",Low Risk,43.5448048,-80.2481666,Low (1-3),Guelph
 "Hamilton, on, Canada",Low Risk,43.2557206,-79.8711024,Low (1-3),Hamilton
 "Hamilton Downtown, on, Canada",Low Risk,,,Low (1-3),Hamilton Downtown
-"Hamilton Mountain, on, Canada",Low Risk,,,Low (1-3),Hamilton Mountain
+"Hamilton Mountain, on, Canada",,,,,Hamilton Mountain
 "Hamilton West, on, Canada",Low Risk,,,Low (1-3),Hamilton West
 "Kingston, on, Canada",Low Risk,44.2311717,-76.4859544,Low (1-3),Kingston
 "Kitchener, on, Canada",Low Risk,43.4516395,-80.4925337,Low (1-3),Kitchener
@@ -120,14 +120,14 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "St. Peters Bay, pe, Canada",Low Risk,46.4174453,-62.5810333,Low (1-3),St. Peters Bay
 "Summerside (Wellington), pe, Canada",Low Risk,46.4538293,-63.9995297,Low (1-3),Summerside (Wellington)
 "Burin, nl, Canada",Low Risk,47.0777517,-55.1762977,Low (1-3),Burin
-"Corner Brook, nl, Canada",Low Risk,48.9523316,-57.9460401,Low (1-3),Corner Brook
-"Grand Falls-Windsor, nl, Canada",Low Risk,48.9279047,-55.6598977,Low (1-3),Grand Falls-Windsor
+"Corner Brook, nl, Canada",,48.9523316,-57.9460401,,Corner Brook
+"Grand Falls-Windsor, nl, Canada",,48.9279047,-55.6598977,,Grand Falls-Windsor
 "Labrador City, nl, Canada",Low Risk,52.9383852,-66.9153137,Low (1-3),Labrador City
 "St. John's, nl, Canada",Low Risk,47.5556097,-52.7452511,Low (1-3),St. John's
 "Whitehorse, yt, Canada",Low Risk,60.7197137,-135.0522761,Low (1-3),Whitehorse
 "Fort Simpson, nt, Canada",,61.86330512,-121.3537357,,Fort Simpson
 "Fort Smith, nt, Canada",Low Risk,60.00552,-111.8849379,Low (1-3),Fort Smith
-"Inuvik, nt, Canada",Moderate Risk,68.3607437,-133.7230177,Moderate (4-6),Inuvik
+"Inuvik, nt, Canada",Low Risk,68.3607437,-133.7230177,Low (1-3),Inuvik
 "Norman Wells, nt, Canada",,65.2814938,-126.8286524,,Norman Wells
 "Yellowknife, nt, Canada",Low Risk,62.4539717,-114.3717886,Low (1-3),Yellowknife
 "Arviat, nu, Canada",,61.1078279,-94.0623691,,Arviat
