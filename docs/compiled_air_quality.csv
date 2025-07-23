@@ -27,7 +27,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Whistler, bc, Canada",Low Risk,50.1161686,-122.9535117,Low (1-3),Whistler
 "Williams Lake, bc, Canada",Low Risk,52.1416736,-122.1416885,Low (1-3),Williams Lake
 "Airdrie, ab, Canada",Low Risk,51.2926968,-114.0134113,Low (1-3),Airdrie
-"Brooks, ab, Canada",Low Risk,50.56538876,-111.897462,Low (1-3),Brooks
+"Brooks, ab, Canada",High Risk,50.56538876,-111.897462,High (7-9),Brooks
 "Calgary, ab, Canada",Low Risk,51.0447331,-114.0718831,Low (1-3),Calgary
 "Cold Lake, ab, Canada",Low Risk,54.464249,-110.1731779,Low (1-3),Cold Lake
 "Drayton Valley, ab, Canada",Low Risk,53.2214945,-114.976746,Low (1-3),Drayton Valley
@@ -50,12 +50,12 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Wood Buffalo - south, ab, Canada",Low Risk,57.6066083,-111.6495855,Low (1-3),Wood Buffalo - south
 "Buffalo Narrows, sk, Canada",Low Risk,55.8628398,-108.4794604,Low (1-3),Buffalo Narrows
 "Estevan, sk, Canada",Low Risk,49.1390842,-102.9914807,Low (1-3),Estevan
-"Prince Albert, sk, Canada",Moderate Risk,53.2033494,-105.7530705,Moderate (4-6),Prince Albert
-"Regina, sk, Canada",Moderate Risk,50.4452112,-104.6188944,Moderate (4-6),Regina
-"Saskatoon, sk, Canada",High Risk,52.157902,-106.6701577,High (7-9),Saskatoon
-"Swift Current, sk, Canada",Very High Risk,50.285069,-107.7971722,Very high (10+),Swift Current
-"Brandon, mb, Canada",Low Risk,49.8437486,-99.9514807,Low (1-3),Brandon
-"Flin Flon, mb, Canada",Low Risk,54.7751389,-101.8493669,Low (1-3),Flin Flon
+"Prince Albert, sk, Canada",Very High Risk,53.2033494,-105.7530705,Very high (10+),Prince Albert
+"Regina, sk, Canada",High Risk,50.4452112,-104.6188944,High (7-9),Regina
+"Saskatoon, sk, Canada",Moderate Risk,52.157902,-106.6701577,Moderate (4-6),Saskatoon
+"Swift Current, sk, Canada",High Risk,50.285069,-107.7971722,High (7-9),Swift Current
+"Brandon, mb, Canada",Moderate Risk,49.8437486,-99.9514807,Moderate (4-6),Brandon
+"Flin Flon, mb, Canada",,54.7751389,-101.8493669,,Flin Flon
 "Winnipeg, mb, Canada",Low Risk,49.8954221,-97.1385145,Low (1-3),Winnipeg
 "Barrie, on, Canada",Low Risk,44.3893556,-79.6903316,Low (1-3),Barrie
 "Belleville, on, Canada",Low Risk,44.1627589,-77.3832315,Low (1-3),Belleville
@@ -69,7 +69,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Guelph, on, Canada",Low Risk,43.5448048,-80.2481666,Low (1-3),Guelph
 "Hamilton, on, Canada",Low Risk,43.2557206,-79.8711024,Low (1-3),Hamilton
 "Hamilton Downtown, on, Canada",Low Risk,,,Low (1-3),Hamilton Downtown
-"Hamilton Mountain, on, Canada",,,,,Hamilton Mountain
+"Hamilton Mountain, on, Canada",Low Risk,,,Low (1-3),Hamilton Mountain
 "Hamilton West, on, Canada",Low Risk,,,Low (1-3),Hamilton West
 "Kingston, on, Canada",Low Risk,44.2311717,-76.4859544,Low (1-3),Kingston
 "Kitchener, on, Canada",Low Risk,43.4516395,-80.4925337,Low (1-3),Kitchener
