@@ -16,7 +16,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Nanaimo, bc, Canada",Low Risk,49.1658836,-123.9400647,Low (1-3),Nanaimo
 "North Okanagan, bc, Canada",Low Risk,50.3398977,-118.7840936,Low (1-3),North Okanagan
 "Prince George, bc, Canada",Low Risk,53.9170641,-122.7496693,Low (1-3),Prince George
-"Quesnel, bc, Canada",Low Risk,52.9817372,-122.4949058,Low (1-3),Quesnel
+"Quesnel, bc, Canada",,52.9817372,-122.4949058,,Quesnel
 "Smithers, bc, Canada",Low Risk,54.782355,-127.1685541,Low (1-3),Smithers
 "South Okanagan, bc, Canada",Low Risk,53.7266683,-127.6476206,Low (1-3),South Okanagan
 "Sparwood, bc, Canada",Low Risk,49.7308665,-114.8861593,Low (1-3),Sparwood
@@ -25,7 +25,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Victoria/Saanich, bc, Canada",Low Risk,48.4284207,-123.3656444,Low (1-3),Victoria/Saanich
 "WestShore, bc, Canada",Low Risk,48.4474626,-123.4956337,Low (1-3),WestShore
 "Whistler, bc, Canada",Low Risk,50.1161686,-122.9535117,Low (1-3),Whistler
-"Williams Lake, bc, Canada",Low Risk,52.1416736,-122.1416885,Low (1-3),Williams Lake
+"Williams Lake, bc, Canada",Very High Risk,52.1416736,-122.1416885,Very high (10+),Williams Lake
 "Airdrie, ab, Canada",Low Risk,51.2926968,-114.0134113,Low (1-3),Airdrie
 "Brooks, ab, Canada",Low Risk,50.56538876,-111.897462,Low (1-3),Brooks
 "Calgary, ab, Canada",Low Risk,51.0447331,-114.0718831,Low (1-3),Calgary
@@ -85,9 +85,9 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Peterborough, on, Canada",Low Risk,44.3047061,-78.3199606,Low (1-3),Peterborough
 "Port Stanley, on, Canada",Low Risk,42.6641353,-81.2156329,Low (1-3),Port Stanley
 "Sarnia, on, Canada",Low Risk,42.974536,-82.4065901,Low (1-3),Sarnia
-"Sault Ste. Marie, on, Canada",Low Risk,46.5136494,-84.3357526,Low (1-3),Sault Ste. Marie
+"Sault Ste. Marie, on, Canada",Moderate Risk,46.5136494,-84.3357526,Moderate (4-6),Sault Ste. Marie
 "St. Catharines, on, Canada",Low Risk,43.1593745,-79.2468626,Low (1-3),St. Catharines
-"Sudbury, on, Canada",Low Risk,46.4917317,-80.993029,Low (1-3),Sudbury
+"Sudbury, on, Canada",Moderate Risk,46.4917317,-80.993029,Moderate (4-6),Sudbury
 "Thunder Bay, on, Canada",Moderate Risk,48.3808951,-89.2476823,Moderate (4-6),Thunder Bay
 "Tiverton, on, Canada",Low Risk,44.2676578,-81.5433231,Low (1-3),Tiverton
 "Toronto, on, Canada",Low Risk,43.653226,-79.3831843,Low (1-3),Toronto
@@ -95,9 +95,9 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Toronto East, on, Canada",Low Risk,,,Low (1-3),Toronto East
 "Toronto North, on, Canada",Low Risk,,,Low (1-3),Toronto North
 "Toronto West, on, Canada",Low Risk,,,Low (1-3),Toronto West
-"Windsor, on, Canada",Low Risk,42.3149367,-83.0363633,Low (1-3),Windsor
-"Windsor Downtown, on, Canada",Low Risk,,,Low (1-3),Windsor Downtown
-"Windsor West, on, Canada",Low Risk,,,Low (1-3),Windsor West
+"Windsor, on, Canada",Moderate Risk,42.3149367,-83.0363633,Moderate (4-6),Windsor
+"Windsor Downtown, on, Canada",Moderate Risk,,,Moderate (4-6),Windsor Downtown
+"Windsor West, on, Canada",Moderate Risk,,,Moderate (4-6),Windsor West
 "Gatineau, qc, Canada",,45.4765446,-75.7012723,,Gatineau
 "Montréal, qc, Canada",,45.5018869,-73.5673919,,Montréal
 "Québec, qc, Canada",,46.8130816,-71.2074596,,Québec
@@ -122,7 +122,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Burin, nl, Canada",Low Risk,47.0777517,-55.1762977,Low (1-3),Burin
 "Corner Brook, nl, Canada",Low Risk,48.9523316,-57.9460401,Low (1-3),Corner Brook
 "Grand Falls-Windsor, nl, Canada",Low Risk,48.9279047,-55.6598977,Low (1-3),Grand Falls-Windsor
-"Labrador City, nl, Canada",Low Risk,52.9383852,-66.9153137,Low (1-3),Labrador City
+"Labrador City, nl, Canada",,52.9383852,-66.9153137,,Labrador City
 "St. John's, nl, Canada",Low Risk,47.5556097,-52.7452511,Low (1-3),St. John's
 "Whitehorse, yt, Canada",,60.7197137,-135.0522761,,Whitehorse
 "Fort Simpson, nt, Canada",,61.86330512,-121.3537357,,Fort Simpson
