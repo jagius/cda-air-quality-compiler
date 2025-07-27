@@ -22,7 +22,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Sparwood, bc, Canada",Low Risk,49.7308665,-114.8861593,Low (1-3),Sparwood
 "Squamish, bc, Canada",Low Risk,49.7016339,-123.1558121,Low (1-3),Squamish
 "Terrace, bc, Canada",Low Risk,54.5181925,-128.603154,Low (1-3),Terrace
-"Victoria/Saanich, bc, Canada",,48.4284207,-123.3656444,,Victoria/Saanich
+"Victoria/Saanich, bc, Canada",Low Risk,48.4284207,-123.3656444,Low (1-3),Victoria/Saanich
 "WestShore, bc, Canada",Low Risk,48.4474626,-123.4956337,Low (1-3),WestShore
 "Whistler, bc, Canada",Low Risk,50.1161686,-122.9535117,Low (1-3),Whistler
 "Williams Lake, bc, Canada",,52.1416736,-122.1416885,,Williams Lake
@@ -34,8 +34,8 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Edmonton, ab, Canada",Low Risk,53.5460983,-113.4937266,Low (1-3),Edmonton
 "Edson, ab, Canada",Low Risk,53.585422,-116.4337219,Low (1-3),Edson
 "Fort Chipewyan, ab, Canada",Low Risk,58.7133284,-111.1574916,Low (1-3),Fort Chipewyan
-"Fort McKay, ab, Canada",Moderate Risk,57.186758,-111.636785,Moderate (4-6),Fort McKay
-"Fort McMurray, ab, Canada",Moderate Risk,56.7266231,-111.3790095,Moderate (4-6),Fort McMurray
+"Fort McKay, ab, Canada",Low Risk,57.186758,-111.636785,Low (1-3),Fort McKay
+"Fort McMurray, ab, Canada",Low Risk,56.7266231,-111.3790095,Low (1-3),Fort McMurray
 "Fort Saskatchewan, ab, Canada",Low Risk,53.6962239,-113.2163654,Low (1-3),Fort Saskatchewan
 "Genesee, ab, Canada",Low Risk,53.34453394,-114.3267988,Low (1-3),Genesee
 "Grande Prairie, ab, Canada",Low Risk,55.170691,-118.7884808,Low (1-3),Grande Prairie
@@ -47,16 +47,16 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "St. Albert, ab, Canada",Low Risk,53.6539037,-113.6292701,Low (1-3),St. Albert
 "Strathcona County, ab, Canada",Low Risk,53.5326776,-113.1553199,Low (1-3),Strathcona County
 "Sturgeon County, ab, Canada",Low Risk,53.81567,-113.562732,Low (1-3),Sturgeon County
-"Wood Buffalo - south, ab, Canada",Low Risk,57.6066083,-111.6495855,Low (1-3),Wood Buffalo - south
-"Buffalo Narrows, sk, Canada",Moderate Risk,55.8628398,-108.4794604,Moderate (4-6),Buffalo Narrows
+"Wood Buffalo - south, ab, Canada",Moderate Risk,57.6066083,-111.6495855,Moderate (4-6),Wood Buffalo - south
+"Buffalo Narrows, sk, Canada",Low Risk,55.8628398,-108.4794604,Low (1-3),Buffalo Narrows
 "Estevan, sk, Canada",Low Risk,49.1390842,-102.9914807,Low (1-3),Estevan
 "Prince Albert, sk, Canada",Low Risk,53.2033494,-105.7530705,Low (1-3),Prince Albert
 "Regina, sk, Canada",Low Risk,50.4452112,-104.6188944,Low (1-3),Regina
 "Saskatoon, sk, Canada",Low Risk,52.157902,-106.6701577,Low (1-3),Saskatoon
 "Swift Current, sk, Canada",Low Risk,50.285069,-107.7971722,Low (1-3),Swift Current
 "Brandon, mb, Canada",Low Risk,49.8437486,-99.9514807,Low (1-3),Brandon
-"Flin Flon, mb, Canada",High Risk,54.7751389,-101.8493669,High (7-9),Flin Flon
-"Winnipeg, mb, Canada",Moderate Risk,49.8954221,-97.1385145,Moderate (4-6),Winnipeg
+"Flin Flon, mb, Canada",Moderate Risk,54.7751389,-101.8493669,Moderate (4-6),Flin Flon
+"Winnipeg, mb, Canada",Low Risk,49.8954221,-97.1385145,Low (1-3),Winnipeg
 "Barrie, on, Canada",Low Risk,44.3893556,-79.6903316,Low (1-3),Barrie
 "Belleville, on, Canada",Low Risk,44.1627589,-77.3832315,Low (1-3),Belleville
 "Brampton, on, Canada",Low Risk,43.7315479,-79.7624177,Low (1-3),Brampton
@@ -85,9 +85,9 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Peterborough, on, Canada",Low Risk,44.3047061,-78.3199606,Low (1-3),Peterborough
 "Port Stanley, on, Canada",Low Risk,42.6641353,-81.2156329,Low (1-3),Port Stanley
 "Sarnia, on, Canada",Low Risk,42.974536,-82.4065901,Low (1-3),Sarnia
-"Sault Ste. Marie, on, Canada",Moderate Risk,46.5136494,-84.3357526,Moderate (4-6),Sault Ste. Marie
+"Sault Ste. Marie, on, Canada",Low Risk,46.5136494,-84.3357526,Low (1-3),Sault Ste. Marie
 "St. Catharines, on, Canada",Low Risk,43.1593745,-79.2468626,Low (1-3),St. Catharines
-"Sudbury, on, Canada",Moderate Risk,46.4917317,-80.993029,Moderate (4-6),Sudbury
+"Sudbury, on, Canada",Low Risk,46.4917317,-80.993029,Low (1-3),Sudbury
 "Thunder Bay, on, Canada",Low Risk,48.3808951,-89.2476823,Low (1-3),Thunder Bay
 "Tiverton, on, Canada",Low Risk,44.2676578,-81.5433231,Low (1-3),Tiverton
 "Toronto, on, Canada",Low Risk,43.653226,-79.3831843,Low (1-3),Toronto
