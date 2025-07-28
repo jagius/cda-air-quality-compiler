@@ -26,7 +26,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "WestShore, bc, Canada",Low Risk,48.4474626,-123.4956337,Low (1-3),WestShore
 "Whistler, bc, Canada",Low Risk,50.1161686,-122.9535117,Low (1-3),Whistler
 "Williams Lake, bc, Canada",,52.1416736,-122.1416885,,Williams Lake
-"Airdrie, ab, Canada",,51.2926968,-114.0134113,,Airdrie
+"Airdrie, ab, Canada",Low Risk,51.2926968,-114.0134113,Low (1-3),Airdrie
 "Brooks, ab, Canada",Low Risk,50.56538876,-111.897462,Low (1-3),Brooks
 "Calgary, ab, Canada",Low Risk,51.0447331,-114.0718831,Low (1-3),Calgary
 "Cold Lake, ab, Canada",Low Risk,54.464249,-110.1731779,Low (1-3),Cold Lake
@@ -52,10 +52,10 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Estevan, sk, Canada",Low Risk,49.1390842,-102.9914807,Low (1-3),Estevan
 "Prince Albert, sk, Canada",Moderate Risk,53.2033494,-105.7530705,Moderate (4-6),Prince Albert
 "Regina, sk, Canada",Low Risk,50.4452112,-104.6188944,Low (1-3),Regina
-"Saskatoon, sk, Canada",Moderate Risk,52.157902,-106.6701577,Moderate (4-6),Saskatoon
+"Saskatoon, sk, Canada",Low Risk,52.157902,-106.6701577,Low (1-3),Saskatoon
 "Swift Current, sk, Canada",Low Risk,50.285069,-107.7971722,Low (1-3),Swift Current
 "Brandon, mb, Canada",Low Risk,49.8437486,-99.9514807,Low (1-3),Brandon
-"Flin Flon, mb, Canada",Moderate Risk,54.7751389,-101.8493669,Moderate (4-6),Flin Flon
+"Flin Flon, mb, Canada",High Risk,54.7751389,-101.8493669,High (7-9),Flin Flon
 "Winnipeg, mb, Canada",Low Risk,49.8954221,-97.1385145,Low (1-3),Winnipeg
 "Barrie, on, Canada",Low Risk,44.3893556,-79.6903316,Low (1-3),Barrie
 "Belleville, on, Canada",Low Risk,44.1627589,-77.3832315,Low (1-3),Belleville
@@ -95,16 +95,16 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Toronto East, on, Canada",Low Risk,,,Low (1-3),Toronto East
 "Toronto North, on, Canada",Low Risk,,,Low (1-3),Toronto North
 "Toronto West, on, Canada",Low Risk,,,Low (1-3),Toronto West
-"Windsor, on, Canada",Moderate Risk,42.3149367,-83.0363633,Moderate (4-6),Windsor
-"Windsor Downtown, on, Canada",Moderate Risk,,,Moderate (4-6),Windsor Downtown
-"Windsor West, on, Canada",Moderate Risk,,,Moderate (4-6),Windsor West
+"Windsor, on, Canada",Low Risk,42.3149367,-83.0363633,Low (1-3),Windsor
+"Windsor Downtown, on, Canada",Low Risk,,,Low (1-3),Windsor Downtown
+"Windsor West, on, Canada",Low Risk,,,Low (1-3),Windsor West
 "Gatineau, qc, Canada",,45.4765446,-75.7012723,,Gatineau
 "Montréal, qc, Canada",,45.5018869,-73.5673919,,Montréal
 "Québec, qc, Canada",,46.8130816,-71.2074596,,Québec
 "Bathurst, nb, Canada",Low Risk,47.6183507,-65.6513358,Low (1-3),Bathurst
 "Campbellton, nb, Canada",Low Risk,48.007399,-66.6722057,Low (1-3),Campbellton
 "Edmundston, nb, Canada",Low Risk,47.3690127,-68.3266741,Low (1-3),Edmundston
-"Fredericton, nb, Canada",Moderate Risk,45.9635895,-66.6431151,Moderate (4-6),Fredericton
+"Fredericton, nb, Canada",Low Risk,45.9635895,-66.6431151,Low (1-3),Fredericton
 "Miramichi, nb, Canada",Moderate Risk,47.0295709,-65.5059061,Moderate (4-6),Miramichi
 "Moncton, nb, Canada",Moderate Risk,46.0878165,-64.7782313,Moderate (4-6),Moncton
 "Saint Andrews, nb, Canada",Low Risk,45.0738432,-67.0530897,Low (1-3),Saint Andrews
