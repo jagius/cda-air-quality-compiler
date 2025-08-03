@@ -48,15 +48,15 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Strathcona County, ab, Canada",Low Risk,53.5326776,-113.1553199,Low (1-3),Strathcona County
 "Sturgeon County, ab, Canada",Low Risk,53.81567,-113.562732,Low (1-3),Sturgeon County
 "Wood Buffalo - south, ab, Canada",Low Risk,57.6066083,-111.6495855,Low (1-3),Wood Buffalo - south
-"Buffalo Narrows, sk, Canada",High Risk,55.8628398,-108.4794604,High (7-9),Buffalo Narrows
-"Estevan, sk, Canada",High Risk,49.1390842,-102.9914807,High (7-9),Estevan
-"Prince Albert, sk, Canada",High Risk,53.2033494,-105.7530705,High (7-9),Prince Albert
-"Regina, sk, Canada",Moderate Risk,50.4452112,-104.6188944,Moderate (4-6),Regina
-"Saskatoon, sk, Canada",Moderate Risk,52.157902,-106.6701577,Moderate (4-6),Saskatoon
-"Swift Current, sk, Canada",Moderate Risk,50.285069,-107.7971722,Moderate (4-6),Swift Current
-"Brandon, mb, Canada",High Risk,49.8437486,-99.9514807,High (7-9),Brandon
-"Flin Flon, mb, Canada",Low Risk,54.7751389,-101.8493669,Low (1-3),Flin Flon
-"Winnipeg, mb, Canada",Very High Risk,49.8954221,-97.1385145,Very high (10+),Winnipeg
+"Buffalo Narrows, sk, Canada",,55.8628398,-108.4794604,,Buffalo Narrows
+"Estevan, sk, Canada",,49.1390842,-102.9914807,,Estevan
+"Prince Albert, sk, Canada",,53.2033494,-105.7530705,,Prince Albert
+"Regina, sk, Canada",,50.4452112,-104.6188944,,Regina
+"Saskatoon, sk, Canada",,52.157902,-106.6701577,,Saskatoon
+"Swift Current, sk, Canada",,50.285069,-107.7971722,,Swift Current
+"Brandon, mb, Canada",,49.8437486,-99.9514807,,Brandon
+"Flin Flon, mb, Canada",,54.7751389,-101.8493669,,Flin Flon
+"Winnipeg, mb, Canada",,49.8954221,-97.1385145,,Winnipeg
 "Barrie, on, Canada",,44.3893556,-79.6903316,,Barrie
 "Belleville, on, Canada",,44.1627589,-77.3832315,,Belleville
 "Brampton, on, Canada",,43.7315479,-79.7624177,,Brampton
@@ -101,14 +101,14 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Gatineau, qc, Canada",,45.4765446,-75.7012723,,Gatineau
 "Montréal, qc, Canada",,45.5018869,-73.5673919,,Montréal
 "Québec, qc, Canada",,46.8130816,-71.2074596,,Québec
-"Bathurst, nb, Canada",Low Risk,47.6183507,-65.6513358,Low (1-3),Bathurst
-"Campbellton, nb, Canada",Low Risk,48.007399,-66.6722057,Low (1-3),Campbellton
-"Edmundston, nb, Canada",Low Risk,47.3690127,-68.3266741,Low (1-3),Edmundston
-"Fredericton, nb, Canada",Low Risk,45.9635895,-66.6431151,Low (1-3),Fredericton
-"Miramichi, nb, Canada",Low Risk,47.0295709,-65.5059061,Low (1-3),Miramichi
-"Moncton, nb, Canada",Low Risk,46.0878165,-64.7782313,Low (1-3),Moncton
-"Saint Andrews, nb, Canada",Low Risk,45.0738432,-67.0530897,Low (1-3),Saint Andrews
-"Saint John, nb, Canada",Low Risk,45.2733153,-66.0633081,Low (1-3),Saint John
+"Bathurst, nb, Canada",,47.6183507,-65.6513358,,Bathurst
+"Campbellton, nb, Canada",,48.007399,-66.6722057,,Campbellton
+"Edmundston, nb, Canada",,47.3690127,-68.3266741,,Edmundston
+"Fredericton, nb, Canada",,45.9635895,-66.6431151,,Fredericton
+"Miramichi, nb, Canada",,47.0295709,-65.5059061,,Miramichi
+"Moncton, nb, Canada",,46.0878165,-64.7782313,,Moncton
+"Saint Andrews, nb, Canada",,45.0738432,-67.0530897,,Saint Andrews
+"Saint John, nb, Canada",,45.2733153,-66.0633081,,Saint John
 "Halifax, ns, Canada",,44.8857087,-63.1005273,,Halifax
 "Halifax - Lake Major, ns, Canada",,,,,Halifax - Lake Major
 "Halifax Downtown, ns, Canada",,,,,Halifax Downtown
@@ -124,12 +124,12 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Grand Falls-Windsor, nl, Canada",Low Risk,48.9279047,-55.6598977,Low (1-3),Grand Falls-Windsor
 "Labrador City, nl, Canada",,52.9383852,-66.9153137,,Labrador City
 "St. John's, nl, Canada",Low Risk,47.5556097,-52.7452511,Low (1-3),St. John's
-"Whitehorse, yt, Canada",Low Risk,60.7197137,-135.0522761,Low (1-3),Whitehorse
+"Whitehorse, yt, Canada",,60.7197137,-135.0522761,,Whitehorse
 "Fort Simpson, nt, Canada",,61.86330512,-121.3537357,,Fort Simpson
-"Fort Smith, nt, Canada",,60.00552,-111.8849379,,Fort Smith
-"Inuvik, nt, Canada",,68.3607437,-133.7230177,,Inuvik
+"Fort Smith, nt, Canada",Moderate Risk,60.00552,-111.8849379,Moderate (4-6),Fort Smith
+"Inuvik, nt, Canada",Low Risk,68.3607437,-133.7230177,Low (1-3),Inuvik
 "Norman Wells, nt, Canada",,65.2814938,-126.8286524,,Norman Wells
-"Yellowknife, nt, Canada",,62.4539717,-114.3717886,,Yellowknife
+"Yellowknife, nt, Canada",Moderate Risk,62.4539717,-114.3717886,Moderate (4-6),Yellowknife
 "Arviat, nu, Canada",,61.1078279,-94.0623691,,Arviat
 "Iqaluit, nu, Canada",,63.746693,-68.5169669,,Iqaluit
 "Kugluktuk, nu, Canada",,67.8252313,-115.0965503,,Kugluktuk
