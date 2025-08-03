@@ -54,9 +54,9 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Regina, sk, Canada",Moderate Risk,50.4452112,-104.6188944,Moderate (4-6),Regina
 "Saskatoon, sk, Canada",Moderate Risk,52.157902,-106.6701577,Moderate (4-6),Saskatoon
 "Swift Current, sk, Canada",Moderate Risk,50.285069,-107.7971722,Moderate (4-6),Swift Current
-"Brandon, mb, Canada",,49.8437486,-99.9514807,,Brandon
-"Flin Flon, mb, Canada",,54.7751389,-101.8493669,,Flin Flon
-"Winnipeg, mb, Canada",,49.8954221,-97.1385145,,Winnipeg
+"Brandon, mb, Canada",High Risk,49.8437486,-99.9514807,High (7-9),Brandon
+"Flin Flon, mb, Canada",Low Risk,54.7751389,-101.8493669,Low (1-3),Flin Flon
+"Winnipeg, mb, Canada",Very High Risk,49.8954221,-97.1385145,Very high (10+),Winnipeg
 "Barrie, on, Canada",,44.3893556,-79.6903316,,Barrie
 "Belleville, on, Canada",,44.1627589,-77.3832315,,Belleville
 "Brampton, on, Canada",,43.7315479,-79.7624177,,Brampton
@@ -101,14 +101,14 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Gatineau, qc, Canada",,45.4765446,-75.7012723,,Gatineau
 "Montréal, qc, Canada",,45.5018869,-73.5673919,,Montréal
 "Québec, qc, Canada",,46.8130816,-71.2074596,,Québec
-"Bathurst, nb, Canada",,47.6183507,-65.6513358,,Bathurst
-"Campbellton, nb, Canada",,48.007399,-66.6722057,,Campbellton
-"Edmundston, nb, Canada",,47.3690127,-68.3266741,,Edmundston
-"Fredericton, nb, Canada",,45.9635895,-66.6431151,,Fredericton
-"Miramichi, nb, Canada",,47.0295709,-65.5059061,,Miramichi
-"Moncton, nb, Canada",,46.0878165,-64.7782313,,Moncton
-"Saint Andrews, nb, Canada",,45.0738432,-67.0530897,,Saint Andrews
-"Saint John, nb, Canada",,45.2733153,-66.0633081,,Saint John
+"Bathurst, nb, Canada",Low Risk,47.6183507,-65.6513358,Low (1-3),Bathurst
+"Campbellton, nb, Canada",Low Risk,48.007399,-66.6722057,Low (1-3),Campbellton
+"Edmundston, nb, Canada",Low Risk,47.3690127,-68.3266741,Low (1-3),Edmundston
+"Fredericton, nb, Canada",Low Risk,45.9635895,-66.6431151,Low (1-3),Fredericton
+"Miramichi, nb, Canada",Low Risk,47.0295709,-65.5059061,Low (1-3),Miramichi
+"Moncton, nb, Canada",Low Risk,46.0878165,-64.7782313,Low (1-3),Moncton
+"Saint Andrews, nb, Canada",Low Risk,45.0738432,-67.0530897,Low (1-3),Saint Andrews
+"Saint John, nb, Canada",Low Risk,45.2733153,-66.0633081,Low (1-3),Saint John
 "Halifax, ns, Canada",,44.8857087,-63.1005273,,Halifax
 "Halifax - Lake Major, ns, Canada",,,,,Halifax - Lake Major
 "Halifax Downtown, ns, Canada",,,,,Halifax Downtown
@@ -124,7 +124,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Grand Falls-Windsor, nl, Canada",Low Risk,48.9279047,-55.6598977,Low (1-3),Grand Falls-Windsor
 "Labrador City, nl, Canada",,52.9383852,-66.9153137,,Labrador City
 "St. John's, nl, Canada",Low Risk,47.5556097,-52.7452511,Low (1-3),St. John's
-"Whitehorse, yt, Canada",,60.7197137,-135.0522761,,Whitehorse
+"Whitehorse, yt, Canada",Low Risk,60.7197137,-135.0522761,Low (1-3),Whitehorse
 "Fort Simpson, nt, Canada",,61.86330512,-121.3537357,,Fort Simpson
 "Fort Smith, nt, Canada",,60.00552,-111.8849379,,Fort Smith
 "Inuvik, nt, Canada",,68.3607437,-133.7230177,,Inuvik
