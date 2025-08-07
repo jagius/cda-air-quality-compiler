@@ -18,7 +18,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Prince George, bc, Canada",Low Risk,53.9170641,-122.7496693,Low (1-3),Prince George
 "Quesnel, bc, Canada",Low Risk,52.9817372,-122.4949058,Low (1-3),Quesnel
 "Smithers, bc, Canada",Low Risk,54.782355,-127.1685541,Low (1-3),Smithers
-"South Okanagan, bc, Canada",,53.7266683,-127.6476206,,South Okanagan
+"South Okanagan, bc, Canada",Low Risk,53.7266683,-127.6476206,Low (1-3),South Okanagan
 "Sparwood, bc, Canada",Low Risk,49.7308665,-114.8861593,Low (1-3),Sparwood
 "Squamish, bc, Canada",Low Risk,49.7016339,-123.1558121,Low (1-3),Squamish
 "Terrace, bc, Canada",Low Risk,54.5181925,-128.603154,Low (1-3),Terrace
@@ -26,89 +26,89 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "WestShore, bc, Canada",Low Risk,48.4474626,-123.4956337,Low (1-3),WestShore
 "Whistler, bc, Canada",Low Risk,50.1161686,-122.9535117,Low (1-3),Whistler
 "Williams Lake, bc, Canada",Low Risk,52.1416736,-122.1416885,Low (1-3),Williams Lake
-"Airdrie, ab, Canada",Low Risk,51.2926968,-114.0134113,Low (1-3),Airdrie
-"Brooks, ab, Canada",Low Risk,50.56538876,-111.897462,Low (1-3),Brooks
-"Calgary, ab, Canada",Low Risk,51.0447331,-114.0718831,Low (1-3),Calgary
-"Cold Lake, ab, Canada",Low Risk,54.464249,-110.1731779,Low (1-3),Cold Lake
-"Drayton Valley, ab, Canada",Low Risk,53.2214945,-114.976746,Low (1-3),Drayton Valley
-"Edmonton, ab, Canada",Low Risk,53.5460983,-113.4937266,Low (1-3),Edmonton
+"Airdrie, ab, Canada",,51.2926968,-114.0134113,,Airdrie
+"Brooks, ab, Canada",,50.56538876,-111.897462,,Brooks
+"Calgary, ab, Canada",,51.0447331,-114.0718831,,Calgary
+"Cold Lake, ab, Canada",,54.464249,-110.1731779,,Cold Lake
+"Drayton Valley, ab, Canada",,53.2214945,-114.976746,,Drayton Valley
+"Edmonton, ab, Canada",,53.5460983,-113.4937266,,Edmonton
 "Edson, ab, Canada",,53.585422,-116.4337219,,Edson
-"Fort Chipewyan, ab, Canada",Low Risk,58.7133284,-111.1574916,Low (1-3),Fort Chipewyan
-"Fort McKay, ab, Canada",Moderate Risk,57.186758,-111.636785,Moderate (4-6),Fort McKay
-"Fort McMurray, ab, Canada",Low Risk,56.7266231,-111.3790095,Low (1-3),Fort McMurray
-"Fort Saskatchewan, ab, Canada",Low Risk,53.6962239,-113.2163654,Low (1-3),Fort Saskatchewan
-"Genesee, ab, Canada",Low Risk,53.34453394,-114.3267988,Low (1-3),Genesee
-"Grande Prairie, ab, Canada",Low Risk,55.170691,-118.7884808,Low (1-3),Grande Prairie
-"Hinton, ab, Canada",Low Risk,53.399067,-117.5794057,Low (1-3),Hinton
-"Lamont County, ab, Canada",Low Risk,53.7901566,-112.5577641,Low (1-3),Lamont County
-"Lethbridge, ab, Canada",Low Risk,49.6956181,-112.8451067,Low (1-3),Lethbridge
-"Medicine Hat, ab, Canada",Low Risk,50.0290218,-110.7031976,Low (1-3),Medicine Hat
-"Red Deer, ab, Canada",Low Risk,52.2690328,-113.8114955,Low (1-3),Red Deer
-"St. Albert, ab, Canada",Low Risk,53.6539037,-113.6292701,Low (1-3),St. Albert
-"Strathcona County, ab, Canada",Low Risk,53.5326776,-113.1553199,Low (1-3),Strathcona County
-"Sturgeon County, ab, Canada",Low Risk,53.81567,-113.562732,Low (1-3),Sturgeon County
-"Wood Buffalo - south, ab, Canada",Low Risk,57.6066083,-111.6495855,Low (1-3),Wood Buffalo - south
-"Buffalo Narrows, sk, Canada",High Risk,55.8628398,-108.4794604,High (7-9),Buffalo Narrows
-"Estevan, sk, Canada",High Risk,49.1390842,-102.9914807,High (7-9),Estevan
-"Prince Albert, sk, Canada",High Risk,53.2033494,-105.7530705,High (7-9),Prince Albert
-"Regina, sk, Canada",Moderate Risk,50.4452112,-104.6188944,Moderate (4-6),Regina
-"Saskatoon, sk, Canada",Moderate Risk,52.157902,-106.6701577,Moderate (4-6),Saskatoon
-"Swift Current, sk, Canada",Moderate Risk,50.285069,-107.7971722,Moderate (4-6),Swift Current
-"Brandon, mb, Canada",,49.8437486,-99.9514807,,Brandon
-"Flin Flon, mb, Canada",,54.7751389,-101.8493669,,Flin Flon
-"Winnipeg, mb, Canada",,49.8954221,-97.1385145,,Winnipeg
-"Barrie, on, Canada",Low Risk,44.3893556,-79.6903316,Low (1-3),Barrie
-"Belleville, on, Canada",Low Risk,44.1627589,-77.3832315,Low (1-3),Belleville
-"Brampton, on, Canada",Low Risk,43.7315479,-79.7624177,Low (1-3),Brampton
-"Brantford, on, Canada",Low Risk,43.1393867,-80.2644254,Low (1-3),Brantford
-"Burlington, on, Canada",Low Risk,43.3255196,-79.7990319,Low (1-3),Burlington
-"Chatham, on, Canada",Moderate Risk,42.4048018,-82.1910376,Moderate (4-6),Chatham
-"Cornwall, on, Canada",Low Risk,45.0212762,-74.730345,Low (1-3),Cornwall
-"Dorset, on, Canada",Low Risk,45.2444301,-78.8939439,Low (1-3),Dorset
-"Grand Bend, on, Canada",Moderate Risk,43.3130397,-81.7562242,Moderate (4-6),Grand Bend
-"Guelph, on, Canada",Moderate Risk,43.5448048,-80.2481666,Moderate (4-6),Guelph
-"Hamilton, on, Canada",Moderate Risk,43.2557206,-79.8711024,Moderate (4-6),Hamilton
-"Hamilton Downtown, on, Canada",Moderate Risk,,,Moderate (4-6),Hamilton Downtown
-"Hamilton Mountain, on, Canada",Low Risk,,,Low (1-3),Hamilton Mountain
-"Hamilton West, on, Canada",Low Risk,,,Low (1-3),Hamilton West
-"Kingston, on, Canada",Low Risk,44.2311717,-76.4859544,Low (1-3),Kingston
-"Kitchener, on, Canada",Moderate Risk,43.4516395,-80.4925337,Moderate (4-6),Kitchener
-"London, on, Canada",Low Risk,42.9849233,-81.2452768,Low (1-3),London
-"Milton, on, Canada",Moderate Risk,43.5182991,-79.8774042,Moderate (4-6),Milton
-"Mississauga, on, Canada",Low Risk,43.5890452,-79.6441198,Low (1-3),Mississauga
-"Newmarket, on, Canada",Low Risk,44.059187,-79.461256,Low (1-3),Newmarket
-"North Bay, on, Canada",Low Risk,46.3091152,-79.4608204,Low (1-3),North Bay
-"Oakville, on, Canada",Moderate Risk,43.467517,-79.6876659,Moderate (4-6),Oakville
-"Oshawa, on, Canada",Low Risk,43.8970929,-78.8657912,Low (1-3),Oshawa
-"Ottawa, on, Canada",Low Risk,45.4215296,-75.6971931,Low (1-3),Ottawa
-"Parry Sound, on, Canada",Low Risk,45.3473925,-80.034783,Low (1-3),Parry Sound
-"Peterborough, on, Canada",Low Risk,44.3047061,-78.3199606,Low (1-3),Peterborough
-"Port Stanley, on, Canada",Low Risk,42.6641353,-81.2156329,Low (1-3),Port Stanley
-"Sarnia, on, Canada",Moderate Risk,42.974536,-82.4065901,Moderate (4-6),Sarnia
-"Sault Ste. Marie, on, Canada",Low Risk,46.5136494,-84.3357526,Low (1-3),Sault Ste. Marie
-"St. Catharines, on, Canada",Low Risk,43.1593745,-79.2468626,Low (1-3),St. Catharines
-"Sudbury, on, Canada",Low Risk,46.4917317,-80.993029,Low (1-3),Sudbury
-"Thunder Bay, on, Canada",High Risk,48.3808951,-89.2476823,High (7-9),Thunder Bay
-"Tiverton, on, Canada",Low Risk,44.2676578,-81.5433231,Low (1-3),Tiverton
-"Toronto, on, Canada",Moderate Risk,43.653226,-79.3831843,Moderate (4-6),Toronto
-"Toronto Downtown, on, Canada",Low Risk,,,Low (1-3),Toronto Downtown
-"Toronto East, on, Canada",Low Risk,,,Low (1-3),Toronto East
-"Toronto North, on, Canada",Moderate Risk,,,Moderate (4-6),Toronto North
-"Toronto West, on, Canada",Moderate Risk,,,Moderate (4-6),Toronto West
-"Windsor, on, Canada",Moderate Risk,42.3149367,-83.0363633,Moderate (4-6),Windsor
-"Windsor Downtown, on, Canada",Moderate Risk,,,Moderate (4-6),Windsor Downtown
-"Windsor West, on, Canada",Moderate Risk,,,Moderate (4-6),Windsor West
+"Fort Chipewyan, ab, Canada",,58.7133284,-111.1574916,,Fort Chipewyan
+"Fort McKay, ab, Canada",,57.186758,-111.636785,,Fort McKay
+"Fort McMurray, ab, Canada",,56.7266231,-111.3790095,,Fort McMurray
+"Fort Saskatchewan, ab, Canada",,53.6962239,-113.2163654,,Fort Saskatchewan
+"Genesee, ab, Canada",,53.34453394,-114.3267988,,Genesee
+"Grande Prairie, ab, Canada",,55.170691,-118.7884808,,Grande Prairie
+"Hinton, ab, Canada",,53.399067,-117.5794057,,Hinton
+"Lamont County, ab, Canada",,53.7901566,-112.5577641,,Lamont County
+"Lethbridge, ab, Canada",,49.6956181,-112.8451067,,Lethbridge
+"Medicine Hat, ab, Canada",,50.0290218,-110.7031976,,Medicine Hat
+"Red Deer, ab, Canada",,52.2690328,-113.8114955,,Red Deer
+"St. Albert, ab, Canada",,53.6539037,-113.6292701,,St. Albert
+"Strathcona County, ab, Canada",,53.5326776,-113.1553199,,Strathcona County
+"Sturgeon County, ab, Canada",,53.81567,-113.562732,,Sturgeon County
+"Wood Buffalo - south, ab, Canada",,57.6066083,-111.6495855,,Wood Buffalo - south
+"Buffalo Narrows, sk, Canada",,55.8628398,-108.4794604,,Buffalo Narrows
+"Estevan, sk, Canada",,49.1390842,-102.9914807,,Estevan
+"Prince Albert, sk, Canada",,53.2033494,-105.7530705,,Prince Albert
+"Regina, sk, Canada",,50.4452112,-104.6188944,,Regina
+"Saskatoon, sk, Canada",,52.157902,-106.6701577,,Saskatoon
+"Swift Current, sk, Canada",,50.285069,-107.7971722,,Swift Current
+"Brandon, mb, Canada",High Risk,49.8437486,-99.9514807,High (7-9),Brandon
+"Flin Flon, mb, Canada",Low Risk,54.7751389,-101.8493669,Low (1-3),Flin Flon
+"Winnipeg, mb, Canada",Very High Risk,49.8954221,-97.1385145,Very high (10+),Winnipeg
+"Barrie, on, Canada",,44.3893556,-79.6903316,,Barrie
+"Belleville, on, Canada",,44.1627589,-77.3832315,,Belleville
+"Brampton, on, Canada",,43.7315479,-79.7624177,,Brampton
+"Brantford, on, Canada",,43.1393867,-80.2644254,,Brantford
+"Burlington, on, Canada",,43.3255196,-79.7990319,,Burlington
+"Chatham, on, Canada",,42.4048018,-82.1910376,,Chatham
+"Cornwall, on, Canada",,45.0212762,-74.730345,,Cornwall
+"Dorset, on, Canada",,45.2444301,-78.8939439,,Dorset
+"Grand Bend, on, Canada",,43.3130397,-81.7562242,,Grand Bend
+"Guelph, on, Canada",,43.5448048,-80.2481666,,Guelph
+"Hamilton, on, Canada",,43.2557206,-79.8711024,,Hamilton
+"Hamilton Downtown, on, Canada",,,,,Hamilton Downtown
+"Hamilton Mountain, on, Canada",,,,,Hamilton Mountain
+"Hamilton West, on, Canada",,,,,Hamilton West
+"Kingston, on, Canada",,44.2311717,-76.4859544,,Kingston
+"Kitchener, on, Canada",,43.4516395,-80.4925337,,Kitchener
+"London, on, Canada",,42.9849233,-81.2452768,,London
+"Milton, on, Canada",,43.5182991,-79.8774042,,Milton
+"Mississauga, on, Canada",,43.5890452,-79.6441198,,Mississauga
+"Newmarket, on, Canada",,44.059187,-79.461256,,Newmarket
+"North Bay, on, Canada",,46.3091152,-79.4608204,,North Bay
+"Oakville, on, Canada",,43.467517,-79.6876659,,Oakville
+"Oshawa, on, Canada",,43.8970929,-78.8657912,,Oshawa
+"Ottawa, on, Canada",,45.4215296,-75.6971931,,Ottawa
+"Parry Sound, on, Canada",,45.3473925,-80.034783,,Parry Sound
+"Peterborough, on, Canada",,44.3047061,-78.3199606,,Peterborough
+"Port Stanley, on, Canada",,42.6641353,-81.2156329,,Port Stanley
+"Sarnia, on, Canada",,42.974536,-82.4065901,,Sarnia
+"Sault Ste. Marie, on, Canada",,46.5136494,-84.3357526,,Sault Ste. Marie
+"St. Catharines, on, Canada",,43.1593745,-79.2468626,,St. Catharines
+"Sudbury, on, Canada",,46.4917317,-80.993029,,Sudbury
+"Thunder Bay, on, Canada",,48.3808951,-89.2476823,,Thunder Bay
+"Tiverton, on, Canada",,44.2676578,-81.5433231,,Tiverton
+"Toronto, on, Canada",,43.653226,-79.3831843,,Toronto
+"Toronto Downtown, on, Canada",,,,,Toronto Downtown
+"Toronto East, on, Canada",,,,,Toronto East
+"Toronto North, on, Canada",,,,,Toronto North
+"Toronto West, on, Canada",,,,,Toronto West
+"Windsor, on, Canada",,42.3149367,-83.0363633,,Windsor
+"Windsor Downtown, on, Canada",,,,,Windsor Downtown
+"Windsor West, on, Canada",,,,,Windsor West
 "Gatineau, qc, Canada",,45.4765446,-75.7012723,,Gatineau
 "Montréal, qc, Canada",,45.5018869,-73.5673919,,Montréal
 "Québec, qc, Canada",,46.8130816,-71.2074596,,Québec
-"Bathurst, nb, Canada",,47.6183507,-65.6513358,,Bathurst
-"Campbellton, nb, Canada",,48.007399,-66.6722057,,Campbellton
-"Edmundston, nb, Canada",,47.3690127,-68.3266741,,Edmundston
-"Fredericton, nb, Canada",,45.9635895,-66.6431151,,Fredericton
-"Miramichi, nb, Canada",,47.0295709,-65.5059061,,Miramichi
-"Moncton, nb, Canada",,46.0878165,-64.7782313,,Moncton
-"Saint Andrews, nb, Canada",,45.0738432,-67.0530897,,Saint Andrews
-"Saint John, nb, Canada",,45.2733153,-66.0633081,,Saint John
+"Bathurst, nb, Canada",Low Risk,47.6183507,-65.6513358,Low (1-3),Bathurst
+"Campbellton, nb, Canada",Low Risk,48.007399,-66.6722057,Low (1-3),Campbellton
+"Edmundston, nb, Canada",Low Risk,47.3690127,-68.3266741,Low (1-3),Edmundston
+"Fredericton, nb, Canada",Low Risk,45.9635895,-66.6431151,Low (1-3),Fredericton
+"Miramichi, nb, Canada",Low Risk,47.0295709,-65.5059061,Low (1-3),Miramichi
+"Moncton, nb, Canada",Low Risk,46.0878165,-64.7782313,Low (1-3),Moncton
+"Saint Andrews, nb, Canada",Low Risk,45.0738432,-67.0530897,Low (1-3),Saint Andrews
+"Saint John, nb, Canada",Low Risk,45.2733153,-66.0633081,Low (1-3),Saint John
 "Halifax, ns, Canada",,44.8857087,-63.1005273,,Halifax
 "Halifax - Lake Major, ns, Canada",,,,,Halifax - Lake Major
 "Halifax Downtown, ns, Canada",,,,,Halifax Downtown
@@ -116,20 +116,20 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Pictou, ns, Canada",,45.6761282,-62.708845,,Pictou
 "Port Hawkesbury, ns, Canada",,45.6148755,-61.3518164,,Port Hawkesbury
 "Sydney, ns, Canada",,46.1367899,-60.194224,,Sydney
-"Charlottetown, pe, Canada",,46.23824,-63.1310704,,Charlottetown
-"St. Peters Bay, pe, Canada",,46.4174453,-62.5810333,,St. Peters Bay
-"Summerside (Wellington), pe, Canada",,46.4538293,-63.9995297,,Summerside (Wellington)
+"Charlottetown, pe, Canada",Low Risk,46.23824,-63.1310704,Low (1-3),Charlottetown
+"St. Peters Bay, pe, Canada",Low Risk,46.4174453,-62.5810333,Low (1-3),St. Peters Bay
+"Summerside (Wellington), pe, Canada",Low Risk,46.4538293,-63.9995297,Low (1-3),Summerside (Wellington)
 "Burin, nl, Canada",Low Risk,47.0777517,-55.1762977,Low (1-3),Burin
 "Corner Brook, nl, Canada",,48.9523316,-57.9460401,,Corner Brook
 "Grand Falls-Windsor, nl, Canada",Low Risk,48.9279047,-55.6598977,Low (1-3),Grand Falls-Windsor
 "Labrador City, nl, Canada",,52.9383852,-66.9153137,,Labrador City
 "St. John's, nl, Canada",Low Risk,47.5556097,-52.7452511,Low (1-3),St. John's
-"Whitehorse, yt, Canada",,60.7197137,-135.0522761,,Whitehorse
+"Whitehorse, yt, Canada",Low Risk,60.7197137,-135.0522761,Low (1-3),Whitehorse
 "Fort Simpson, nt, Canada",,61.86330512,-121.3537357,,Fort Simpson
-"Fort Smith, nt, Canada",,60.00552,-111.8849379,,Fort Smith
-"Inuvik, nt, Canada",,68.3607437,-133.7230177,,Inuvik
+"Fort Smith, nt, Canada",Moderate Risk,60.00552,-111.8849379,Moderate (4-6),Fort Smith
+"Inuvik, nt, Canada",Low Risk,68.3607437,-133.7230177,Low (1-3),Inuvik
 "Norman Wells, nt, Canada",,65.2814938,-126.8286524,,Norman Wells
-"Yellowknife, nt, Canada",,62.4539717,-114.3717886,,Yellowknife
+"Yellowknife, nt, Canada",Moderate Risk,62.4539717,-114.3717886,Moderate (4-6),Yellowknife
 "Arviat, nu, Canada",,61.1078279,-94.0623691,,Arviat
 "Iqaluit, nu, Canada",,63.746693,-68.5169669,,Iqaluit
 "Kugluktuk, nu, Canada",,67.8252313,-115.0965503,,Kugluktuk
