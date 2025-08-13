@@ -26,7 +26,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "WestShore, bc, Canada",Low Risk,48.4474626,-123.4956337,Low (1-3),WestShore
 "Whistler, bc, Canada",Low Risk,50.1161686,-122.9535117,Low (1-3),Whistler
 "Williams Lake, bc, Canada",Low Risk,52.1416736,-122.1416885,Low (1-3),Williams Lake
-"Airdrie, ab, Canada",,51.2926968,-114.0134113,,Airdrie
+"Airdrie, ab, Canada",Low Risk,51.2926968,-114.0134113,Low (1-3),Airdrie
 "Brooks, ab, Canada",Low Risk,50.56538876,-111.897462,Low (1-3),Brooks
 "Calgary, ab, Canada",Low Risk,51.0447331,-114.0718831,Low (1-3),Calgary
 "Cold Lake, ab, Canada",Low Risk,54.464249,-110.1731779,Low (1-3),Cold Lake
@@ -49,9 +49,9 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Sturgeon County, ab, Canada",Low Risk,53.81567,-113.562732,Low (1-3),Sturgeon County
 "Wood Buffalo - south, ab, Canada",Low Risk,57.6066083,-111.6495855,Low (1-3),Wood Buffalo - south
 "Buffalo Narrows, sk, Canada",Moderate Risk,55.8628398,-108.4794604,Moderate (4-6),Buffalo Narrows
-"Estevan, sk, Canada",Moderate Risk,49.1390842,-102.9914807,Moderate (4-6),Estevan
+"Estevan, sk, Canada",Low Risk,49.1390842,-102.9914807,Low (1-3),Estevan
 "Prince Albert, sk, Canada",Low Risk,53.2033494,-105.7530705,Low (1-3),Prince Albert
-"Regina, sk, Canada",Moderate Risk,50.4452112,-104.6188944,Moderate (4-6),Regina
+"Regina, sk, Canada",Low Risk,50.4452112,-104.6188944,Low (1-3),Regina
 "Saskatoon, sk, Canada",Low Risk,52.157902,-106.6701577,Low (1-3),Saskatoon
 "Swift Current, sk, Canada",Low Risk,50.285069,-107.7971722,Low (1-3),Swift Current
 "Brandon, mb, Canada",Low Risk,49.8437486,-99.9514807,Low (1-3),Brandon
@@ -85,13 +85,13 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Peterborough, on, Canada",Low Risk,44.3047061,-78.3199606,Low (1-3),Peterborough
 "Port Stanley, on, Canada",Low Risk,42.6641353,-81.2156329,Low (1-3),Port Stanley
 "Sarnia, on, Canada",Low Risk,42.974536,-82.4065901,Low (1-3),Sarnia
-"Sault Ste. Marie, on, Canada",Low Risk,46.5136494,-84.3357526,Low (1-3),Sault Ste. Marie
+"Sault Ste. Marie, on, Canada",Moderate Risk,46.5136494,-84.3357526,Moderate (4-6),Sault Ste. Marie
 "St. Catharines, on, Canada",Low Risk,43.1593745,-79.2468626,Low (1-3),St. Catharines
 "Sudbury, on, Canada",Low Risk,46.4917317,-80.993029,Low (1-3),Sudbury
-"Thunder Bay, on, Canada",Moderate Risk,48.3808951,-89.2476823,Moderate (4-6),Thunder Bay
+"Thunder Bay, on, Canada",Low Risk,48.3808951,-89.2476823,Low (1-3),Thunder Bay
 "Tiverton, on, Canada",Low Risk,44.2676578,-81.5433231,Low (1-3),Tiverton
 "Toronto, on, Canada",Low Risk,43.653226,-79.3831843,Low (1-3),Toronto
-"Toronto Downtown, on, Canada",Low Risk,,,Low (1-3),Toronto Downtown
+"Toronto Downtown, on, Canada",Moderate Risk,,,Moderate (4-6),Toronto Downtown
 "Toronto East, on, Canada",Low Risk,,,Low (1-3),Toronto East
 "Toronto North, on, Canada",Low Risk,,,Low (1-3),Toronto North
 "Toronto West, on, Canada",Low Risk,,,Low (1-3),Toronto West
@@ -107,7 +107,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Fredericton, nb, Canada",Low Risk,45.9635895,-66.6431151,Low (1-3),Fredericton
 "Miramichi, nb, Canada",Low Risk,47.0295709,-65.5059061,Low (1-3),Miramichi
 "Moncton, nb, Canada",Low Risk,46.0878165,-64.7782313,Low (1-3),Moncton
-"Saint Andrews, nb, Canada",Low Risk,45.0738432,-67.0530897,Low (1-3),Saint Andrews
+"Saint Andrews, nb, Canada",Moderate Risk,45.0738432,-67.0530897,Moderate (4-6),Saint Andrews
 "Saint John, nb, Canada",Low Risk,45.2733153,-66.0633081,Low (1-3),Saint John
 "Halifax, ns, Canada",Low Risk,44.8857087,-63.1005273,Low (1-3),Halifax
 "Halifax - Lake Major, ns, Canada",Low Risk,,,Low (1-3),Halifax - Lake Major
