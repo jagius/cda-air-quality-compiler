@@ -112,9 +112,9 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Halifax, ns, Canada",Low Risk,44.8857087,-63.1005273,Low (1-3),Halifax
 "Halifax - Lake Major, ns, Canada",Low Risk,,,Low (1-3),Halifax - Lake Major
 "Halifax Downtown, ns, Canada",Low Risk,,,Low (1-3),Halifax Downtown
-"Kentville, ns, Canada",Low Risk,45.0771182,-64.4942826,Low (1-3),Kentville
+"Kentville, ns, Canada",Moderate Risk,45.0771182,-64.4942826,Moderate (4-6),Kentville
 "Pictou, ns, Canada",Low Risk,45.6761282,-62.708845,Low (1-3),Pictou
-"Port Hawkesbury, ns, Canada",Low Risk,45.6148755,-61.3518164,Low (1-3),Port Hawkesbury
+"Port Hawkesbury, ns, Canada",Moderate Risk,45.6148755,-61.3518164,Moderate (4-6),Port Hawkesbury
 "Sydney, ns, Canada",Low Risk,46.1367899,-60.194224,Low (1-3),Sydney
 "Charlottetown, pe, Canada",,46.23824,-63.1310704,,Charlottetown
 "St. Peters Bay, pe, Canada",Low Risk,46.4174453,-62.5810333,Low (1-3),St. Peters Bay
@@ -129,7 +129,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Fort Smith, nt, Canada",Low Risk,60.00552,-111.8849379,Low (1-3),Fort Smith
 "Inuvik, nt, Canada",Low Risk,68.3607437,-133.7230177,Low (1-3),Inuvik
 "Norman Wells, nt, Canada",,65.2814938,-126.8286524,,Norman Wells
-"Yellowknife, nt, Canada",Very High Risk,62.4539717,-114.3717886,Very high (10+),Yellowknife
+"Yellowknife, nt, Canada",Moderate Risk,62.4539717,-114.3717886,Moderate (4-6),Yellowknife
 "Arviat, nu, Canada",,61.1078279,-94.0623691,,Arviat
 "Iqaluit, nu, Canada",,63.746693,-68.5169669,,Iqaluit
 "Kugluktuk, nu, Canada",,67.8252313,-115.0965503,,Kugluktuk
