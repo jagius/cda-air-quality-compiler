@@ -16,7 +16,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Nanaimo, bc, Canada",Low Risk,49.1658836,-123.9400647,Low (1-3),Nanaimo
 "North Okanagan, bc, Canada",Low Risk,50.3398977,-118.7840936,Low (1-3),North Okanagan
 "Prince George, bc, Canada",Low Risk,53.9170641,-122.7496693,Low (1-3),Prince George
-"Quesnel, bc, Canada",Moderate Risk,52.9817372,-122.4949058,Moderate (4-6),Quesnel
+"Quesnel, bc, Canada",Low Risk,52.9817372,-122.4949058,Low (1-3),Quesnel
 "Smithers, bc, Canada",Low Risk,54.782355,-127.1685541,Low (1-3),Smithers
 "South Okanagan, bc, Canada",Low Risk,53.7266683,-127.6476206,Low (1-3),South Okanagan
 "Sparwood, bc, Canada",Low Risk,49.7308665,-114.8861593,Low (1-3),Sparwood
