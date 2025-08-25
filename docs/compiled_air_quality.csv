@@ -1,31 +1,31 @@
 Location,Observed,Latitude,Longitude,Risk,Label
-"Castlegar, bc, Canada",,49.3237408,-117.6593341,,Castlegar
+"Castlegar, bc, Canada",Low Risk,49.3237408,-117.6593341,Low (1-3),Castlegar
 "Central Fraser Valley, bc, Canada",Low Risk,49.3764104,-121.8159307,Low (1-3),Central Fraser Valley
-"Central Okanagan, bc, Canada",,49.9473663,-119.5588209,,Central Okanagan
-"Comox Valley, bc, Canada",,49.6735133,-124.9282659,,Comox Valley
-"Cranbrook, bc, Canada",,49.5129678,-115.7694002,,Cranbrook
-"Duncan, bc, Canada",,48.7786908,-123.7079416,,Duncan
+"Central Okanagan, bc, Canada",Low Risk,49.9473663,-119.5588209,Low (1-3),Central Okanagan
+"Comox Valley, bc, Canada",Low Risk,49.6735133,-124.9282659,Low (1-3),Comox Valley
+"Cranbrook, bc, Canada",Low Risk,49.5129678,-115.7694002,Low (1-3),Cranbrook
+"Duncan, bc, Canada",Low Risk,48.7786908,-123.7079416,Low (1-3),Duncan
 "Eastern Fraser Valley, bc, Canada",Low Risk,49.3764104,-121.8159307,Low (1-3),Eastern Fraser Valley
-"Fort St. John, bc, Canada",,56.252423,-120.846409,,Fort St. John
-"Kamloops, bc, Canada",,50.674522,-120.3272674,,Kamloops
-"Kitimat, bc, Canada",,54.0632661,-128.637191,,Kitimat
+"Fort St. John, bc, Canada",Low Risk,56.252423,-120.846409,Low (1-3),Fort St. John
+"Kamloops, bc, Canada",Low Risk,50.674522,-120.3272674,Low (1-3),Kamloops
+"Kitimat, bc, Canada",Low Risk,54.0632661,-128.637191,Low (1-3),Kitimat
 "Metro Vancouver - NE, bc, Canada",Low Risk,49.3224696,-122.8568391,Low (1-3),Metro Vancouver - NE
 "Metro Vancouver - NW, bc, Canada",Low Risk,49.2057179,-122.910956,Low (1-3),Metro Vancouver - NW
 "Metro Vancouver - SE, bc, Canada",Low Risk,49.3224696,-122.8568391,Low (1-3),Metro Vancouver - SE
 "Metro Vancouver - SW, bc, Canada",Low Risk,49.3224696,-122.8568391,Low (1-3),Metro Vancouver - SW
-"Nanaimo, bc, Canada",,49.1658836,-123.9400647,,Nanaimo
-"North Okanagan, bc, Canada",,50.3398977,-118.7840936,,North Okanagan
-"Prince George, bc, Canada",,53.9170641,-122.7496693,,Prince George
-"Quesnel, bc, Canada",,52.9817372,-122.4949058,,Quesnel
-"Smithers, bc, Canada",,54.782355,-127.1685541,,Smithers
-"South Okanagan, bc, Canada",,53.7266683,-127.6476206,,South Okanagan
-"Sparwood, bc, Canada",,49.7308665,-114.8861593,,Sparwood
-"Squamish, bc, Canada",,49.7016339,-123.1558121,,Squamish
-"Terrace, bc, Canada",,54.5181925,-128.603154,,Terrace
-"Victoria/Saanich, bc, Canada",,48.4284207,-123.3656444,,Victoria/Saanich
-"WestShore, bc, Canada",,48.4474626,-123.4956337,,WestShore
-"Whistler, bc, Canada",,50.1161686,-122.9535117,,Whistler
-"Williams Lake, bc, Canada",,52.1416736,-122.1416885,,Williams Lake
+"Nanaimo, bc, Canada",Low Risk,49.1658836,-123.9400647,Low (1-3),Nanaimo
+"North Okanagan, bc, Canada",Low Risk,50.3398977,-118.7840936,Low (1-3),North Okanagan
+"Prince George, bc, Canada",Moderate Risk,53.9170641,-122.7496693,Moderate (4-6),Prince George
+"Quesnel, bc, Canada",Low Risk,52.9817372,-122.4949058,Low (1-3),Quesnel
+"Smithers, bc, Canada",Low Risk,54.782355,-127.1685541,Low (1-3),Smithers
+"South Okanagan, bc, Canada",Low Risk,53.7266683,-127.6476206,Low (1-3),South Okanagan
+"Sparwood, bc, Canada",Low Risk,49.7308665,-114.8861593,Low (1-3),Sparwood
+"Squamish, bc, Canada",Low Risk,49.7016339,-123.1558121,Low (1-3),Squamish
+"Terrace, bc, Canada",Low Risk,54.5181925,-128.603154,Low (1-3),Terrace
+"Victoria/Saanich, bc, Canada",Low Risk,48.4284207,-123.3656444,Low (1-3),Victoria/Saanich
+"WestShore, bc, Canada",Low Risk,48.4474626,-123.4956337,Low (1-3),WestShore
+"Whistler, bc, Canada",Low Risk,50.1161686,-122.9535117,Low (1-3),Whistler
+"Williams Lake, bc, Canada",Low Risk,52.1416736,-122.1416885,Low (1-3),Williams Lake
 "Airdrie, ab, Canada",Low Risk,51.2926968,-114.0134113,Low (1-3),Airdrie
 "Brooks, ab, Canada",,50.56538876,-111.897462,,Brooks
 "Calgary, ab, Canada",Low Risk,51.0447331,-114.0718831,Low (1-3),Calgary
@@ -68,7 +68,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Grand Bend, on, Canada",Low Risk,43.3130397,-81.7562242,Low (1-3),Grand Bend
 "Guelph, on, Canada",Low Risk,43.5448048,-80.2481666,Low (1-3),Guelph
 "Hamilton, on, Canada",Low Risk,43.2557206,-79.8711024,Low (1-3),Hamilton
-"Hamilton Downtown, on, Canada",,,,,Hamilton Downtown
+"Hamilton Downtown, on, Canada",Low Risk,,,Low (1-3),Hamilton Downtown
 "Hamilton Mountain, on, Canada",Low Risk,,,Low (1-3),Hamilton Mountain
 "Hamilton West, on, Canada",Low Risk,,,Low (1-3),Hamilton West
 "Kingston, on, Canada",Low Risk,44.2311717,-76.4859544,Low (1-3),Kingston
@@ -91,10 +91,10 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Thunder Bay, on, Canada",Low Risk,48.3808951,-89.2476823,Low (1-3),Thunder Bay
 "Tiverton, on, Canada",Low Risk,44.2676578,-81.5433231,Low (1-3),Tiverton
 "Toronto, on, Canada",Low Risk,43.653226,-79.3831843,Low (1-3),Toronto
-"Toronto Downtown, on, Canada",,,,,Toronto Downtown
+"Toronto Downtown, on, Canada",Low Risk,,,Low (1-3),Toronto Downtown
 "Toronto East, on, Canada",Low Risk,,,Low (1-3),Toronto East
 "Toronto North, on, Canada",Low Risk,,,Low (1-3),Toronto North
-"Toronto West, on, Canada",,,,,Toronto West
+"Toronto West, on, Canada",Low Risk,,,Low (1-3),Toronto West
 "Windsor, on, Canada",Low Risk,42.3149367,-83.0363633,Low (1-3),Windsor
 "Windsor Downtown, on, Canada",Low Risk,,,Low (1-3),Windsor Downtown
 "Windsor West, on, Canada",Low Risk,,,Low (1-3),Windsor West
@@ -106,7 +106,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Edmundston, nb, Canada",Low Risk,47.3690127,-68.3266741,Low (1-3),Edmundston
 "Fredericton, nb, Canada",Low Risk,45.9635895,-66.6431151,Low (1-3),Fredericton
 "Miramichi, nb, Canada",Low Risk,47.0295709,-65.5059061,Low (1-3),Miramichi
-"Moncton, nb, Canada",Moderate Risk,46.0878165,-64.7782313,Moderate (4-6),Moncton
+"Moncton, nb, Canada",Low Risk,46.0878165,-64.7782313,Low (1-3),Moncton
 "Saint Andrews, nb, Canada",Low Risk,45.0738432,-67.0530897,Low (1-3),Saint Andrews
 "Saint John, nb, Canada",Low Risk,45.2733153,-66.0633081,Low (1-3),Saint John
 "Halifax, ns, Canada",Low Risk,44.8857087,-63.1005273,Low (1-3),Halifax
@@ -120,7 +120,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "St. Peters Bay, pe, Canada",Low Risk,46.4174453,-62.5810333,Low (1-3),St. Peters Bay
 "Summerside (Wellington), pe, Canada",Low Risk,46.4538293,-63.9995297,Low (1-3),Summerside (Wellington)
 "Burin, nl, Canada",Low Risk,47.0777517,-55.1762977,Low (1-3),Burin
-"Corner Brook, nl, Canada",Low Risk,48.9523316,-57.9460401,Low (1-3),Corner Brook
+"Corner Brook, nl, Canada",Moderate Risk,48.9523316,-57.9460401,Moderate (4-6),Corner Brook
 "Grand Falls-Windsor, nl, Canada",Low Risk,48.9279047,-55.6598977,Low (1-3),Grand Falls-Windsor
 "Labrador City, nl, Canada",Low Risk,52.9383852,-66.9153137,Low (1-3),Labrador City
 "St. John's, nl, Canada",Low Risk,47.5556097,-52.7452511,Low (1-3),St. John's
@@ -129,7 +129,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Fort Smith, nt, Canada",Low Risk,60.00552,-111.8849379,Low (1-3),Fort Smith
 "Inuvik, nt, Canada",Low Risk,68.3607437,-133.7230177,Low (1-3),Inuvik
 "Norman Wells, nt, Canada",,65.2814938,-126.8286524,,Norman Wells
-"Yellowknife, nt, Canada",Moderate Risk,62.4539717,-114.3717886,Moderate (4-6),Yellowknife
+"Yellowknife, nt, Canada",Low Risk,62.4539717,-114.3717886,Low (1-3),Yellowknife
 "Arviat, nu, Canada",,61.1078279,-94.0623691,,Arviat
 "Iqaluit, nu, Canada",,63.746693,-68.5169669,,Iqaluit
 "Kugluktuk, nu, Canada",,67.8252313,-115.0965503,,Kugluktuk
