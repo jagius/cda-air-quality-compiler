@@ -26,19 +26,19 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "WestShore, bc, Canada",Low Risk,48.4474626,-123.4956337,Low (1-3),WestShore
 "Whistler, bc, Canada",Low Risk,50.1161686,-122.9535117,Low (1-3),Whistler
 "Williams Lake, bc, Canada",Low Risk,52.1416736,-122.1416885,Low (1-3),Williams Lake
-"Airdrie, ab, Canada",,51.2926968,-114.0134113,,Airdrie
+"Airdrie, ab, Canada",Low Risk,51.2926968,-114.0134113,Low (1-3),Airdrie
 "Brooks, ab, Canada",Low Risk,50.56538876,-111.897462,Low (1-3),Brooks
 "Calgary, ab, Canada",Low Risk,51.0447331,-114.0718831,Low (1-3),Calgary
 "Cold Lake, ab, Canada",Low Risk,54.464249,-110.1731779,Low (1-3),Cold Lake
-"Drayton Valley, ab, Canada",Moderate Risk,53.2214945,-114.976746,Moderate (4-6),Drayton Valley
+"Drayton Valley, ab, Canada",Low Risk,53.2214945,-114.976746,Low (1-3),Drayton Valley
 "Edmonton, ab, Canada",Low Risk,53.5460983,-113.4937266,Low (1-3),Edmonton
 "Edson, ab, Canada",Low Risk,53.585422,-116.4337219,Low (1-3),Edson
-"Fort Chipewyan, ab, Canada",Low Risk,58.7133284,-111.1574916,Low (1-3),Fort Chipewyan
+"Fort Chipewyan, ab, Canada",Moderate Risk,58.7133284,-111.1574916,Moderate (4-6),Fort Chipewyan
 "Fort McKay, ab, Canada",Moderate Risk,57.186758,-111.636785,Moderate (4-6),Fort McKay
 "Fort McMurray, ab, Canada",Low Risk,56.7266231,-111.3790095,Low (1-3),Fort McMurray
 "Fort Saskatchewan, ab, Canada",Low Risk,53.6962239,-113.2163654,Low (1-3),Fort Saskatchewan
-"Genesee, ab, Canada",Moderate Risk,53.34453394,-114.3267988,Moderate (4-6),Genesee
-"Grande Prairie, ab, Canada",Moderate Risk,55.170691,-118.7884808,Moderate (4-6),Grande Prairie
+"Genesee, ab, Canada",Low Risk,53.34453394,-114.3267988,Low (1-3),Genesee
+"Grande Prairie, ab, Canada",Low Risk,55.170691,-118.7884808,Low (1-3),Grande Prairie
 "Hinton, ab, Canada",Low Risk,53.399067,-117.5794057,Low (1-3),Hinton
 "Lamont County, ab, Canada",Low Risk,53.7901566,-112.5577641,Low (1-3),Lamont County
 "Lethbridge, ab, Canada",Low Risk,49.6956181,-112.8451067,Low (1-3),Lethbridge
@@ -51,7 +51,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Buffalo Narrows, sk, Canada",Low Risk,55.8628398,-108.4794604,Low (1-3),Buffalo Narrows
 "Estevan, sk, Canada",Low Risk,49.1390842,-102.9914807,Low (1-3),Estevan
 "Prince Albert, sk, Canada",Low Risk,53.2033494,-105.7530705,Low (1-3),Prince Albert
-"Regina, sk, Canada",Moderate Risk,50.4452112,-104.6188944,Moderate (4-6),Regina
+"Regina, sk, Canada",Low Risk,50.4452112,-104.6188944,Low (1-3),Regina
 "Saskatoon, sk, Canada",Low Risk,52.157902,-106.6701577,Low (1-3),Saskatoon
 "Swift Current, sk, Canada",Low Risk,50.285069,-107.7971722,Low (1-3),Swift Current
 "Brandon, mb, Canada",Low Risk,49.8437486,-99.9514807,Low (1-3),Brandon
@@ -129,7 +129,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Fort Smith, nt, Canada",Low Risk,60.00552,-111.8849379,Low (1-3),Fort Smith
 "Inuvik, nt, Canada",Low Risk,68.3607437,-133.7230177,Low (1-3),Inuvik
 "Norman Wells, nt, Canada",,65.2814938,-126.8286524,,Norman Wells
-"Yellowknife, nt, Canada",Low Risk,62.4539717,-114.3717886,Low (1-3),Yellowknife
+"Yellowknife, nt, Canada",Moderate Risk,62.4539717,-114.3717886,Moderate (4-6),Yellowknife
 "Arviat, nu, Canada",,61.1078279,-94.0623691,,Arviat
 "Iqaluit, nu, Canada",,63.746693,-68.5169669,,Iqaluit
 "Kugluktuk, nu, Canada",,67.8252313,-115.0965503,,Kugluktuk
