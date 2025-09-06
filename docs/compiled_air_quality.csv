@@ -10,7 +10,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Kamloops, bc, Canada",Moderate Risk,50.674522,-120.3272674,Moderate (4-6),Kamloops
 "Kitimat, bc, Canada",Low Risk,54.0632661,-128.637191,Low (1-3),Kitimat
 "Metro Vancouver - NE, bc, Canada",Low Risk,49.3224696,-122.8568391,Low (1-3),Metro Vancouver - NE
-"Metro Vancouver - NW, bc, Canada",Moderate Risk,49.2057179,-122.910956,Moderate (4-6),Metro Vancouver - NW
+"Metro Vancouver - NW, bc, Canada",Low Risk,49.2057179,-122.910956,Low (1-3),Metro Vancouver - NW
 "Metro Vancouver - SE, bc, Canada",Low Risk,49.3224696,-122.8568391,Low (1-3),Metro Vancouver - SE
 "Metro Vancouver - SW, bc, Canada",Low Risk,49.3224696,-122.8568391,Low (1-3),Metro Vancouver - SW
 "Nanaimo, bc, Canada",Low Risk,49.1658836,-123.9400647,Low (1-3),Nanaimo
@@ -20,7 +20,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Smithers, bc, Canada",Moderate Risk,54.782355,-127.1685541,Moderate (4-6),Smithers
 "South Okanagan, bc, Canada",Moderate Risk,53.7266683,-127.6476206,Moderate (4-6),South Okanagan
 "Sparwood, bc, Canada",Low Risk,49.7308665,-114.8861593,Low (1-3),Sparwood
-"Squamish, bc, Canada",High Risk,49.7016339,-123.1558121,High (7-9),Squamish
+"Squamish, bc, Canada",Very High Risk,49.7016339,-123.1558121,Very high (10+),Squamish
 "Terrace, bc, Canada",Low Risk,54.5181925,-128.603154,Low (1-3),Terrace
 "Victoria/Saanich, bc, Canada",Low Risk,48.4284207,-123.3656444,Low (1-3),Victoria/Saanich
 "WestShore, bc, Canada",Low Risk,48.4474626,-123.4956337,Low (1-3),WestShore
@@ -33,8 +33,8 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Drayton Valley, ab, Canada",Low Risk,53.2214945,-114.976746,Low (1-3),Drayton Valley
 "Edmonton, ab, Canada",Low Risk,53.5460983,-113.4937266,Low (1-3),Edmonton
 "Edson, ab, Canada",Low Risk,53.585422,-116.4337219,Low (1-3),Edson
-"Fort Chipewyan, ab, Canada",Low Risk,58.7133284,-111.1574916,Low (1-3),Fort Chipewyan
-"Fort McKay, ab, Canada",Low Risk,57.186758,-111.636785,Low (1-3),Fort McKay
+"Fort Chipewyan, ab, Canada",Moderate Risk,58.7133284,-111.1574916,Moderate (4-6),Fort Chipewyan
+"Fort McKay, ab, Canada",High Risk,57.186758,-111.636785,High (7-9),Fort McKay
 "Fort McMurray, ab, Canada",High Risk,56.7266231,-111.3790095,High (7-9),Fort McMurray
 "Fort Saskatchewan, ab, Canada",Low Risk,53.6962239,-113.2163654,Low (1-3),Fort Saskatchewan
 "Genesee, ab, Canada",Low Risk,53.34453394,-114.3267988,Low (1-3),Genesee
