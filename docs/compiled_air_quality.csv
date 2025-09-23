@@ -96,7 +96,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Toronto North, on, Canada",Low Risk,,,Low (1-3),Toronto North
 "Toronto West, on, Canada",Low Risk,,,Low (1-3),Toronto West
 "Windsor, on, Canada",Low Risk,42.3149367,-83.0363633,Low (1-3),Windsor
-"Windsor Downtown, on, Canada",Low Risk,,,Low (1-3),Windsor Downtown
+"Windsor Downtown, on, Canada",Moderate Risk,,,Moderate (4-6),Windsor Downtown
 "Windsor West, on, Canada",Low Risk,,,Low (1-3),Windsor West
 "Gatineau, qc, Canada",,45.4765446,-75.7012723,,Gatineau
 "Montréal, qc, Canada",,45.5018869,-73.5673919,,Montréal
