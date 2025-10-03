@@ -1,18 +1,18 @@
 Location,Observed,Latitude,Longitude,Risk,Label
 "Castlegar, bc, Canada",Low Risk,49.3237408,-117.6593341,Low (1-3),Castlegar
-"Central Fraser Valley, bc, Canada",,49.3764104,-121.8159307,,Central Fraser Valley
+"Central Fraser Valley, bc, Canada",Low Risk,49.3764104,-121.8159307,Low (1-3),Central Fraser Valley
 "Central Okanagan, bc, Canada",Low Risk,49.9473663,-119.5588209,Low (1-3),Central Okanagan
 "Comox Valley, bc, Canada",Low Risk,49.6735133,-124.9282659,Low (1-3),Comox Valley
 "Cranbrook, bc, Canada",Low Risk,49.5129678,-115.7694002,Low (1-3),Cranbrook
 "Duncan, bc, Canada",Low Risk,48.7786908,-123.7079416,Low (1-3),Duncan
-"Eastern Fraser Valley, bc, Canada",,49.3764104,-121.8159307,,Eastern Fraser Valley
+"Eastern Fraser Valley, bc, Canada",Low Risk,49.3764104,-121.8159307,Low (1-3),Eastern Fraser Valley
 "Fort St. John, bc, Canada",Low Risk,56.252423,-120.846409,Low (1-3),Fort St. John
 "Kamloops, bc, Canada",Low Risk,50.674522,-120.3272674,Low (1-3),Kamloops
 "Kitimat, bc, Canada",Low Risk,54.0632661,-128.637191,Low (1-3),Kitimat
-"Metro Vancouver - NE, bc, Canada",,49.3224696,-122.8568391,,Metro Vancouver - NE
-"Metro Vancouver - NW, bc, Canada",,49.2057179,-122.910956,,Metro Vancouver - NW
-"Metro Vancouver - SE, bc, Canada",,49.3224696,-122.8568391,,Metro Vancouver - SE
-"Metro Vancouver - SW, bc, Canada",,49.3224696,-122.8568391,,Metro Vancouver - SW
+"Metro Vancouver - NE, bc, Canada",Low Risk,49.3224696,-122.8568391,Low (1-3),Metro Vancouver - NE
+"Metro Vancouver - NW, bc, Canada",Low Risk,49.2057179,-122.910956,Low (1-3),Metro Vancouver - NW
+"Metro Vancouver - SE, bc, Canada",Low Risk,49.3224696,-122.8568391,Low (1-3),Metro Vancouver - SE
+"Metro Vancouver - SW, bc, Canada",Low Risk,49.3224696,-122.8568391,Low (1-3),Metro Vancouver - SW
 "Nanaimo, bc, Canada",Low Risk,49.1658836,-123.9400647,Low (1-3),Nanaimo
 "North Okanagan, bc, Canada",Low Risk,50.3398977,-118.7840936,Low (1-3),North Okanagan
 "Prince George, bc, Canada",Low Risk,53.9170641,-122.7496693,Low (1-3),Prince George
@@ -25,13 +25,13 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Victoria/Saanich, bc, Canada",,48.4284207,-123.3656444,,Victoria/Saanich
 "WestShore, bc, Canada",Low Risk,48.4474626,-123.4956337,Low (1-3),WestShore
 "Whistler, bc, Canada",Low Risk,50.1161686,-122.9535117,Low (1-3),Whistler
-"Williams Lake, bc, Canada",Low Risk,52.1416736,-122.1416885,Low (1-3),Williams Lake
-"Airdrie, ab, Canada",Low Risk,51.2926968,-114.0134113,Low (1-3),Airdrie
+"Williams Lake, bc, Canada",,52.1416736,-122.1416885,,Williams Lake
+"Airdrie, ab, Canada",,51.2926968,-114.0134113,,Airdrie
 "Brooks, ab, Canada",Low Risk,50.56538876,-111.897462,Low (1-3),Brooks
 "Calgary, ab, Canada",Low Risk,51.0447331,-114.0718831,Low (1-3),Calgary
 "Cold Lake, ab, Canada",Low Risk,54.464249,-110.1731779,Low (1-3),Cold Lake
 "Drayton Valley, ab, Canada",Low Risk,53.2214945,-114.976746,Low (1-3),Drayton Valley
-"Edmonton, ab, Canada",Moderate Risk,53.5460983,-113.4937266,Moderate (4-6),Edmonton
+"Edmonton, ab, Canada",Low Risk,53.5460983,-113.4937266,Low (1-3),Edmonton
 "Edson, ab, Canada",Low Risk,53.585422,-116.4337219,Low (1-3),Edson
 "Fort Chipewyan, ab, Canada",Low Risk,58.7133284,-111.1574916,Low (1-3),Fort Chipewyan
 "Fort McKay, ab, Canada",Low Risk,57.186758,-111.636785,Low (1-3),Fort McKay
@@ -41,7 +41,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Grande Prairie, ab, Canada",Low Risk,55.170691,-118.7884808,Low (1-3),Grande Prairie
 "Hinton, ab, Canada",Low Risk,53.399067,-117.5794057,Low (1-3),Hinton
 "Lamont County, ab, Canada",Low Risk,53.7901566,-112.5577641,Low (1-3),Lamont County
-"Lethbridge, ab, Canada",,49.6956181,-112.8451067,,Lethbridge
+"Lethbridge, ab, Canada",Low Risk,49.6956181,-112.8451067,Low (1-3),Lethbridge
 "Medicine Hat, ab, Canada",Low Risk,50.0290218,-110.7031976,Low (1-3),Medicine Hat
 "Red Deer, ab, Canada",Low Risk,52.2690328,-113.8114955,Low (1-3),Red Deer
 "St. Albert, ab, Canada",Low Risk,53.6539037,-113.6292701,Low (1-3),St. Albert
