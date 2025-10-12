@@ -25,7 +25,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Victoria/Saanich, bc, Canada",,48.4284207,-123.3656444,,Victoria/Saanich
 "WestShore, bc, Canada",Low Risk,48.4474626,-123.4956337,Low (1-3),WestShore
 "Whistler, bc, Canada",Low Risk,50.1161686,-122.9535117,Low (1-3),Whistler
-"Williams Lake, bc, Canada",Low Risk,52.1416736,-122.1416885,Low (1-3),Williams Lake
+"Williams Lake, bc, Canada",,52.1416736,-122.1416885,,Williams Lake
 "Airdrie, ab, Canada",,51.2926968,-114.0134113,,Airdrie
 "Brooks, ab, Canada",Low Risk,50.56538876,-111.897462,Low (1-3),Brooks
 "Calgary, ab, Canada",Low Risk,51.0447331,-114.0718831,Low (1-3),Calgary
@@ -41,7 +41,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Grande Prairie, ab, Canada",Low Risk,55.170691,-118.7884808,Low (1-3),Grande Prairie
 "Hinton, ab, Canada",Low Risk,53.399067,-117.5794057,Low (1-3),Hinton
 "Lamont County, ab, Canada",Low Risk,53.7901566,-112.5577641,Low (1-3),Lamont County
-"Lethbridge, ab, Canada",Low Risk,49.6956181,-112.8451067,Low (1-3),Lethbridge
+"Lethbridge, ab, Canada",,49.6956181,-112.8451067,,Lethbridge
 "Medicine Hat, ab, Canada",Low Risk,50.0290218,-110.7031976,Low (1-3),Medicine Hat
 "Red Deer, ab, Canada",Low Risk,52.2690328,-113.8114955,Low (1-3),Red Deer
 "St. Albert, ab, Canada",Low Risk,53.6539037,-113.6292701,Low (1-3),St. Albert
@@ -116,7 +116,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Pictou, ns, Canada",Low Risk,45.6761282,-62.708845,Low (1-3),Pictou
 "Port Hawkesbury, ns, Canada",Low Risk,45.6148755,-61.3518164,Low (1-3),Port Hawkesbury
 "Sydney, ns, Canada",Low Risk,46.1367899,-60.194224,Low (1-3),Sydney
-"Charlottetown, pe, Canada",Low Risk,46.23824,-63.1310704,Low (1-3),Charlottetown
+"Charlottetown, pe, Canada",,46.23824,-63.1310704,,Charlottetown
 "St. Peters Bay, pe, Canada",Low Risk,46.4174453,-62.5810333,Low (1-3),St. Peters Bay
 "Summerside (Wellington), pe, Canada",Low Risk,46.4538293,-63.9995297,Low (1-3),Summerside (Wellington)
 "Burin, nl, Canada",Low Risk,47.0777517,-55.1762977,Low (1-3),Burin
