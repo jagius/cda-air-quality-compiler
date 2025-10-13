@@ -17,7 +17,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "North Okanagan, bc, Canada",Low Risk,50.3398977,-118.7840936,Low (1-3),North Okanagan
 "Prince George, bc, Canada",Low Risk,53.9170641,-122.7496693,Low (1-3),Prince George
 "Quesnel, bc, Canada",Low Risk,52.9817372,-122.4949058,Low (1-3),Quesnel
-"Smithers, bc, Canada",Low Risk,54.782355,-127.1685541,Low (1-3),Smithers
+"Smithers, bc, Canada",Moderate Risk,54.782355,-127.1685541,Moderate (4-6),Smithers
 "South Okanagan, bc, Canada",Low Risk,53.7266683,-127.6476206,Low (1-3),South Okanagan
 "Sparwood, bc, Canada",Low Risk,49.7308665,-114.8861593,Low (1-3),Sparwood
 "Squamish, bc, Canada",Low Risk,49.7016339,-123.1558121,Low (1-3),Squamish
@@ -41,7 +41,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Grande Prairie, ab, Canada",Low Risk,55.170691,-118.7884808,Low (1-3),Grande Prairie
 "Hinton, ab, Canada",Low Risk,53.399067,-117.5794057,Low (1-3),Hinton
 "Lamont County, ab, Canada",Low Risk,53.7901566,-112.5577641,Low (1-3),Lamont County
-"Lethbridge, ab, Canada",,49.6956181,-112.8451067,,Lethbridge
+"Lethbridge, ab, Canada",Low Risk,49.6956181,-112.8451067,Low (1-3),Lethbridge
 "Medicine Hat, ab, Canada",Low Risk,50.0290218,-110.7031976,Low (1-3),Medicine Hat
 "Red Deer, ab, Canada",Low Risk,52.2690328,-113.8114955,Low (1-3),Red Deer
 "St. Albert, ab, Canada",Low Risk,53.6539037,-113.6292701,Low (1-3),St. Albert
