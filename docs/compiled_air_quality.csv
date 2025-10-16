@@ -79,7 +79,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Newmarket, on, Canada",Low Risk,44.059187,-79.461256,Low (1-3),Newmarket
 "North Bay, on, Canada",Low Risk,46.3091152,-79.4608204,Low (1-3),North Bay
 "Oakville, on, Canada",Low Risk,43.467517,-79.6876659,Low (1-3),Oakville
-"Oshawa, on, Canada",Low Risk,43.8970929,-78.8657912,Low (1-3),Oshawa
+"Oshawa, on, Canada",,43.8970929,-78.8657912,,Oshawa
 "Ottawa, on, Canada",Low Risk,45.4215296,-75.6971931,Low (1-3),Ottawa
 "Parry Sound, on, Canada",Low Risk,45.3473925,-80.034783,Low (1-3),Parry Sound
 "Peterborough, on, Canada",Low Risk,44.3047061,-78.3199606,Low (1-3),Peterborough
