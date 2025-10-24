@@ -26,7 +26,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "WestShore, bc, Canada",Low Risk,48.4474626,-123.4956337,Low (1-3),WestShore
 "Whistler, bc, Canada",Low Risk,50.1161686,-122.9535117,Low (1-3),Whistler
 "Williams Lake, bc, Canada",,52.1416736,-122.1416885,,Williams Lake
-"Airdrie, ab, Canada",Low Risk,51.2926968,-114.0134113,Low (1-3),Airdrie
+"Airdrie, ab, Canada",,51.2926968,-114.0134113,,Airdrie
 "Brooks, ab, Canada",Low Risk,50.56538876,-111.897462,Low (1-3),Brooks
 "Calgary, ab, Canada",Low Risk,51.0447331,-114.0718831,Low (1-3),Calgary
 "Cold Lake, ab, Canada",Low Risk,54.464249,-110.1731779,Low (1-3),Cold Lake
