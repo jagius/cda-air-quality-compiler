@@ -126,10 +126,10 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "St. John's, nl, Canada",Low Risk,47.5556097,-52.7452511,Low (1-3),St. John's
 "Whitehorse, yt, Canada",Low Risk,60.7197137,-135.0522761,Low (1-3),Whitehorse
 "Fort Simpson, nt, Canada",,61.86330512,-121.3537357,,Fort Simpson
-"Fort Smith, nt, Canada",Low Risk,60.00552,-111.8849379,Low (1-3),Fort Smith
-"Inuvik, nt, Canada",Low Risk,68.3607437,-133.7230177,Low (1-3),Inuvik
+"Fort Smith, nt, Canada",,60.00552,-111.8849379,,Fort Smith
+"Inuvik, nt, Canada",,68.3607437,-133.7230177,,Inuvik
 "Norman Wells, nt, Canada",,65.2814938,-126.8286524,,Norman Wells
-"Yellowknife, nt, Canada",Low Risk,62.4539717,-114.3717886,Low (1-3),Yellowknife
+"Yellowknife, nt, Canada",,62.4539717,-114.3717886,,Yellowknife
 "Arviat, nu, Canada",,61.1078279,-94.0623691,,Arviat
 "Iqaluit, nu, Canada",,63.746693,-68.5169669,,Iqaluit
 "Kugluktuk, nu, Canada",,67.8252313,-115.0965503,,Kugluktuk
