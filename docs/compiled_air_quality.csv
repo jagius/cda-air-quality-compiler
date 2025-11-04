@@ -28,9 +28,9 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Williams Lake, bc, Canada",Low Risk,52.1416736,-122.1416885,Low (1-3),Williams Lake
 "Airdrie, ab, Canada",Low Risk,51.2926968,-114.0134113,Low (1-3),Airdrie
 "Brooks, ab, Canada",Low Risk,50.56538876,-111.897462,Low (1-3),Brooks
-"Calgary, ab, Canada",Moderate Risk,51.0447331,-114.0718831,Moderate (4-6),Calgary
+"Calgary, ab, Canada",Low Risk,51.0447331,-114.0718831,Low (1-3),Calgary
 "Cold Lake, ab, Canada",Low Risk,54.464249,-110.1731779,Low (1-3),Cold Lake
-"Drayton Valley, ab, Canada",Moderate Risk,53.2214945,-114.976746,Moderate (4-6),Drayton Valley
+"Drayton Valley, ab, Canada",Low Risk,53.2214945,-114.976746,Low (1-3),Drayton Valley
 "Edmonton, ab, Canada",Low Risk,53.5460983,-113.4937266,Low (1-3),Edmonton
 "Edson, ab, Canada",Low Risk,53.585422,-116.4337219,Low (1-3),Edson
 "Fort Chipewyan, ab, Canada",Low Risk,58.7133284,-111.1574916,Low (1-3),Fort Chipewyan
@@ -52,8 +52,8 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Estevan, sk, Canada",Low Risk,49.1390842,-102.9914807,Low (1-3),Estevan
 "Prince Albert, sk, Canada",Low Risk,53.2033494,-105.7530705,Low (1-3),Prince Albert
 "Regina, sk, Canada",,50.4452112,-104.6188944,,Regina
-"Saskatoon, sk, Canada",Low Risk,52.157902,-106.6701577,Low (1-3),Saskatoon
-"Swift Current, sk, Canada",Low Risk,50.285069,-107.7971722,Low (1-3),Swift Current
+"Saskatoon, sk, Canada",,52.157902,-106.6701577,,Saskatoon
+"Swift Current, sk, Canada",,50.285069,-107.7971722,,Swift Current
 "Brandon, mb, Canada",Low Risk,49.8437486,-99.9514807,Low (1-3),Brandon
 "Flin Flon, mb, Canada",,54.7751389,-101.8493669,,Flin Flon
 "Winnipeg, mb, Canada",Low Risk,49.8954221,-97.1385145,Low (1-3),Winnipeg
