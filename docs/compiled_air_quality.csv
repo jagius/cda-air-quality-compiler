@@ -6,7 +6,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Cranbrook, bc, Canada",Low Risk,49.5129678,-115.7694002,Low (1-3),Cranbrook
 "Duncan, bc, Canada",Low Risk,48.7786908,-123.7079416,Low (1-3),Duncan
 "Eastern Fraser Valley, bc, Canada",Low Risk,49.3764104,-121.8159307,Low (1-3),Eastern Fraser Valley
-"Fort St. John, bc, Canada",Moderate Risk,56.252423,-120.846409,Moderate (4-6),Fort St. John
+"Fort St. John, bc, Canada",Low Risk,56.252423,-120.846409,Low (1-3),Fort St. John
 "Kamloops, bc, Canada",Low Risk,50.674522,-120.3272674,Low (1-3),Kamloops
 "Kitimat, bc, Canada",Low Risk,54.0632661,-128.637191,Low (1-3),Kitimat
 "Metro Vancouver - NE, bc, Canada",Low Risk,49.3224696,-122.8568391,Low (1-3),Metro Vancouver - NE
@@ -48,12 +48,12 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Strathcona County, ab, Canada",Low Risk,53.5326776,-113.1553199,Low (1-3),Strathcona County
 "Sturgeon County, ab, Canada",Low Risk,53.81567,-113.562732,Low (1-3),Sturgeon County
 "Wood Buffalo - south, ab, Canada",Low Risk,57.6066083,-111.6495855,Low (1-3),Wood Buffalo - south
-"Buffalo Narrows, sk, Canada",Low Risk,55.8628398,-108.4794604,Low (1-3),Buffalo Narrows
-"Estevan, sk, Canada",Low Risk,49.1390842,-102.9914807,Low (1-3),Estevan
-"Prince Albert, sk, Canada",Low Risk,53.2033494,-105.7530705,Low (1-3),Prince Albert
+"Buffalo Narrows, sk, Canada",,55.8628398,-108.4794604,,Buffalo Narrows
+"Estevan, sk, Canada",,49.1390842,-102.9914807,,Estevan
+"Prince Albert, sk, Canada",,53.2033494,-105.7530705,,Prince Albert
 "Regina, sk, Canada",,50.4452112,-104.6188944,,Regina
-"Saskatoon, sk, Canada",Low Risk,52.157902,-106.6701577,Low (1-3),Saskatoon
-"Swift Current, sk, Canada",Low Risk,50.285069,-107.7971722,Low (1-3),Swift Current
+"Saskatoon, sk, Canada",,52.157902,-106.6701577,,Saskatoon
+"Swift Current, sk, Canada",,50.285069,-107.7971722,,Swift Current
 "Brandon, mb, Canada",Low Risk,49.8437486,-99.9514807,Low (1-3),Brandon
 "Flin Flon, mb, Canada",,54.7751389,-101.8493669,,Flin Flon
 "Winnipeg, mb, Canada",Low Risk,49.8954221,-97.1385145,Low (1-3),Winnipeg
@@ -119,7 +119,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Charlottetown, pe, Canada",Low Risk,46.23824,-63.1310704,Low (1-3),Charlottetown
 "St. Peters Bay, pe, Canada",Low Risk,46.4174453,-62.5810333,Low (1-3),St. Peters Bay
 "Summerside (Wellington), pe, Canada",Low Risk,46.4538293,-63.9995297,Low (1-3),Summerside (Wellington)
-"Burin, nl, Canada",,47.0777517,-55.1762977,,Burin
+"Burin, nl, Canada",Low Risk,47.0777517,-55.1762977,Low (1-3),Burin
 "Corner Brook, nl, Canada",,48.9523316,-57.9460401,,Corner Brook
 "Grand Falls-Windsor, nl, Canada",Low Risk,48.9279047,-55.6598977,Low (1-3),Grand Falls-Windsor
 "Labrador City, nl, Canada",Low Risk,52.9383852,-66.9153137,Low (1-3),Labrador City
