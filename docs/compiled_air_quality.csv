@@ -15,10 +15,10 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Metro Vancouver - SW, bc, Canada",Low Risk,49.3224696,-122.8568391,Low (1-3),Metro Vancouver - SW
 "Nanaimo, bc, Canada",Low Risk,49.1658836,-123.9400647,Low (1-3),Nanaimo
 "North Okanagan, bc, Canada",Low Risk,50.3398977,-118.7840936,Low (1-3),North Okanagan
-"Prince George, bc, Canada",Low Risk,53.9170641,-122.7496693,Low (1-3),Prince George
+"Prince George, bc, Canada",,53.9170641,-122.7496693,,Prince George
 "Quesnel, bc, Canada",Low Risk,52.9817372,-122.4949058,Low (1-3),Quesnel
 "Smithers, bc, Canada",Low Risk,54.782355,-127.1685541,Low (1-3),Smithers
-"South Okanagan, bc, Canada",Low Risk,53.7266683,-127.6476206,Low (1-3),South Okanagan
+"South Okanagan, bc, Canada",,53.7266683,-127.6476206,,South Okanagan
 "Sparwood, bc, Canada",Low Risk,49.7308665,-114.8861593,Low (1-3),Sparwood
 "Squamish, bc, Canada",Low Risk,49.7016339,-123.1558121,Low (1-3),Squamish
 "Terrace, bc, Canada",Low Risk,54.5181925,-128.603154,Low (1-3),Terrace
@@ -55,8 +55,8 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Saskatoon, sk, Canada",Low Risk,52.157902,-106.6701577,Low (1-3),Saskatoon
 "Swift Current, sk, Canada",Low Risk,50.285069,-107.7971722,Low (1-3),Swift Current
 "Brandon, mb, Canada",Low Risk,49.8437486,-99.9514807,Low (1-3),Brandon
-"Flin Flon, mb, Canada",,54.7751389,-101.8493669,,Flin Flon
-"Winnipeg, mb, Canada",Low Risk,49.8954221,-97.1385145,Low (1-3),Winnipeg
+"Flin Flon, mb, Canada",Low Risk,54.7751389,-101.8493669,Low (1-3),Flin Flon
+"Winnipeg, mb, Canada",Moderate Risk,49.8954221,-97.1385145,Moderate (4-6),Winnipeg
 "Barrie, on, Canada",Low Risk,44.3893556,-79.6903316,Low (1-3),Barrie
 "Belleville, on, Canada",Low Risk,44.1627589,-77.3832315,Low (1-3),Belleville
 "Brampton, on, Canada",Low Risk,43.7315479,-79.7624177,Low (1-3),Brampton
@@ -95,8 +95,8 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Toronto East, on, Canada",Low Risk,,,Low (1-3),Toronto East
 "Toronto North, on, Canada",Low Risk,,,Low (1-3),Toronto North
 "Toronto West, on, Canada",Low Risk,,,Low (1-3),Toronto West
-"Windsor, on, Canada",Low Risk,42.3149367,-83.0363633,Low (1-3),Windsor
-"Windsor Downtown, on, Canada",Low Risk,,,Low (1-3),Windsor Downtown
+"Windsor, on, Canada",Moderate Risk,42.3149367,-83.0363633,Moderate (4-6),Windsor
+"Windsor Downtown, on, Canada",Moderate Risk,,,Moderate (4-6),Windsor Downtown
 "Windsor West, on, Canada",Low Risk,,,Low (1-3),Windsor West
 "Gatineau, qc, Canada",,45.4765446,-75.7012723,,Gatineau
 "Montréal, qc, Canada",,45.5018869,-73.5673919,,Montréal
@@ -120,7 +120,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "St. Peters Bay, pe, Canada",Low Risk,46.4174453,-62.5810333,Low (1-3),St. Peters Bay
 "Summerside (Wellington), pe, Canada",Low Risk,46.4538293,-63.9995297,Low (1-3),Summerside (Wellington)
 "Burin, nl, Canada",Low Risk,47.0777517,-55.1762977,Low (1-3),Burin
-"Corner Brook, nl, Canada",,48.9523316,-57.9460401,,Corner Brook
+"Corner Brook, nl, Canada",Low Risk,48.9523316,-57.9460401,Low (1-3),Corner Brook
 "Grand Falls-Windsor, nl, Canada",Low Risk,48.9279047,-55.6598977,Low (1-3),Grand Falls-Windsor
 "Labrador City, nl, Canada",Low Risk,52.9383852,-66.9153137,Low (1-3),Labrador City
 "St. John's, nl, Canada",Low Risk,47.5556097,-52.7452511,Low (1-3),St. John's
