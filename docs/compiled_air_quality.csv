@@ -48,7 +48,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Strathcona County, ab, Canada",Low Risk,53.5326776,-113.1553199,Low (1-3),Strathcona County
 "Sturgeon County, ab, Canada",Low Risk,53.81567,-113.562732,Low (1-3),Sturgeon County
 "Wood Buffalo - south, ab, Canada",Low Risk,57.6066083,-111.6495855,Low (1-3),Wood Buffalo - south
-"Buffalo Narrows, sk, Canada",,55.8628398,-108.4794604,,Buffalo Narrows
+"Buffalo Narrows, sk, Canada",Low Risk,55.8628398,-108.4794604,Low (1-3),Buffalo Narrows
 "Estevan, sk, Canada",Low Risk,49.1390842,-102.9914807,Low (1-3),Estevan
 "Prince Albert, sk, Canada",Low Risk,53.2033494,-105.7530705,Low (1-3),Prince Albert
 "Regina, sk, Canada",Low Risk,50.4452112,-104.6188944,Low (1-3),Regina
@@ -79,7 +79,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Newmarket, on, Canada",Low Risk,44.059187,-79.461256,Low (1-3),Newmarket
 "North Bay, on, Canada",Low Risk,46.3091152,-79.4608204,Low (1-3),North Bay
 "Oakville, on, Canada",Low Risk,43.467517,-79.6876659,Low (1-3),Oakville
-"Oshawa, on, Canada",Low Risk,43.8970929,-78.8657912,Low (1-3),Oshawa
+"Oshawa, on, Canada",,43.8970929,-78.8657912,,Oshawa
 "Ottawa, on, Canada",Low Risk,45.4215296,-75.6971931,Low (1-3),Ottawa
 "Parry Sound, on, Canada",Low Risk,45.3473925,-80.034783,Low (1-3),Parry Sound
 "Peterborough, on, Canada",Low Risk,44.3047061,-78.3199606,Low (1-3),Peterborough
@@ -97,7 +97,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Toronto West, on, Canada",Low Risk,,,Low (1-3),Toronto West
 "Windsor, on, Canada",Low Risk,42.3149367,-83.0363633,Low (1-3),Windsor
 "Windsor Downtown, on, Canada",Low Risk,,,Low (1-3),Windsor Downtown
-"Windsor West, on, Canada",,,,,Windsor West
+"Windsor West, on, Canada",Low Risk,,,Low (1-3),Windsor West
 "Gatineau, qc, Canada",,45.4765446,-75.7012723,,Gatineau
 "Montréal, qc, Canada",,45.5018869,-73.5673919,,Montréal
 "Québec, qc, Canada",,46.8130816,-71.2074596,,Québec
@@ -119,11 +119,11 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Charlottetown, pe, Canada",Low Risk,46.23824,-63.1310704,Low (1-3),Charlottetown
 "St. Peters Bay, pe, Canada",Low Risk,46.4174453,-62.5810333,Low (1-3),St. Peters Bay
 "Summerside (Wellington), pe, Canada",Low Risk,46.4538293,-63.9995297,Low (1-3),Summerside (Wellington)
-"Burin, nl, Canada",Low Risk,47.0777517,-55.1762977,Low (1-3),Burin
+"Burin, nl, Canada",,47.0777517,-55.1762977,,Burin
 "Corner Brook, nl, Canada",,48.9523316,-57.9460401,,Corner Brook
-"Grand Falls-Windsor, nl, Canada",Low Risk,48.9279047,-55.6598977,Low (1-3),Grand Falls-Windsor
+"Grand Falls-Windsor, nl, Canada",,48.9279047,-55.6598977,,Grand Falls-Windsor
 "Labrador City, nl, Canada",,52.9383852,-66.9153137,,Labrador City
-"St. John's, nl, Canada",Low Risk,47.5556097,-52.7452511,Low (1-3),St. John's
+"St. John's, nl, Canada",,47.5556097,-52.7452511,,St. John's
 "Whitehorse, yt, Canada",Low Risk,60.7197137,-135.0522761,Low (1-3),Whitehorse
 "Fort Simpson, nt, Canada",,61.86330512,-121.3537357,,Fort Simpson
 "Fort Smith, nt, Canada",Low Risk,60.00552,-111.8849379,Low (1-3),Fort Smith
