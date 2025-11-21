@@ -1,9 +1,9 @@
 Location,Observed,Latitude,Longitude,Risk,Label
 "Castlegar, bc, Canada",Low Risk,49.3237408,-117.6593341,Low (1-3),Castlegar
 "Central Fraser Valley, bc, Canada",Low Risk,49.3764104,-121.8159307,Low (1-3),Central Fraser Valley
-"Central Okanagan, bc, Canada",Low Risk,49.9473663,-119.5588209,Low (1-3),Central Okanagan
+"Central Okanagan, bc, Canada",,49.9473663,-119.5588209,,Central Okanagan
 "Comox Valley, bc, Canada",Low Risk,49.6735133,-124.9282659,Low (1-3),Comox Valley
-"Cranbrook, bc, Canada",Moderate Risk,49.5129678,-115.7694002,Moderate (4-6),Cranbrook
+"Cranbrook, bc, Canada",Low Risk,49.5129678,-115.7694002,Low (1-3),Cranbrook
 "Duncan, bc, Canada",Low Risk,48.7786908,-123.7079416,Low (1-3),Duncan
 "Eastern Fraser Valley, bc, Canada",Low Risk,49.3764104,-121.8159307,Low (1-3),Eastern Fraser Valley
 "Fort St. John, bc, Canada",Low Risk,56.252423,-120.846409,Low (1-3),Fort St. John
@@ -17,7 +17,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "North Okanagan, bc, Canada",Low Risk,50.3398977,-118.7840936,Low (1-3),North Okanagan
 "Prince George, bc, Canada",Low Risk,53.9170641,-122.7496693,Low (1-3),Prince George
 "Quesnel, bc, Canada",Low Risk,52.9817372,-122.4949058,Low (1-3),Quesnel
-"Smithers, bc, Canada",Low Risk,54.782355,-127.1685541,Low (1-3),Smithers
+"Smithers, bc, Canada",Moderate Risk,54.782355,-127.1685541,Moderate (4-6),Smithers
 "South Okanagan, bc, Canada",Low Risk,53.7266683,-127.6476206,Low (1-3),South Okanagan
 "Sparwood, bc, Canada",Low Risk,49.7308665,-114.8861593,Low (1-3),Sparwood
 "Squamish, bc, Canada",Low Risk,49.7016339,-123.1558121,Low (1-3),Squamish
@@ -31,7 +31,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Calgary, ab, Canada",Low Risk,51.0447331,-114.0718831,Low (1-3),Calgary
 "Cold Lake, ab, Canada",Low Risk,54.464249,-110.1731779,Low (1-3),Cold Lake
 "Drayton Valley, ab, Canada",Low Risk,53.2214945,-114.976746,Low (1-3),Drayton Valley
-"Edmonton, ab, Canada",Moderate Risk,53.5460983,-113.4937266,Moderate (4-6),Edmonton
+"Edmonton, ab, Canada",Low Risk,53.5460983,-113.4937266,Low (1-3),Edmonton
 "Edson, ab, Canada",Low Risk,53.585422,-116.4337219,Low (1-3),Edson
 "Fort Chipewyan, ab, Canada",Low Risk,58.7133284,-111.1574916,Low (1-3),Fort Chipewyan
 "Fort McKay, ab, Canada",Low Risk,57.186758,-111.636785,Low (1-3),Fort McKay
@@ -72,7 +72,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Hamilton Mountain, on, Canada",Low Risk,,,Low (1-3),Hamilton Mountain
 "Hamilton West, on, Canada",Low Risk,,,Low (1-3),Hamilton West
 "Kingston, on, Canada",Low Risk,44.2311717,-76.4859544,Low (1-3),Kingston
-"Kitchener, on, Canada",Low Risk,43.4516395,-80.4925337,Low (1-3),Kitchener
+"Kitchener, on, Canada",Moderate Risk,43.4516395,-80.4925337,Moderate (4-6),Kitchener
 "London, on, Canada",Low Risk,42.9849233,-81.2452768,Low (1-3),London
 "Milton, on, Canada",Low Risk,43.5182991,-79.8774042,Low (1-3),Milton
 "Mississauga, on, Canada",Low Risk,43.5890452,-79.6441198,Low (1-3),Mississauga
@@ -90,14 +90,14 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Sudbury, on, Canada",Low Risk,46.4917317,-80.993029,Low (1-3),Sudbury
 "Thunder Bay, on, Canada",Low Risk,48.3808951,-89.2476823,Low (1-3),Thunder Bay
 "Tiverton, on, Canada",Low Risk,44.2676578,-81.5433231,Low (1-3),Tiverton
-"Toronto, on, Canada",Low Risk,43.653226,-79.3831843,Low (1-3),Toronto
-"Toronto Downtown, on, Canada",Low Risk,,,Low (1-3),Toronto Downtown
+"Toronto, on, Canada",Moderate Risk,43.653226,-79.3831843,Moderate (4-6),Toronto
+"Toronto Downtown, on, Canada",Moderate Risk,,,Moderate (4-6),Toronto Downtown
 "Toronto East, on, Canada",Low Risk,,,Low (1-3),Toronto East
 "Toronto North, on, Canada",Low Risk,,,Low (1-3),Toronto North
 "Toronto West, on, Canada",Low Risk,,,Low (1-3),Toronto West
-"Windsor, on, Canada",Moderate Risk,42.3149367,-83.0363633,Moderate (4-6),Windsor
-"Windsor Downtown, on, Canada",Moderate Risk,,,Moderate (4-6),Windsor Downtown
-"Windsor West, on, Canada",Moderate Risk,,,Moderate (4-6),Windsor West
+"Windsor, on, Canada",Low Risk,42.3149367,-83.0363633,Low (1-3),Windsor
+"Windsor Downtown, on, Canada",Low Risk,,,Low (1-3),Windsor Downtown
+"Windsor West, on, Canada",Low Risk,,,Low (1-3),Windsor West
 "Gatineau, qc, Canada",,45.4765446,-75.7012723,,Gatineau
 "Montréal, qc, Canada",,45.5018869,-73.5673919,,Montréal
 "Québec, qc, Canada",,46.8130816,-71.2074596,,Québec
@@ -116,7 +116,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Pictou, ns, Canada",Low Risk,45.6761282,-62.708845,Low (1-3),Pictou
 "Port Hawkesbury, ns, Canada",Low Risk,45.6148755,-61.3518164,Low (1-3),Port Hawkesbury
 "Sydney, ns, Canada",Low Risk,46.1367899,-60.194224,Low (1-3),Sydney
-"Charlottetown, pe, Canada",Low Risk,46.23824,-63.1310704,Low (1-3),Charlottetown
+"Charlottetown, pe, Canada",Moderate Risk,46.23824,-63.1310704,Moderate (4-6),Charlottetown
 "St. Peters Bay, pe, Canada",Low Risk,46.4174453,-62.5810333,Low (1-3),St. Peters Bay
 "Summerside (Wellington), pe, Canada",Low Risk,46.4538293,-63.9995297,Low (1-3),Summerside (Wellington)
 "Burin, nl, Canada",Low Risk,47.0777517,-55.1762977,Low (1-3),Burin
