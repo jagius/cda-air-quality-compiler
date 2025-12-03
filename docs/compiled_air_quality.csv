@@ -90,11 +90,11 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Sudbury, on, Canada",Low Risk,46.4917317,-80.993029,Low (1-3),Sudbury
 "Thunder Bay, on, Canada",Low Risk,48.3808951,-89.2476823,Low (1-3),Thunder Bay
 "Tiverton, on, Canada",Low Risk,44.2676578,-81.5433231,Low (1-3),Tiverton
-"Toronto, on, Canada",Moderate Risk,43.653226,-79.3831843,Moderate (4-6),Toronto
+"Toronto, on, Canada",Low Risk,43.653226,-79.3831843,Low (1-3),Toronto
 "Toronto Downtown, on, Canada",Moderate Risk,,,Moderate (4-6),Toronto Downtown
-"Toronto East, on, Canada",Moderate Risk,,,Moderate (4-6),Toronto East
-"Toronto North, on, Canada",Moderate Risk,,,Moderate (4-6),Toronto North
-"Toronto West, on, Canada",Moderate Risk,,,Moderate (4-6),Toronto West
+"Toronto East, on, Canada",Low Risk,,,Low (1-3),Toronto East
+"Toronto North, on, Canada",Low Risk,,,Low (1-3),Toronto North
+"Toronto West, on, Canada",Low Risk,,,Low (1-3),Toronto West
 "Windsor, on, Canada",Low Risk,42.3149367,-83.0363633,Low (1-3),Windsor
 "Windsor Downtown, on, Canada",Low Risk,,,Low (1-3),Windsor Downtown
 "Windsor West, on, Canada",Low Risk,,,Low (1-3),Windsor West
