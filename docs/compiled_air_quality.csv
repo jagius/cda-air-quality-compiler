@@ -20,7 +20,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Smithers, bc, Canada",Low Risk,54.782355,-127.1685541,Low (1-3),Smithers
 "South Okanagan, bc, Canada",Low Risk,53.7266683,-127.6476206,Low (1-3),South Okanagan
 "Sparwood, bc, Canada",Low Risk,49.7308665,-114.8861593,Low (1-3),Sparwood
-"Squamish, bc, Canada",Low Risk,49.7016339,-123.1558121,Low (1-3),Squamish
+"Squamish, bc, Canada",,49.7016339,-123.1558121,,Squamish
 "Terrace, bc, Canada",Low Risk,54.5181925,-128.603154,Low (1-3),Terrace
 "Victoria/Saanich, bc, Canada",Low Risk,48.4284207,-123.3656444,Low (1-3),Victoria/Saanich
 "WestShore, bc, Canada",Low Risk,48.4474626,-123.4956337,Low (1-3),WestShore
