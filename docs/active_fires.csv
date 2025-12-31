@@ -1,10 +1,8 @@
 FID,hectares,lat,lon,stage_of_control
-activefires_current.fid-67cc5ce0_19b7069fa1c_-8b8,16852.0,54.81140137,-115.41030121,UC
-activefires_current.fid-67cc5ce0_19b7069fa1c_-8b7,7665.0,54.35580063,-106.14209747,OC
-activefires_current.fid-67cc5ce0_19b7069fa1c_-8b6,68023.0,55.19309998,-110.68810272,UC
-activefires_current.fid-67cc5ce0_19b7069fa1c_-8b5,52358.80078125,58.53620148,-118.86260223,UC
-activefires_current.fid-67cc5ce0_19b7069fa1c_-8b4,1.79999995,47.71160126,-65.29340363,UC
-activefires_current.fid-67cc5ce0_19b7069fa1c_-8b3,0.0,50.55369949,-119.33969879,UC
-activefires_current.fid-67cc5ce0_19b7069fa1c_-8b2,138581.0,56.78900146,-113.83760071,UC
-activefires_current.fid-67cc5ce0_19b7069fa1c_-8b1,74621.0,56.99769974,-114.45999908,UC
-activefires_current.fid-67cc5ce0_19b7069fa1c_-8b0,88302.0,56.31959915,-115.10500336,UC
+activefires_current.fid-67cc5ce0_19b71f8905c_-1301,16852.0,54.81140137,-115.41030121,UC
+activefires_current.fid-67cc5ce0_19b71f8905c_-1300,7665.0,54.35580063,-106.14209747,OC
+activefires_current.fid-67cc5ce0_19b71f8905c_-12ff,68023.0,55.19309998,-110.68810272,UC
+activefires_current.fid-67cc5ce0_19b71f8905c_-12fe,52358.80078125,58.53620148,-118.86260223,UC
+activefires_current.fid-67cc5ce0_19b71f8905c_-12fd,1.79999995,47.71160126,-65.29340363,UC
+activefires_current.fid-67cc5ce0_19b71f8905c_-12fc,0.0,50.55369949,-119.33969879,UC
+activefires_current.fid-67cc5ce0_19b71f8905c_-12fb,138581.0,56.78900146,-113.83760071,UC
