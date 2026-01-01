@@ -4,7 +4,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Central Okanagan, bc, Canada",Low Risk,49.9473663,-119.5588209,Low (1-3),Central Okanagan
 "Comox Valley, bc, Canada",Low Risk,49.6735133,-124.9282659,Low (1-3),Comox Valley
 "Cranbrook, bc, Canada",Low Risk,49.5129678,-115.7694002,Low (1-3),Cranbrook
-"Duncan, bc, Canada",Moderate Risk,48.7786908,-123.7079416,Moderate (4-6),Duncan
+"Duncan, bc, Canada",Low Risk,48.7786908,-123.7079416,Low (1-3),Duncan
 "Eastern Fraser Valley, bc, Canada",Low Risk,49.3764104,-121.8159307,Low (1-3),Eastern Fraser Valley
 "Fort St. John, bc, Canada",Low Risk,56.252423,-120.846409,Low (1-3),Fort St. John
 "Kamloops, bc, Canada",Low Risk,50.674522,-120.3272674,Low (1-3),Kamloops
@@ -21,17 +21,17 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "South Okanagan, bc, Canada",Low Risk,53.7266683,-127.6476206,Low (1-3),South Okanagan
 "Sparwood, bc, Canada",Low Risk,49.7308665,-114.8861593,Low (1-3),Sparwood
 "Squamish, bc, Canada",Low Risk,49.7016339,-123.1558121,Low (1-3),Squamish
-"Terrace, bc, Canada",Moderate Risk,54.5181925,-128.603154,Moderate (4-6),Terrace
+"Terrace, bc, Canada",Low Risk,54.5181925,-128.603154,Low (1-3),Terrace
 "Victoria/Saanich, bc, Canada",Low Risk,48.4284207,-123.3656444,Low (1-3),Victoria/Saanich
 "WestShore, bc, Canada",Low Risk,48.4474626,-123.4956337,Low (1-3),WestShore
 "Whistler, bc, Canada",Low Risk,50.1161686,-122.9535117,Low (1-3),Whistler
 "Williams Lake, bc, Canada",Low Risk,52.1416736,-122.1416885,Low (1-3),Williams Lake
 "Airdrie, ab, Canada",Low Risk,51.2926968,-114.0134113,Low (1-3),Airdrie
 "Brooks, ab, Canada",Low Risk,50.56538876,-111.897462,Low (1-3),Brooks
-"Calgary, ab, Canada",Low Risk,51.0447331,-114.0718831,Low (1-3),Calgary
+"Calgary, ab, Canada",Moderate Risk,51.0447331,-114.0718831,Moderate (4-6),Calgary
 "Cold Lake, ab, Canada",Low Risk,54.464249,-110.1731779,Low (1-3),Cold Lake
 "Drayton Valley, ab, Canada",Low Risk,53.2214945,-114.976746,Low (1-3),Drayton Valley
-"Edmonton, ab, Canada",Moderate Risk,53.5460983,-113.4937266,Moderate (4-6),Edmonton
+"Edmonton, ab, Canada",Low Risk,53.5460983,-113.4937266,Low (1-3),Edmonton
 "Edson, ab, Canada",Low Risk,53.585422,-116.4337219,Low (1-3),Edson
 "Fort Chipewyan, ab, Canada",Low Risk,58.7133284,-111.1574916,Low (1-3),Fort Chipewyan
 "Fort McKay, ab, Canada",Low Risk,57.186758,-111.636785,Low (1-3),Fort McKay
@@ -45,11 +45,11 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Medicine Hat, ab, Canada",Low Risk,50.0290218,-110.7031976,Low (1-3),Medicine Hat
 "Red Deer, ab, Canada",Moderate Risk,52.2690328,-113.8114955,Moderate (4-6),Red Deer
 "St. Albert, ab, Canada",Low Risk,53.6539037,-113.6292701,Low (1-3),St. Albert
-"Strathcona County, ab, Canada",Moderate Risk,53.5326776,-113.1553199,Moderate (4-6),Strathcona County
+"Strathcona County, ab, Canada",Low Risk,53.5326776,-113.1553199,Low (1-3),Strathcona County
 "Sturgeon County, ab, Canada",Low Risk,53.81567,-113.562732,Low (1-3),Sturgeon County
 "Wood Buffalo - south, ab, Canada",Low Risk,57.6066083,-111.6495855,Low (1-3),Wood Buffalo - south
 "Buffalo Narrows, sk, Canada",Low Risk,55.8628398,-108.4794604,Low (1-3),Buffalo Narrows
-"Estevan, sk, Canada",Low Risk,49.1390842,-102.9914807,Low (1-3),Estevan
+"Estevan, sk, Canada",Moderate Risk,49.1390842,-102.9914807,Moderate (4-6),Estevan
 "Prince Albert, sk, Canada",Low Risk,53.2033494,-105.7530705,Low (1-3),Prince Albert
 "Regina, sk, Canada",Low Risk,50.4452112,-104.6188944,Low (1-3),Regina
 "Saskatoon, sk, Canada",Low Risk,52.157902,-106.6701577,Low (1-3),Saskatoon
@@ -120,8 +120,8 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "St. Peters Bay, pe, Canada",Low Risk,46.4174453,-62.5810333,Low (1-3),St. Peters Bay
 "Summerside (Wellington), pe, Canada",Low Risk,46.4538293,-63.9995297,Low (1-3),Summerside (Wellington)
 "Burin, nl, Canada",,47.0777517,-55.1762977,,Burin
-"Corner Brook, nl, Canada",Low Risk,48.9523316,-57.9460401,Low (1-3),Corner Brook
-"Grand Falls-Windsor, nl, Canada",Low Risk,48.9279047,-55.6598977,Low (1-3),Grand Falls-Windsor
+"Corner Brook, nl, Canada",,48.9523316,-57.9460401,,Corner Brook
+"Grand Falls-Windsor, nl, Canada",,48.9279047,-55.6598977,,Grand Falls-Windsor
 "Labrador City, nl, Canada",Low Risk,52.9383852,-66.9153137,Low (1-3),Labrador City
 "St. John's, nl, Canada",Low Risk,47.5556097,-52.7452511,Low (1-3),St. John's
 "Whitehorse, yt, Canada",Low Risk,60.7197137,-135.0522761,Low (1-3),Whitehorse
