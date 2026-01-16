@@ -6,7 +6,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Cranbrook, bc, Canada",,49.5129678,-115.7694002,,Cranbrook
 "Duncan, bc, Canada",,48.7786908,-123.7079416,,Duncan
 "Eastern Fraser Valley, bc, Canada",Low Risk,49.3764104,-121.8159307,Low (1-3),Eastern Fraser Valley
-"Fort St. John, bc, Canada",Low Risk,56.252423,-120.846409,Low (1-3),Fort St. John
+"Fort St. John, bc, Canada",Moderate Risk,56.252423,-120.846409,Moderate (4-6),Fort St. John
 "Kamloops, bc, Canada",Low Risk,50.674522,-120.3272674,Low (1-3),Kamloops
 "Kitimat, bc, Canada",Low Risk,54.0632661,-128.637191,Low (1-3),Kitimat
 "Metro Vancouver - NE, bc, Canada",Low Risk,49.3224696,-122.8568391,Low (1-3),Metro Vancouver - NE
@@ -31,7 +31,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Calgary, ab, Canada",Low Risk,51.0447331,-114.0718831,Low (1-3),Calgary
 "Cold Lake, ab, Canada",Low Risk,54.464249,-110.1731779,Low (1-3),Cold Lake
 "Drayton Valley, ab, Canada",Low Risk,53.2214945,-114.976746,Low (1-3),Drayton Valley
-"Edmonton, ab, Canada",Low Risk,53.5460983,-113.4937266,Low (1-3),Edmonton
+"Edmonton, ab, Canada",Moderate Risk,53.5460983,-113.4937266,Moderate (4-6),Edmonton
 "Edson, ab, Canada",Low Risk,53.585422,-116.4337219,Low (1-3),Edson
 "Fort Chipewyan, ab, Canada",Low Risk,58.7133284,-111.1574916,Low (1-3),Fort Chipewyan
 "Fort McKay, ab, Canada",Low Risk,57.186758,-111.636785,Low (1-3),Fort McKay
@@ -87,13 +87,13 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Sarnia, on, Canada",Low Risk,42.974536,-82.4065901,Low (1-3),Sarnia
 "Sault Ste. Marie, on, Canada",Low Risk,46.5136494,-84.3357526,Low (1-3),Sault Ste. Marie
 "St. Catharines, on, Canada",Low Risk,43.1593745,-79.2468626,Low (1-3),St. Catharines
-"Sudbury, on, Canada",Moderate Risk,46.4917317,-80.993029,Moderate (4-6),Sudbury
+"Sudbury, on, Canada",Low Risk,46.4917317,-80.993029,Low (1-3),Sudbury
 "Thunder Bay, on, Canada",Low Risk,48.3808951,-89.2476823,Low (1-3),Thunder Bay
 "Tiverton, on, Canada",Low Risk,44.2676578,-81.5433231,Low (1-3),Tiverton
 "Toronto, on, Canada",Moderate Risk,43.653226,-79.3831843,Moderate (4-6),Toronto
 "Toronto Downtown, on, Canada",Moderate Risk,,,Moderate (4-6),Toronto Downtown
 "Toronto East, on, Canada",Low Risk,,,Low (1-3),Toronto East
-"Toronto North, on, Canada",Low Risk,,,Low (1-3),Toronto North
+"Toronto North, on, Canada",Moderate Risk,,,Moderate (4-6),Toronto North
 "Toronto West, on, Canada",Low Risk,,,Low (1-3),Toronto West
 "Windsor, on, Canada",Low Risk,42.3149367,-83.0363633,Low (1-3),Windsor
 "Windsor Downtown, on, Canada",Low Risk,,,Low (1-3),Windsor Downtown
