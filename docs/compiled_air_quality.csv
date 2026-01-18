@@ -1,6 +1,6 @@
 Location,Observed,Latitude,Longitude,Risk,Label
 "Castlegar, bc, Canada",,49.3237408,-117.6593341,,Castlegar
-"Central Fraser Valley, bc, Canada",Low Risk,49.3764104,-121.8159307,Low (1-3),Central Fraser Valley
+"Central Fraser Valley, bc, Canada",Moderate Risk,49.3764104,-121.8159307,Moderate (4-6),Central Fraser Valley
 "Central Okanagan, bc, Canada",,49.9473663,-119.5588209,,Central Okanagan
 "Comox Valley, bc, Canada",,49.6735133,-124.9282659,,Comox Valley
 "Cranbrook, bc, Canada",,49.5129678,-115.7694002,,Cranbrook
@@ -103,7 +103,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Québec, qc, Canada",,46.8130816,-71.2074596,,Québec
 "Bathurst, nb, Canada",Low Risk,47.6183507,-65.6513358,Low (1-3),Bathurst
 "Campbellton, nb, Canada",Low Risk,48.007399,-66.6722057,Low (1-3),Campbellton
-"Edmundston, nb, Canada",Low Risk,47.3690127,-68.3266741,Low (1-3),Edmundston
+"Edmundston, nb, Canada",Moderate Risk,47.3690127,-68.3266741,Moderate (4-6),Edmundston
 "Fredericton, nb, Canada",Low Risk,45.9635895,-66.6431151,Low (1-3),Fredericton
 "Miramichi, nb, Canada",Low Risk,47.0295709,-65.5059061,Low (1-3),Miramichi
 "Moncton, nb, Canada",Low Risk,46.0878165,-64.7782313,Low (1-3),Moncton
