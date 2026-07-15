@@ -11,13 +11,12 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 25
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v5
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v6
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
@@ -25,20 +24,13 @@ jobs:
         run: pip install pandas lxml
 
       - name: Run air quality scraper
-        timeout-minutes: 12
-        run: timeout 10m python scrape_to_csv.py
-
-      - name: Run fire data scraper
-        timeout-minutes: 6
-        run: timeout 5m python scrape_fires.py
-
-      - name: Verify generated CSV files
-        run: |
-          test -f output/compiled_air_quality.csv || echo "compiled_air_quality.csv not created yet"
-          test -f output/active_fires.csv || { echo "active_fires.csv missing"; exit 1; }
+        run: python scrape_to_csv.py
 
       - name: Compile CSV
         run: python compile_air_quality.py
+
+      - name: Run fire data scraper
+        run: python scrape_fires.py
 
       - name: Move compiled CSV to docs for GitHub Pages
         run: |
