@@ -1,6 +1,11 @@
 # fetch the data from https://cwfis.cfs.nrcan.gc.ca/geoserver/public/wfs?SERVICE=WFS&REQUEST=GetFeature&VERSION=2.0.0&TYPENAME=public:activefires_current&PROPERTYNAME=(lat,lon,hectares,stage_of_control)&CQL_FILTER=NOT agency='ak' AND NOT agency='conus' AND NOT stage_of_control='OUT'&SRSNAME=urn:x-ogc:def:crs:EPSG:4326&OUTPUTFORMAT=csv and add a copy to the output directory
 import pandas as pd
 import os
+import time
+import socket
+from io import StringIO
+from urllib.error import HTTPError, URLError
+from urllib.request import Request, urlopen
 
 url = (
     "https://cwfis.cfs.nrcan.gc.ca/geoserver/public/wfs"
@@ -12,14 +17,30 @@ url = (
     "&OUTPUTFORMAT=csv"
 )
 
+REQUEST_TIMEOUT_SECONDS = 30
+MAX_RETRIES = 3
+RETRY_DELAY_SECONDS = 3
+
 # first ensure the output directory exists
 if not os.path.exists("output"):
     os.makedirs("output")
 
-# try to read the CSV from the URL and save it
-try:
-    df = pd.read_csv(url)
-    df.to_csv(os.path.join("output", "active_fires.csv"), index=False)
-    print("Active fires data fetched and saved to output/active_fires.csv")
-except Exception as e:
-    print(f"Error fetching active fires data: {e}")
+request = Request(url, headers={"User-Agent": "Mozilla/5.0"})
+
+for attempt in range(1, MAX_RETRIES + 1):
+    try:
+        with urlopen(request, timeout=REQUEST_TIMEOUT_SECONDS) as response:
+            csv_text = response.read().decode("utf-8", errors="replace")
+        df = pd.read_csv(StringIO(csv_text))
+        df.to_csv(os.path.join("output", "active_fires.csv"), index=False)
+        print("Active fires data fetched and saved to output/active_fires.csv", flush=True)
+        break
+    except (HTTPError, URLError, socket.timeout, TimeoutError, ValueError) as e:
+        if attempt == MAX_RETRIES:
+            raise RuntimeError(f"Error fetching active fires data after {MAX_RETRIES} attempts: {e}") from e
+        print(
+            f"Attempt {attempt}/{MAX_RETRIES} failed while fetching fire data: {e}. "
+            f"Retrying in {RETRY_DELAY_SECONDS}s...",
+            flush=True,
+        )
+        time.sleep(RETRY_DELAY_SECONDS)

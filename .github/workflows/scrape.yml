@@ -32,7 +32,13 @@ jobs:
         run: python compile_air_quality.py
 
       - name: Run fire data scraper
-        run: python scrape_fires.py
+        timeout-minutes: 6
+        run: timeout 5m python scrape_fires.py
+
+      - name: Verify generated CSV files
+        run: |
+          test -f output/compiled_air_quality.csv
+          test -f output/active_fires.csv
 
       - name: Move compiled CSV to docs for GitHub Pages
         run: |
