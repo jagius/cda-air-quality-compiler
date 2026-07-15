@@ -11,12 +11,13 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 25
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: '3.11'
 
@@ -24,7 +25,8 @@ jobs:
         run: pip install pandas lxml
 
       - name: Run air quality scraper
-        run: python scrape_to_csv.py
+        timeout-minutes: 12
+        run: timeout 10m python scrape_to_csv.py
 
       - name: Compile CSV
         run: python compile_air_quality.py
