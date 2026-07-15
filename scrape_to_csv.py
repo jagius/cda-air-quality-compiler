@@ -42,6 +42,23 @@ def fetch_tables(url: str):
             time.sleep(RETRY_DELAY_SECONDS)
 
 failed_provinces = []
+
+
+def parse_observed(value):
+    if pd.isna(value):
+        return None
+
+    text = str(value).strip()
+    if not text:
+        return None
+
+    # Typical values are like "2 Low Risk"; keep the descriptive text.
+    parts = text.split(" ", 1)
+    if len(parts) == 2:
+        return parts[1].strip() or None
+    return text
+
+
 for prov in provinces:
     url = base_url.format(prov)
     print(f"Processing {prov} from {url}", flush=True)
@@ -59,7 +76,8 @@ for prov in provinces:
         df['Location'] = df.iloc[:, 0].astype(str).apply(lambda x: f"{x}, {prov}, Canada")
 
         # Extract AQHI risk text from values like "2 Low Risk".
-        df['Observed'] = df.iloc[:, 1].astype(str).str.split(' ', n=1).str[1]
+        observed_source = df.iloc[:, 1] if df.shape[1] > 1 else pd.Series([None] * len(df), index=df.index)
+        df['Observed'] = observed_source.apply(parse_observed)
 
         csv_filename = os.path.join(output_dir, f"{prov}_air_quality.csv")
 
