@@ -39,7 +39,7 @@ for prov in province_order:
      # Add Risk column based on Observed
     merged['Risk'] = df['Observed'].map(risk_labels)
     # Add Label column as the string before the first comma in Location
-    merged['Label'] = merged['Location'].str.split(',').str[0]
+    merged['Label'] = merged['Location'].astype(str).str.split(',').str[0]
     compiled.append(merged[['Location', 'Observed', 'Latitude', 'Longitude', 'Risk', 'Label']])
 
 
