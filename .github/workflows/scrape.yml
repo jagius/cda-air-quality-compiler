@@ -28,17 +28,17 @@ jobs:
         timeout-minutes: 12
         run: timeout 10m python scrape_to_csv.py
 
-      - name: Compile CSV
-        run: python compile_air_quality.py
-
       - name: Run fire data scraper
         timeout-minutes: 6
         run: timeout 5m python scrape_fires.py
 
       - name: Verify generated CSV files
         run: |
-          test -f output/compiled_air_quality.csv
-          test -f output/active_fires.csv
+          test -f output/compiled_air_quality.csv || echo "compiled_air_quality.csv not created yet"
+          test -f output/active_fires.csv || { echo "active_fires.csv missing"; exit 1; }
+
+      - name: Compile CSV
+        run: python compile_air_quality.py
 
       - name: Move compiled CSV to docs for GitHub Pages
         run: |

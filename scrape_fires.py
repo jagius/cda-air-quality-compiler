@@ -75,7 +75,13 @@ def normalize_columns(df):
     return output
 
 
+def write_empty_fire_csv(path):
+    empty_df = pd.DataFrame(columns=["lat", "lon", "hectares", "stage_of_control"])
+    empty_df.to_csv(path, index=False)
+
+
 os.makedirs("output", exist_ok=True)
+output_path = os.path.join("output", "active_fires.csv")
 
 last_error = None
 for candidate in QUERY_CANDIDATES:
@@ -85,7 +91,7 @@ for candidate in QUERY_CANDIDATES:
         csv_text = fetch_csv_text(url)
         raw_df = pd.read_csv(StringIO(csv_text))
         df = normalize_columns(raw_df)
-        df.to_csv(os.path.join("output", "active_fires.csv"), index=False)
+        df.to_csv(output_path, index=False)
         print(
             f"Active fires data fetched using {candidate['TYPENAME']} and saved to output/active_fires.csv",
             flush=True,
@@ -97,4 +103,9 @@ for candidate in QUERY_CANDIDATES:
         print(f"Source {candidate['TYPENAME']} failed: {err}", flush=True)
 
 if last_error is not None:
-    raise RuntimeError(f"All fire sources failed. Last error: {last_error}")
+    write_empty_fire_csv(output_path)
+    print(
+        "All fire sources failed. Wrote empty output/active_fires.csv with headers "
+        f"for downstream steps. Last error: {last_error}",
+        flush=True,
+    )
