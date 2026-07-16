@@ -37,6 +37,7 @@ jobs:
           mkdir -p docs
           cp output/compiled_air_quality.csv docs/
           cp output/active_fires.csv docs/
+          cp output/active_fires_on.csv docs/
 
       - name: Commit and push changes
         run: |
@@ -44,5 +45,6 @@ jobs:
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add docs/compiled_air_quality.csv
           git add docs/active_fires.csv
+          git add docs/active_fires_on.csv
           git commit -m "Update compiled air quality CSV [skip ci]" || echo "No changes to commit"
           git push

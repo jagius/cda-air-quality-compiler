@@ -1,0 +1,2 @@
+FID,id,agency_code,region_code,national_fire_id,agency_fire_id,national_fire_cause,fire_type_ics,severity_nearest_dsr,fire_was_prescribed,percent_contained,fire_size,response_type,stage_of_control_status,situation_report_date,status_date,latitude,longitude,geometry,fire_year,status_year,record_start,record_end
+cwfif_national_activefires.fid-50fc4393_19f6b347577_-3307,17988083,NB,,2026_NB_2026310,2026310,U,-1,-1,0,-1,6.0,FUL,OC,2026-07-16T06:55:00,2026-07-16T06:56:00,45.5524,-67.0694,POINT (2142796.737969 92145.816032),2026,2026,2026-07-16T11:45:00,2026-12-31T23:59:59.999
