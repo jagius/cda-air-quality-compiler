@@ -1,8 +1,6 @@
 # fetch the data from https://geoserver.cwfif.nrcan.gc.ca/geoserver/public/wfs?SERVICE=WFS&REQUEST=GetFeature&VERSION=2.0.0&TYPENAME=public:cwfif_national_activefires&PROPERTYNAME=(lat,lon,hectares,stage_of_control)&CQL_FILTER=NOT agency='ak' AND NOT agency='conus' AND NOT stage_of_control='OUT'&SRSNAME=urn:x-ogc:def:crs:EPSG:4326&OUTPUTFORMAT=csv and add a copy to the output directory
 import pandas as pd
 import os
-import io
-import requests
 # BASE SERVER URL HAS CHANGED TO  https://geoserver.cwfif.nrcan.gc.ca/
 url = (
     "https://geoserver.cwfif.nrcan.gc.ca/geoserver/wfs?service=WFS&version=2.0.1&request=GetFeature&outputFormat=csv&typeNames=public:cwfif_national_activefires&sortBy=agency_code+A,record_start+D&CQL_FILTER=record_start%3C=now()%20AND%20record_end%3Enow()"
@@ -15,15 +13,9 @@ provinces = ["bc", "ab", "sk", "mb", "on", "qc", "nb", "ns", "pe", "nl", "yt", "
 if not os.path.exists("output"):
     os.makedirs("output")
 
-# SSL verification is disabled locally to work around corporate proxy issues.
-# In CI (GitHub Actions) this env var is not set, so verify=True is used.
-ssl_verify = os.environ.get("DISABLE_SSL_VERIFY", "false").lower() != "true"
-
 # try to read the CSV from the URL and save it
 try:
-    response = requests.get(url, verify=ssl_verify)
-    response.raise_for_status()
-    df = pd.read_csv(io.StringIO(response.text))
+    df = pd.read_csv(url)
     df.to_csv(os.path.join("output", "active_fires.csv"), index=False)
     print("Active fires data fetched and saved to output/active_fires.csv")
 
