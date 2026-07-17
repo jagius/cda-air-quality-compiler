@@ -38,6 +38,13 @@ jobs:
           cp output/compiled_air_quality.csv docs/
           cp output/active_fires.csv docs/
           cp output/active_fires_on.csv docs/
+          cp output/active_fires_bc.csv docs/
+          cp output/active_fires_ab.csv docs/
+          cp output/active_fires_sk.csv docs/
+          cp output/active_fires_mb.csv docs/
+          cp output/active_fires_qc.csv docs/
+          cp output/active_fires_yt.csv docs/
+          cp output/active_fires_nt.csv docs/
 
       - name: Commit and push changes
         run: |
@@ -46,5 +53,12 @@ jobs:
           git add docs/compiled_air_quality.csv
           git add docs/active_fires.csv
           git add docs/active_fires_on.csv
-          git commit -m "Update compiled air quality CSV [skip ci]" || echo "No changes to commit"
+          git add docs/active_fires_bc.csv
+          git add docs/active_fires_ab.csv
+          git add docs/active_fires_sk.csv
+          git add docs/active_fires_mb.csv
+          git add docs/active_fires_qc.csv
+          git add docs/active_fires_yt.csv
+          git add docs/active_fires_nt.csv
+          git commit -m "Update compiled air quality CSV and active fires CSVs [skip ci]" || echo "No changes to commit"
           git push
