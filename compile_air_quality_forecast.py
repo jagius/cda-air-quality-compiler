@@ -21,27 +21,38 @@ province_order = ["bc", "ab", "sk", "mb", "on", "qc", "nb", "ns", "pe", "nl", "y
 
 # Loop through all province CSVs
 for prov in province_order:
-    csv_file = os.path.join("output", f"{prov}_air_quality_forecast.csv")
-    df = pd.read_csv(csv_file)
-    # Extract only the needed columns, rename for consistency
-    temp = pd.DataFrame()
-    temp['Location'] = df['Location']
-    temp['Observed'] = df['Observed']
-    # Merge with lookup on 'Location'
-    merged = pd.merge(temp, lookup, left_on='Location', right_on='Index', how='left')
-    # Select and rename columns as needed
-    merged = merged.rename(columns={
-        'lat': 'Latitude',
-        'lon': 'Longitude',
-        'Risk': 'Risk',
-        'Label': 'Label'
-    })
-     # Add Risk column based on Observed
-    merged['Risk'] = df['Observed'].map(risk_labels)
-    # Add Label column as the string before the first comma in Location
-    merged['Label'] = merged['Location'].astype(str).str.split(',').str[0]
-    compiled.append(merged[['Location', 'Observed', 'Latitude', 'Longitude', 'Risk', 'Label']])
+    csv_file = os.path.join("output", f"{prov}_air_quality_forecast.csv")  # use _forecast in forecast script
 
+    if not os.path.exists(csv_file):
+        print(f"Skipping {prov}: missing file {csv_file}")
+        continue
+
+    try:
+        df = pd.read_csv(csv_file)
+    except Exception as e:
+        print(f"Skipping {prov}: failed to read {csv_file} ({e})")
+        continue
+
+    # Validate required columns
+    required = {"Location", "Observed"}
+    if not required.issubset(df.columns):
+        print(f"Skipping {prov}: missing required columns in {csv_file}")
+        continue
+
+    temp = pd.DataFrame()
+    temp["Location"] = df["Location"]
+    temp["Observed"] = df["Observed"]
+
+    merged = pd.merge(temp, lookup, left_on="Location", right_on="Index", how="left")
+    merged = merged.rename(columns={"lat": "Latitude", "lon": "Longitude"})
+
+    merged["Risk"] = merged["Observed"].map(risk_labels)
+    merged["Label"] = merged["Location"].astype(str).str.split(",").str[0]
+
+    compiled.append(merged[["Location", "Observed", "Day_Forecast", "Night_Forecast", "Next_Day_Forecast", "Next_Night_Forecast", "Latitude", "Longitude", "Risk", "Label"]])
+
+if not compiled:
+    raise RuntimeError("No province files were successfully compiled.")
 
 # Concatenate all provinces
 result = pd.concat(compiled, ignore_index=True)
