@@ -14,6 +14,21 @@ ssl._create_default_https_context = ssl._create_unverified_context
 output_dir = "output"
 os.makedirs(output_dir, exist_ok=True)
 
+
+def extract_token(series, token_index):
+    # Safely split scraped values that may be numbers, NaN, or empty strings.
+    def _extract(value):
+        if pd.isna(value):
+            return ""
+        tokens = str(value).split()
+        if not tokens:
+            return ""
+        if token_index < len(tokens):
+            return tokens[token_index]
+        return tokens[-1]
+
+    return series.map(_extract)
+
 for prov in provinces:
     url = base_url.format(prov)
     try:
@@ -24,16 +39,16 @@ for prov in provinces:
         # Add 'Location' column (copy of first column)
         df['Location'] = df.iloc[:, 0].astype(str).apply(lambda x: f"{x}, {prov}, Canada")
 
-        # Add 'Observed' column (first word from second column)
-        df['Observed'] = df.iloc[:, 1].astype(str).str.split(' ', n=1).str[1]
-        # Add 'Day_Forecast' column (first word from third column)
-        df['Day_Forecast'] = df.iloc[:, 2].astype(str).str.split(' ', n=1).str[0]
-        # Add 'Night_Forecast' column (first word from fourth column)
-        df['Night_Forecast'] = df.iloc[:, 3].astype(str).str.split(' ', n=1).str[0]
-        # Add 'Next_Day_Forecast' column (first word from fifth column)
-        df['Next_Day_Forecast'] = df.iloc[:, 4].astype(str).str.split(' ', n=1).str[0]
-        # Add 'Next_Night_Forecast' column (first word from sixth column)
-        df['Next_Night_Forecast'] = df.iloc[:, 5].astype(str).str.split(' ', n=1).str[0]
+        # Add 'Observed' column (second token from second column when present)
+        df['Observed'] = extract_token(df.iloc[:, 1], 1)
+        # Add 'Day_Forecast' column (first token from third column)
+        df['Day_Forecast'] = extract_token(df.iloc[:, 2], 0)
+        # Add 'Night_Forecast' column (first token from fourth column)
+        df['Night_Forecast'] = extract_token(df.iloc[:, 3], 0)
+        # Add 'Next_Day_Forecast' column (first token from fifth column)
+        df['Next_Day_Forecast'] = extract_token(df.iloc[:, 4], 0)
+        # Add 'Next_Night_Forecast' column (first token from sixth column)
+        df['Next_Night_Forecast'] = extract_token(df.iloc[:, 5], 0)
 
         csv_filename = os.path.join(output_dir, f"{prov}_air_quality_forecast.csv")
 
