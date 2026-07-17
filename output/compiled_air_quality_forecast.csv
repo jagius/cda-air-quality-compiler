@@ -1,0 +1,135 @@
+Location,Observed,Day_Forecast,Night_Forecast,Next_Day_Forecast,Next_Night_Forecast,Latitude,Longitude,Risk,Label
+"Castlegar, bc, Canada",Low,3.0,3.0,2.0,2.0,49.3237408,-117.6593341,,Castlegar
+"Central Fraser Valley, bc, Canada",Low,3.0,3.0,3.0,3.0,49.3764104,-121.8159307,,Central Fraser Valley
+"Central Okanagan, bc, Canada",Low,3.0,3.0,2.0,2.0,49.9473663,-119.5588209,,Central Okanagan
+"Comox Valley, bc, Canada",Low,2.0,2.0,2.0,2.0,49.6735133,-124.9282659,,Comox Valley
+"Cranbrook, bc, Canada",Low,3.0,2.0,2.0,2.0,49.5129678,-115.7694002,,Cranbrook
+"Duncan, bc, Canada",Low,2.0,2.0,2.0,2.0,48.7786908,-123.7079416,,Duncan
+"Eastern Fraser Valley, bc, Canada",Low,3.0,3.0,3.0,3.0,49.3764104,-121.8159307,,Eastern Fraser Valley
+"Fort St. John, bc, Canada",Low,3.0,3.0,2.0,2.0,56.252423,-120.846409,,Fort St. John
+"Kamloops, bc, Canada",Moderate,4.0,3.0,3.0,2.0,50.674522,-120.3272674,,Kamloops
+"Kitimat, bc, Canada",Low,2.0,2.0,2.0,2.0,54.0632661,-128.637191,,Kitimat
+"Metro Vancouver - NE, bc, Canada",Low,2.0,2.0,2.0,2.0,49.3224696,-122.8568391,,Metro Vancouver - NE
+"Metro Vancouver - NW, bc, Canada",Low,2.0,2.0,2.0,2.0,49.2057179,-122.910956,,Metro Vancouver - NW
+"Metro Vancouver - SE, bc, Canada",Low,2.0,2.0,2.0,2.0,49.3224696,-122.8568391,,Metro Vancouver - SE
+"Metro Vancouver - SW, bc, Canada",Low,2.0,2.0,2.0,2.0,49.3224696,-122.8568391,,Metro Vancouver - SW
+"Nanaimo, bc, Canada",Low,2.0,2.0,2.0,2.0,49.1658836,-123.9400647,,Nanaimo
+"North Okanagan, bc, Canada",Low,3.0,3.0,2.0,2.0,50.3398977,-118.7840936,,North Okanagan
+"Prince George, bc, Canada",Low,3.0,3.0,2.0,2.0,53.9170641,-122.7496693,,Prince George
+"Quesnel, bc, Canada",Moderate,3.0,3.0,2.0,2.0,52.9817372,-122.4949058,,Quesnel
+"Smithers, bc, Canada",Low,3.0,3.0,2.0,2.0,54.782355,-127.1685541,,Smithers
+"South Okanagan, bc, Canada",Low,3.0,3.0,2.0,2.0,53.7266683,-127.6476206,,South Okanagan
+"Sparwood, bc, Canada",Low,3.0,2.0,2.0,2.0,49.7308665,-114.8861593,,Sparwood
+"Squamish, bc, Canada",Low,2.0,2.0,2.0,2.0,49.7016339,-123.1558121,,Squamish
+"Terrace, bc, Canada",Low,2.0,2.0,2.0,2.0,54.5181925,-128.603154,,Terrace
+"Victoria/Saanich, bc, Canada",Low,2.0,2.0,2.0,3.0,48.4284207,-123.3656444,,Victoria/Saanich
+"WestShore, bc, Canada",Low,2.0,2.0,2.0,3.0,48.4474626,-123.4956337,,WestShore
+"Whistler, bc, Canada",Low,3.0,3.0,2.0,2.0,50.1161686,-122.9535117,,Whistler
+"Williams Lake, bc, Canada",Low,2.0,2.0,1.0,1.0,52.1416736,-122.1416885,,Williams Lake
+"Airdrie, ab, Canada",Low,4,4,4.0,4.0,51.2926968,-114.0134113,,Airdrie
+"Brooks, ab, Canada",Low,3,3,3.0,3.0,50.56538876,-111.897462,,Brooks
+"Calgary, ab, Canada",Low,4,4,4.0,4.0,51.0447331,-114.0718831,,Calgary
+"Cold Lake, ab, Canada",Low,3,3,2.0,2.0,54.464249,-110.1731779,,Cold Lake
+"Drayton Valley, ab, Canada",Low,3,3,3.0,3.0,53.2214945,-114.976746,,Drayton Valley
+"Edmonton, ab, Canada",Low,4,4,4.0,4.0,53.5460983,-113.4937266,,Edmonton
+"Edson, ab, Canada",Low,3,3,3.0,3.0,53.585422,-116.4337219,,Edson
+"Fort Chipewyan, ab, Canada",Low,10+,10+,4.0,4.0,58.7133284,-111.1574916,,Fort Chipewyan
+"Fort McKay, ab, Canada",Low,2,2,3.0,2.0,57.186758,-111.636785,,Fort McKay
+"Fort McMurray, ab, Canada",Low,2,2,3.0,2.0,56.7266231,-111.3790095,,Fort McMurray
+"Fort Saskatchewan, ab, Canada",Low,3,2,3.0,3.0,53.6962239,-113.2163654,,Fort Saskatchewan
+"Genesee, ab, Canada",Low,4,4,3.0,3.0,53.34453394,-114.3267988,,Genesee
+"Grande Prairie, ab, Canada",Low,3,3,2.0,2.0,55.170691,-118.7884808,,Grande Prairie
+"Hinton, ab, Canada",Low,3,3,2.0,2.0,53.399067,-117.5794057,,Hinton
+"Lamont County, ab, Canada",Low,3,2,3.0,3.0,53.7901566,-112.5577641,,Lamont County
+"Lethbridge, ab, Canada",Low,3,3,3.0,3.0,49.6956181,-112.8451067,,Lethbridge
+"Medicine Hat, ab, Canada",Low,4,4,3.0,3.0,50.0290218,-110.7031976,,Medicine Hat
+"Red Deer, ab, Canada",Low,3,3,4.0,4.0,52.2690328,-113.8114955,,Red Deer
+"St. Albert, ab, Canada",Low,4,4,4.0,4.0,53.6539037,-113.6292701,,St. Albert
+"Strathcona County, ab, Canada",Low,4,4,4.0,4.0,53.5326776,-113.1553199,,Strathcona County
+"Sturgeon County, ab, Canada",Low,3,2,3.0,3.0,53.81567,-113.562732,,Sturgeon County
+"Wood Buffalo - south, ab, Canada",Low,2,2,3.0,2.0,57.6066083,-111.6495855,,Wood Buffalo - south
+"Buffalo Narrows, sk, Canada",Low,3.0,3.0,2.0,3.0,55.8628398,-108.4794604,,Buffalo Narrows
+"Estevan, sk, Canada",Low,3.0,3.0,3.0,2.0,49.1390842,-102.9914807,,Estevan
+"Prince Albert, sk, Canada",Low,3.0,3.0,3.0,2.0,53.2033494,-105.7530705,,Prince Albert
+"Regina, sk, Canada",Low,3.0,3.0,3.0,3.0,50.4452112,-104.6188944,,Regina
+"Saskatoon, sk, Canada",Low,3.0,3.0,3.0,3.0,52.157902,-106.6701577,,Saskatoon
+"Swift Current, sk, Canada",Low,3.0,3.0,2.0,2.0,50.285069,-107.7971722,,Swift Current
+"Brandon, mb, Canada",Moderate,4.0,3.0,3.0,3.0,49.8437486,-99.9514807,,Brandon
+"Flin Flon, mb, Canada",Low,4.0,6.0,5.0,2.0,54.7751389,-101.8493669,,Flin Flon
+"Winnipeg, mb, Canada",Low,8.0,4.0,3.0,3.0,49.8954221,-97.1385145,,Winnipeg
+"Barrie, on, Canada",Low,10+,6,10,6,44.3893556,-79.6903316,,Barrie
+"Belleville, on, Canada",Low,3,4,7,5,44.1627589,-77.3832315,,Belleville
+"Brampton, on, Canada",Low,10+,10+,10,6,43.7315479,-79.7624177,,Brampton
+"Brantford, on, Canada",Very,10+,10+,10,6,43.1393867,-80.2644254,,Brantford
+"Burlington, on, Canada",Moderate,10+,10+,10,6,43.3255196,-79.7990319,,Burlington
+"Chatham, on, Canada",Very,10+,10+,10+,10+,42.4048018,-82.1910376,,Chatham
+"Cornwall, on, Canada",Low,3,3,7,6,45.0212762,-74.730345,,Cornwall
+"Dorset, on, Canada",Low,3,5,8,7,45.2444301,-78.8939439,,Dorset
+"Grand Bend, on, Canada",Very,10+,10+,10+,10+,43.3130397,-81.7562242,,Grand Bend
+"Guelph, on, Canada",Very,10+,10+,10,6,43.5448048,-80.2481666,,Guelph
+"Hamilton, on, Canada",High,10+,10+,10,6,43.2557206,-79.8711024,,Hamilton
+"Hamilton Downtown, on, Canada",High,10+,10+,10,6,,,,Hamilton Downtown
+"Hamilton Mountain, on, Canada",High,10+,10+,10,6,,,,Hamilton Mountain
+"Hamilton West, on, Canada",High,10+,10+,10,6,,,,Hamilton West
+"Kingston, on, Canada",Low,3,4,7,7,44.2311717,-76.4859544,,Kingston
+"Kitchener, on, Canada",High,10+,10+,10,6,43.4516395,-80.4925337,,Kitchener
+"London, on, Canada",High,10+,10+,10+,10+,42.9849233,-81.2452768,,London
+"Milton, on, Canada",Moderate,10+,10+,10,6,43.5182991,-79.8774042,,Milton
+"Mississauga, on, Canada",Low,10+,10+,10,6,43.5890452,-79.6441198,,Mississauga
+"Newmarket, on, Canada",Low,10,6,10,6,44.059187,-79.461256,,Newmarket
+"North Bay, on, Canada",Low,2,6,7,5,46.3091152,-79.4608204,,North Bay
+"Oakville, on, Canada",Low,10+,10+,10,6,43.467517,-79.6876659,,Oakville
+"Oshawa, on, Canada",Low,6,9,10,6,43.8970929,-78.8657912,,Oshawa
+"Ottawa, on, Canada",Low,3,5,7,5,45.4215296,-75.6971931,,Ottawa
+"Parry Sound, on, Canada",Low,3,5,8,7,45.3473925,-80.034783,,Parry Sound
+"Peterborough, on, Canada",Low,4,6,10,6,44.3047061,-78.3199606,,Peterborough
+"Port Stanley, on, Canada",Very,10+,10+,10+,10+,42.6641353,-81.2156329,,Port Stanley
+"Sarnia, on, Canada",Very,10+,10+,10+,10+,42.974536,-82.4065901,,Sarnia
+"Sault Ste. Marie, on, Canada",Low,10+,10+,10+,10,46.5136494,-84.3357526,,Sault Ste. Marie
+"St. Catharines, on, Canada",High,10+,10+,10,6,43.1593745,-79.2468626,,St. Catharines
+"Sudbury, on, Canada",Low,2,7,7,5,46.4917317,-80.993029,,Sudbury
+"Thunder Bay, on, Canada",Very,10+,10+,10+,10+,48.3808951,-89.2476823,,Thunder Bay
+"Tiverton, on, Canada",Very,10+,10+,10,7,44.2676578,-81.5433231,,Tiverton
+"Toronto, on, Canada",Low,3,10+,10+,5,43.653226,-79.3831843,,Toronto
+"Toronto Downtown, on, Canada",Low,3,10+,10+,5,,,,Toronto Downtown
+"Toronto East, on, Canada",Low,3,10+,10+,5,,,,Toronto East
+"Toronto North, on, Canada",Low,3,10+,10+,5,,,,Toronto North
+"Toronto West, on, Canada",Low,3,10+,10+,5,,,,Toronto West
+"Windsor, on, Canada",Very,10+,10+,10+,10+,42.3149367,-83.0363633,,Windsor
+"Windsor Downtown, on, Canada",Very,10+,10+,10+,10+,,,,Windsor Downtown
+"Windsor West, on, Canada",Very,10+,10+,10+,10+,,,,Windsor West
+"Gatineau, qc, Canada",calculated,3.0,3.0,5.0,4.0,45.4765446,-75.7012723,,Gatineau
+"Montréal, qc, Canada",calculated,2.0,2.0,4.0,5.0,45.5018869,-73.5673919,,Montréal
+"Québec, qc, Canada",calculated,1.0,1.0,2.0,2.0,46.8130816,-71.2074596,,Québec
+"Bathurst, nb, Canada",Low,2.0,2.0,2.0,3.0,47.6183507,-65.6513358,,Bathurst
+"Campbellton, nb, Canada",Low,2.0,2.0,2.0,3.0,48.007399,-66.6722057,,Campbellton
+"Edmundston, nb, Canada",Low,2.0,2.0,2.0,3.0,47.3690127,-68.3266741,,Edmundston
+"Fredericton, nb, Canada",Low,2.0,2.0,2.0,3.0,45.9635895,-66.6431151,,Fredericton
+"Miramichi, nb, Canada",Low,2.0,2.0,2.0,3.0,47.0295709,-65.5059061,,Miramichi
+"Moncton, nb, Canada",Low,2.0,2.0,2.0,3.0,46.0878165,-64.7782313,,Moncton
+"Saint Andrews, nb, Canada",Low,2.0,2.0,2.0,3.0,45.0738432,-67.0530897,,Saint Andrews
+"Saint John, nb, Canada",Low,2.0,2.0,2.0,3.0,45.2733153,-66.0633081,,Saint John
+"Halifax, ns, Canada",Low,2.0,2.0,2.0,2.0,44.8857087,-63.1005273,,Halifax
+"Halifax - Lake Major, ns, Canada",Low,2.0,2.0,2.0,2.0,,,,Halifax - Lake Major
+"Halifax Downtown, ns, Canada",Low,2.0,2.0,2.0,2.0,,,,Halifax Downtown
+"Kentville, ns, Canada",Low,2.0,2.0,2.0,2.0,45.0771182,-64.4942826,,Kentville
+"Pictou, ns, Canada",Low,2.0,2.0,2.0,2.0,45.6761282,-62.708845,,Pictou
+"Port Hawkesbury, ns, Canada",Low,2.0,2.0,2.0,2.0,45.6148755,-61.3518164,,Port Hawkesbury
+"Sydney, ns, Canada",Low,2.0,2.0,2.0,2.0,46.1367899,-60.194224,,Sydney
+"Charlottetown, pe, Canada",Low,1.0,1.0,2.0,2.0,46.23824,-63.1310704,,Charlottetown
+"St. Peters Bay, pe, Canada",,1.0,1.0,2.0,2.0,46.4174453,-62.5810333,,St. Peters Bay
+"Summerside (Wellington), pe, Canada",Low,1.0,1.0,2.0,2.0,46.4538293,-63.9995297,,Summerside (Wellington)
+"Burin, nl, Canada",Low,2.0,2.0,1.0,1.0,47.0777517,-55.1762977,,Burin
+"Corner Brook, nl, Canada",,2.0,1.0,2.0,2.0,48.9523316,-57.9460401,,Corner Brook
+"Grand Falls-Windsor, nl, Canada",Low,2.0,2.0,2.0,2.0,48.9279047,-55.6598977,,Grand Falls-Windsor
+"Labrador City, nl, Canada",Low,2.0,2.0,2.0,2.0,52.9383852,-66.9153137,,Labrador City
+"St. John's, nl, Canada",Low,2.0,2.0,1.0,2.0,47.5556097,-52.7452511,,St. John's
+"Whitehorse, yt, Canada",Low,2.0,2.0,2.0,2.0,60.7197137,-135.0522761,,Whitehorse
+"Fort Simpson, nt, Canada",,10+,8.0,9.0,10+,61.86330512,-121.3537357,,Fort Simpson
+"Fort Smith, nt, Canada",Very,10+,10.0,8.0,10+,60.00552,-111.8849379,,Fort Smith
+"Inuvik, nt, Canada",Low,1,1.0,2.0,2,68.3607437,-133.7230177,,Inuvik
+"Norman Wells, nt, Canada",Low,1,1.0,5.0,5,65.2814938,-126.8286524,,Norman Wells
+"Yellowknife, nt, Canada",Moderate,10+,9.0,7.0,10+,62.4539717,-114.3717886,,Yellowknife
+"Arviat, nu, Canada",,3.0,3.0,3.0,3.0,61.1078279,-94.0623691,,Arviat
+"Iqaluit, nu, Canada",,2.0,1.0,1.0,1.0,63.746693,-68.5169669,,Iqaluit
+"Kugluktuk, nu, Canada",,6.0,5.0,3.0,2.0,67.8252313,-115.0965503,,Kugluktuk

@@ -39,9 +39,19 @@ for prov in province_order:
         print(f"Skipping {prov}: missing required columns in {csv_file}")
         continue
 
+    # Ensure optional forecast columns always exist to keep a stable output schema.
+    forecast_columns = ["Day_Forecast", "Night_Forecast", "Next_Day_Forecast", "Next_Night_Forecast"]
+    for col in forecast_columns:
+        if col not in df.columns:
+            df[col] = ""
+
     temp = pd.DataFrame()
     temp["Location"] = df["Location"]
     temp["Observed"] = df["Observed"]
+    temp["Day_Forecast"] = df["Day_Forecast"]
+    temp["Night_Forecast"] = df["Night_Forecast"]
+    temp["Next_Day_Forecast"] = df["Next_Day_Forecast"]
+    temp["Next_Night_Forecast"] = df["Next_Night_Forecast"]
 
     merged = pd.merge(temp, lookup, left_on="Location", right_on="Index", how="left")
     merged = merged.rename(columns={"lat": "Latitude", "lon": "Longitude"})
