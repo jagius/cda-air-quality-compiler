@@ -1,7 +1,7 @@
 Location,Observed,Day_Forecast,Night_Forecast,Next_Day_Forecast,Next_Night_Forecast,Latitude,Longitude,Risk,Label
 "Castlegar, bc, Canada",Low Risk,3.0,3.0,2.0,2.0,49.3237408,-117.6593341,Low (1-3),Castlegar
 "Central Fraser Valley, bc, Canada",Low Risk,3.0,3.0,3.0,3.0,49.3764104,-121.8159307,Low (1-3),Central Fraser Valley
-"Central Okanagan, bc, Canada",Low Risk,3.0,3.0,2.0,2.0,49.9473663,-119.5588209,Low (1-3),Central Okanagan
+"Central Okanagan, bc, Canada",Moderate Risk,3.0,3.0,2.0,2.0,49.9473663,-119.5588209,Low (1-3),Central Okanagan
 "Comox Valley, bc, Canada",Low Risk,2.0,2.0,2.0,2.0,49.6735133,-124.9282659,Low (1-3),Comox Valley
 "Cranbrook, bc, Canada",Low Risk,3.0,2.0,2.0,2.0,49.5129678,-115.7694002,Low (1-3),Cranbrook
 "Duncan, bc, Canada",Low Risk,2.0,2.0,2.0,2.0,48.7786908,-123.7079416,Low (1-3),Duncan
@@ -38,15 +38,15 @@ Location,Observed,Day_Forecast,Night_Forecast,Next_Day_Forecast,Next_Night_Forec
 "Fort McMurray, ab, Canada",Low Risk,2,2,3.0,2.0,56.7266231,-111.3790095,Low (1-3),Fort McMurray
 "Fort Saskatchewan, ab, Canada",Moderate Risk,3,2,3.0,3.0,53.6962239,-113.2163654,Low (1-3),Fort Saskatchewan
 "Genesee, ab, Canada",Low Risk,4,4,3.0,3.0,53.34453394,-114.3267988,Moderate (4-6),Genesee
-"Grande Prairie, ab, Canada",Low Risk,3,3,2.0,2.0,55.170691,-118.7884808,Low (1-3),Grande Prairie
+"Grande Prairie, ab, Canada",Moderate Risk,3,3,2.0,2.0,55.170691,-118.7884808,Low (1-3),Grande Prairie
 "Hinton, ab, Canada",Low Risk,3,3,2.0,2.0,53.399067,-117.5794057,Low (1-3),Hinton
-"Lamont County, ab, Canada",Low Risk,3,2,3.0,3.0,53.7901566,-112.5577641,Low (1-3),Lamont County
+"Lamont County, ab, Canada",Moderate Risk,3,2,3.0,3.0,53.7901566,-112.5577641,Low (1-3),Lamont County
 "Lethbridge, ab, Canada",Low Risk,3,3,3.0,3.0,49.6956181,-112.8451067,Low (1-3),Lethbridge
 "Medicine Hat, ab, Canada",Low Risk,4,4,3.0,3.0,50.0290218,-110.7031976,Moderate (4-6),Medicine Hat
 "Red Deer, ab, Canada",Low Risk,3,3,4.0,4.0,52.2690328,-113.8114955,Moderate (4-6),Red Deer
 "St. Albert, ab, Canada",Moderate Risk,4,4,4.0,4.0,53.6539037,-113.6292701,Moderate (4-6),St. Albert
 "Strathcona County, ab, Canada",Low Risk,4,4,4.0,4.0,53.5326776,-113.1553199,Moderate (4-6),Strathcona County
-"Sturgeon County, ab, Canada",Low Risk,3,2,3.0,3.0,53.81567,-113.562732,Low (1-3),Sturgeon County
+"Sturgeon County, ab, Canada",Moderate Risk,3,2,3.0,3.0,53.81567,-113.562732,Low (1-3),Sturgeon County
 "Wood Buffalo - south, ab, Canada",Low Risk,2,2,3.0,2.0,57.6066083,-111.6495855,Low (1-3),Wood Buffalo - south
 "Buffalo Narrows, sk, Canada",Low Risk,3.0,3.0,2.0,3.0,55.8628398,-108.4794604,Low (1-3),Buffalo Narrows
 "Estevan, sk, Canada",Low Risk,3.0,3.0,3.0,2.0,49.1390842,-102.9914807,Low (1-3),Estevan
@@ -57,9 +57,9 @@ Location,Observed,Day_Forecast,Night_Forecast,Next_Day_Forecast,Next_Night_Forec
 "Brandon, mb, Canada",Moderate Risk,4.0,3.0,3.0,3.0,49.8437486,-99.9514807,Moderate (4-6),Brandon
 "Flin Flon, mb, Canada",Low Risk,4.0,6.0,5.0,2.0,54.7751389,-101.8493669,Moderate (4-6),Flin Flon
 "Winnipeg, mb, Canada",Low Risk,3.0,3.0,3.0,3.0,49.8954221,-97.1385145,Low (1-3),Winnipeg
-"Barrie, on, Canada",Low Risk,10+,6,10,6,44.3893556,-79.6903316,Very high (10+),Barrie
+"Barrie, on, Canada",Moderate Risk,10+,6,10,6,44.3893556,-79.6903316,Very high (10+),Barrie
 "Belleville, on, Canada",Low Risk,3,4,7,5,44.1627589,-77.3832315,High (7-10),Belleville
-"Brampton, on, Canada",Low Risk,10+,10+,10,6,43.7315479,-79.7624177,Very high (10+),Brampton
+"Brampton, on, Canada",Moderate Risk,10+,10+,10,6,43.7315479,-79.7624177,Very high (10+),Brampton
 "Brantford, on, Canada",High Risk,10+,10+,10,6,43.1393867,-80.2644254,Very high (10+),Brantford
 "Burlington, on, Canada",Low Risk,10+,10+,10,6,43.3255196,-79.7990319,Very high (10+),Burlington
 "Chatham, on, Canada",Very High Risk,10+,10+,10+,10+,42.4048018,-82.1910376,Very high (10+),Chatham
@@ -68,7 +68,7 @@ Location,Observed,Day_Forecast,Night_Forecast,Next_Day_Forecast,Next_Night_Forec
 "Grand Bend, on, Canada",Very High Risk,10+,10+,10+,10+,43.3130397,-81.7562242,Very high (10+),Grand Bend
 "Guelph, on, Canada",High Risk,10+,10+,10,6,43.5448048,-80.2481666,Very high (10+),Guelph
 "Hamilton, on, Canada",High Risk,10+,10+,10,6,43.2557206,-79.8711024,Very high (10+),Hamilton
-"Hamilton Downtown, on, Canada",High Risk,10+,10+,10,6,,,Very high (10+),Hamilton Downtown
+"Hamilton Downtown, on, Canada",Moderate Risk,10+,10+,10,6,,,Very high (10+),Hamilton Downtown
 "Hamilton Mountain, on, Canada",High Risk,10+,10+,10,6,,,Very high (10+),Hamilton Mountain
 "Hamilton West, on, Canada",High Risk,10+,10+,10,6,,,Very high (10+),Hamilton West
 "Kingston, on, Canada",Low Risk,3,4,7,7,44.2311717,-76.4859544,High (7-10),Kingston
@@ -76,7 +76,7 @@ Location,Observed,Day_Forecast,Night_Forecast,Next_Day_Forecast,Next_Night_Forec
 "London, on, Canada",High Risk,10+,10+,10+,10+,42.9849233,-81.2452768,Very high (10+),London
 "Milton, on, Canada",Moderate Risk,10+,10+,10,6,43.5182991,-79.8774042,Very high (10+),Milton
 "Mississauga, on, Canada",Low Risk,10+,10+,10,6,43.5890452,-79.6441198,Very high (10+),Mississauga
-"Newmarket, on, Canada",Low Risk,10,6,10,6,44.059187,-79.461256,High (7-10),Newmarket
+"Newmarket, on, Canada",Moderate Risk,10,6,10,6,44.059187,-79.461256,High (7-10),Newmarket
 "North Bay, on, Canada",Low Risk,2,6,7,5,46.3091152,-79.4608204,High (7-10),North Bay
 "Oakville, on, Canada",Low Risk,10+,10+,10,6,43.467517,-79.6876659,Very high (10+),Oakville
 "Oshawa, on, Canada",Low Risk,6,9,10,6,43.8970929,-78.8657912,High (7-10),Oshawa
@@ -89,7 +89,7 @@ Location,Observed,Day_Forecast,Night_Forecast,Next_Day_Forecast,Next_Night_Forec
 "St. Catharines, on, Canada",High Risk,10+,10+,10,6,43.1593745,-79.2468626,Very high (10+),St. Catharines
 "Sudbury, on, Canada",Low Risk,2,7,7,5,46.4917317,-80.993029,High (7-10),Sudbury
 "Thunder Bay, on, Canada",Very High Risk,10+,10+,10+,10+,48.3808951,-89.2476823,Very high (10+),Thunder Bay
-"Tiverton, on, Canada",Very High Risk,10+,10+,10,7,44.2676578,-81.5433231,Very high (10+),Tiverton
+"Tiverton, on, Canada",High Risk,10+,10+,10,7,44.2676578,-81.5433231,Very high (10+),Tiverton
 "Toronto, on, Canada",Low Risk,3,10+,10+,5,43.653226,-79.3831843,Very high (10+),Toronto
 "Toronto Downtown, on, Canada",Low Risk,3,10+,10+,5,,,Very high (10+),Toronto Downtown
 "Toronto East, on, Canada",Low Risk,3,10+,10+,5,,,Very high (10+),Toronto East
@@ -101,14 +101,14 @@ Location,Observed,Day_Forecast,Night_Forecast,Next_Day_Forecast,Next_Night_Forec
 "Gatineau, qc, Canada",calculated,3.0,3.0,5.0,4.0,45.4765446,-75.7012723,Moderate (4-6),Gatineau
 "Montréal, qc, Canada",calculated,2.0,2.0,4.0,5.0,45.5018869,-73.5673919,Moderate (4-6),Montréal
 "Québec, qc, Canada",calculated,1.0,1.0,2.0,2.0,46.8130816,-71.2074596,Low (1-3),Québec
-"Bathurst, nb, Canada",Low Risk,2.0,2.0,2.0,3.0,47.6183507,-65.6513358,Low (1-3),Bathurst
-"Campbellton, nb, Canada",Low Risk,2.0,2.0,2.0,3.0,48.007399,-66.6722057,Low (1-3),Campbellton
-"Edmundston, nb, Canada",Low Risk,2.0,2.0,2.0,3.0,47.3690127,-68.3266741,Low (1-3),Edmundston
-"Fredericton, nb, Canada",Low Risk,2.0,2.0,2.0,3.0,45.9635895,-66.6431151,Low (1-3),Fredericton
-"Miramichi, nb, Canada",Low Risk,2.0,2.0,2.0,3.0,47.0295709,-65.5059061,Low (1-3),Miramichi
-"Moncton, nb, Canada",Low Risk,2.0,2.0,2.0,3.0,46.0878165,-64.7782313,Low (1-3),Moncton
-"Saint Andrews, nb, Canada",Low Risk,2.0,2.0,2.0,3.0,45.0738432,-67.0530897,Low (1-3),Saint Andrews
-"Saint John, nb, Canada",Low Risk,2.0,2.0,2.0,3.0,45.2733153,-66.0633081,Low (1-3),Saint John
+"Bathurst, nb, Canada",Low Risk,2.0,2.0,3.0,2.0,47.6183507,-65.6513358,Low (1-3),Bathurst
+"Campbellton, nb, Canada",Low Risk,2.0,2.0,3.0,2.0,48.007399,-66.6722057,Low (1-3),Campbellton
+"Edmundston, nb, Canada",Low Risk,2.0,2.0,3.0,2.0,47.3690127,-68.3266741,Low (1-3),Edmundston
+"Fredericton, nb, Canada",Low Risk,2.0,2.0,3.0,2.0,45.9635895,-66.6431151,Low (1-3),Fredericton
+"Miramichi, nb, Canada",Low Risk,2.0,2.0,3.0,2.0,47.0295709,-65.5059061,Low (1-3),Miramichi
+"Moncton, nb, Canada",Low Risk,2.0,2.0,3.0,2.0,46.0878165,-64.7782313,Low (1-3),Moncton
+"Saint Andrews, nb, Canada",Low Risk,2.0,2.0,3.0,2.0,45.0738432,-67.0530897,Low (1-3),Saint Andrews
+"Saint John, nb, Canada",Low Risk,2.0,2.0,3.0,2.0,45.2733153,-66.0633081,Low (1-3),Saint John
 "Halifax, ns, Canada",Low Risk,2.0,2.0,2.0,2.0,44.8857087,-63.1005273,Low (1-3),Halifax
 "Halifax - Lake Major, ns, Canada",Low Risk,2.0,2.0,2.0,2.0,,,Low (1-3),Halifax - Lake Major
 "Halifax Downtown, ns, Canada",Low Risk,2.0,2.0,2.0,2.0,,,Low (1-3),Halifax Downtown
@@ -116,14 +116,14 @@ Location,Observed,Day_Forecast,Night_Forecast,Next_Day_Forecast,Next_Night_Forec
 "Pictou, ns, Canada",Low Risk,2.0,2.0,2.0,2.0,45.6761282,-62.708845,Low (1-3),Pictou
 "Port Hawkesbury, ns, Canada",Low Risk,2.0,2.0,2.0,2.0,45.6148755,-61.3518164,Low (1-3),Port Hawkesbury
 "Sydney, ns, Canada",Low Risk,2.0,2.0,2.0,2.0,46.1367899,-60.194224,Low (1-3),Sydney
-"Charlottetown, pe, Canada",Low Risk,1.0,1.0,2.0,2.0,46.23824,-63.1310704,Low (1-3),Charlottetown
-"St. Peters Bay, pe, Canada",,1.0,1.0,2.0,2.0,46.4174453,-62.5810333,Low (1-3),St. Peters Bay
-"Summerside (Wellington), pe, Canada",Low Risk,1.0,1.0,2.0,2.0,46.4538293,-63.9995297,Low (1-3),Summerside (Wellington)
-"Burin, nl, Canada",Low Risk,2.0,2.0,1.0,1.0,47.0777517,-55.1762977,Low (1-3),Burin
-"Corner Brook, nl, Canada",,2.0,1.0,2.0,2.0,48.9523316,-57.9460401,Low (1-3),Corner Brook
+"Charlottetown, pe, Canada",Low Risk,2.0,2.0,2.0,2.0,46.23824,-63.1310704,Low (1-3),Charlottetown
+"St. Peters Bay, pe, Canada",,2.0,2.0,2.0,2.0,46.4174453,-62.5810333,Low (1-3),St. Peters Bay
+"Summerside (Wellington), pe, Canada",Low Risk,2.0,2.0,2.0,2.0,46.4538293,-63.9995297,Low (1-3),Summerside (Wellington)
+"Burin, nl, Canada",Low Risk,2.0,1.0,1.0,2.0,47.0777517,-55.1762977,Low (1-3),Burin
+"Corner Brook, nl, Canada",,1.0,2.0,2.0,2.0,48.9523316,-57.9460401,Low (1-3),Corner Brook
 "Grand Falls-Windsor, nl, Canada",Low Risk,2.0,2.0,2.0,2.0,48.9279047,-55.6598977,Low (1-3),Grand Falls-Windsor
 "Labrador City, nl, Canada",Low Risk,2.0,2.0,2.0,2.0,52.9383852,-66.9153137,Low (1-3),Labrador City
-"St. John's, nl, Canada",Low Risk,2.0,2.0,1.0,2.0,47.5556097,-52.7452511,Low (1-3),St. John's
+"St. John's, nl, Canada",Low Risk,2.0,1.0,2.0,2.0,47.5556097,-52.7452511,Low (1-3),St. John's
 "Whitehorse, yt, Canada",Low Risk,2.0,2.0,2.0,2.0,60.7197137,-135.0522761,Low (1-3),Whitehorse
 "Fort Simpson, nt, Canada",,10+,8.0,9.0,10+,61.86330512,-121.3537357,Very high (10+),Fort Simpson
 "Fort Smith, nt, Canada",Very High Risk,10+,10.0,8.0,10+,60.00552,-111.8849379,Very high (10+),Fort Smith
