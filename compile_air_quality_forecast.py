@@ -16,6 +16,27 @@ risk_labels = {
     "Very High Risk": "Very high (10+)"
 }
 
+
+def normalize_observed(value):
+    if pd.isna(value):
+        return pd.NA
+
+    text = str(value).strip().lower()
+    if not text:
+        return pd.NA
+
+    # Forecast pages may contain short or noisy tokens (e.g., "High", "Very", "calculated").
+    if "very high" in text or text == "very":
+        return "Very High Risk"
+    if "moderate" in text:
+        return "Moderate Risk"
+    if "high" in text:
+        return "High Risk"
+    if "low" in text:
+        return "Low Risk"
+
+    return str(value).strip()
+
 # order the csv files by province
 province_order = ["bc", "ab", "sk", "mb", "on", "qc", "nb", "ns", "pe", "nl", "yt", "nt", "nu"]
 
@@ -56,7 +77,8 @@ for prov in province_order:
     merged = pd.merge(temp, lookup, left_on="Location", right_on="Index", how="left")
     merged = merged.rename(columns={"lat": "Latitude", "lon": "Longitude"})
 
-    merged["Risk"] = merged["Observed"].map(risk_labels)
+    merged["Observed"] = merged["Observed"].map(normalize_observed)
+    merged["Risk"] = merged["Observed"].map(risk_labels).fillna("Unknown")
     merged["Label"] = merged["Location"].astype(str).str.split(",").str[0]
 
     compiled.append(merged[["Location", "Observed", "Day_Forecast", "Night_Forecast", "Next_Day_Forecast", "Next_Night_Forecast", "Latitude", "Longitude", "Risk", "Label"]])
