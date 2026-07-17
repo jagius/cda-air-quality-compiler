@@ -29,6 +29,12 @@ jobs:
       - name: Compile CSV
         run: python compile_air_quality.py
 
+      - name: Run air quality forecast scraper
+        run: python scrape_to_csv_forecast.py
+
+      - name: Compile forecast CSV
+        run: python compile_air_quality_forecast.py
+
       - name: Run fire data scraper
         run: python scrape_fires.py
 
@@ -36,6 +42,7 @@ jobs:
         run: |
           mkdir -p docs
           cp output/compiled_air_quality.csv docs/
+          cp output/compiled_air_quality_forecast.csv docs/
           cp output/active_fires.csv docs/
           cp output/active_fires_on.csv docs/
           cp output/active_fires_bc.csv docs/
@@ -51,6 +58,7 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add docs/compiled_air_quality.csv
+          git add docs/compiled_air_quality_forecast.csv
           git add docs/active_fires.csv
           git add docs/active_fires_on.csv
           git add docs/active_fires_bc.csv
@@ -60,5 +68,5 @@ jobs:
           git add docs/active_fires_qc.csv
           git add docs/active_fires_yt.csv
           git add docs/active_fires_nt.csv
-          git commit -m "Update compiled air quality CSV and active fires CSVs [skip ci]" || echo "No changes to commit"
+          git commit -m "Update compiled air quality CSV, compiled air quality forecast CSV and active fires CSVs [skip ci]" || echo "No changes to commit"
           git push
