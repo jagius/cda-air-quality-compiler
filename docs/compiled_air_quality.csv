@@ -1,7 +1,7 @@
 Location,Observed,Latitude,Longitude,Risk,Label
 "Castlegar, bc, Canada",Low Risk,49.3237408,-117.6593341,Low (1-3),Castlegar
 "Central Fraser Valley, bc, Canada",Low Risk,49.3764104,-121.8159307,Low (1-3),Central Fraser Valley
-"Central Okanagan, bc, Canada",High Risk,49.9473663,-119.5588209,High (7-9),Central Okanagan
+"Central Okanagan, bc, Canada",Moderate Risk,49.9473663,-119.5588209,Moderate (4-6),Central Okanagan
 "Comox Valley, bc, Canada",Low Risk,49.6735133,-124.9282659,Low (1-3),Comox Valley
 "Cranbrook, bc, Canada",Low Risk,49.5129678,-115.7694002,Low (1-3),Cranbrook
 "Duncan, bc, Canada",Low Risk,48.7786908,-123.7079416,Low (1-3),Duncan
@@ -24,7 +24,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Terrace, bc, Canada",Low Risk,54.5181925,-128.603154,Low (1-3),Terrace
 "Victoria/Saanich, bc, Canada",Low Risk,48.4284207,-123.3656444,Low (1-3),Victoria/Saanich
 "WestShore, bc, Canada",Low Risk,48.4474626,-123.4956337,Low (1-3),WestShore
-"Whistler, bc, Canada",Moderate Risk,50.1161686,-122.9535117,Moderate (4-6),Whistler
+"Whistler, bc, Canada",Low Risk,50.1161686,-122.9535117,Low (1-3),Whistler
 "Williams Lake, bc, Canada",Low Risk,52.1416736,-122.1416885,Low (1-3),Williams Lake
 "Airdrie, ab, Canada",Low Risk,51.2926968,-114.0134113,Low (1-3),Airdrie
 "Brooks, ab, Canada",Low Risk,50.56538876,-111.897462,Low (1-3),Brooks
@@ -46,7 +46,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Red Deer, ab, Canada",Low Risk,52.2690328,-113.8114955,Low (1-3),Red Deer
 "St. Albert, ab, Canada",Moderate Risk,53.6539037,-113.6292701,Moderate (4-6),St. Albert
 "Strathcona County, ab, Canada",Moderate Risk,53.5326776,-113.1553199,Moderate (4-6),Strathcona County
-"Sturgeon County, ab, Canada",Moderate Risk,53.81567,-113.562732,Moderate (4-6),Sturgeon County
+"Sturgeon County, ab, Canada",High Risk,53.81567,-113.562732,High (7-9),Sturgeon County
 "Wood Buffalo - south, ab, Canada",Low Risk,57.6066083,-111.6495855,Low (1-3),Wood Buffalo - south
 "Buffalo Narrows, sk, Canada",Low Risk,55.8628398,-108.4794604,Low (1-3),Buffalo Narrows
 "Estevan, sk, Canada",Low Risk,49.1390842,-102.9914807,Low (1-3),Estevan
@@ -56,9 +56,9 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Swift Current, sk, Canada",Low Risk,50.285069,-107.7971722,Low (1-3),Swift Current
 "Brandon, mb, Canada",High Risk,49.8437486,-99.9514807,High (7-9),Brandon
 "Flin Flon, mb, Canada",Low Risk,54.7751389,-101.8493669,Low (1-3),Flin Flon
-"Winnipeg, mb, Canada",High Risk,49.8954221,-97.1385145,High (7-9),Winnipeg
+"Winnipeg, mb, Canada",Very High Risk,49.8954221,-97.1385145,Very high (10+),Winnipeg
 "Barrie, on, Canada",Moderate Risk,44.3893556,-79.6903316,Moderate (4-6),Barrie
-"Belleville, on, Canada",High Risk,44.1627589,-77.3832315,High (7-9),Belleville
+"Belleville, on, Canada",Moderate Risk,44.1627589,-77.3832315,Moderate (4-6),Belleville
 "Brampton, on, Canada",Very High Risk,43.7315479,-79.7624177,Very high (10+),Brampton
 "Brantford, on, Canada",Very High Risk,43.1393867,-80.2644254,Very high (10+),Brantford
 "Burlington, on, Canada",Very High Risk,43.3255196,-79.7990319,Very high (10+),Burlington
@@ -79,10 +79,10 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Newmarket, on, Canada",High Risk,44.059187,-79.461256,High (7-9),Newmarket
 "North Bay, on, Canada",Low Risk,46.3091152,-79.4608204,Low (1-3),North Bay
 "Oakville, on, Canada",Very High Risk,43.467517,-79.6876659,Very high (10+),Oakville
-"Oshawa, on, Canada",Very High Risk,43.8970929,-78.8657912,Very high (10+),Oshawa
+"Oshawa, on, Canada",High Risk,43.8970929,-78.8657912,High (7-9),Oshawa
 "Ottawa, on, Canada",Low Risk,45.4215296,-75.6971931,Low (1-3),Ottawa
-"Parry Sound, on, Canada",Moderate Risk,45.3473925,-80.034783,Moderate (4-6),Parry Sound
-"Peterborough, on, Canada",High Risk,44.3047061,-78.3199606,High (7-9),Peterborough
+"Parry Sound, on, Canada",Low Risk,45.3473925,-80.034783,Low (1-3),Parry Sound
+"Peterborough, on, Canada",Moderate Risk,44.3047061,-78.3199606,Moderate (4-6),Peterborough
 "Port Stanley, on, Canada",Very High Risk,42.6641353,-81.2156329,Very high (10+),Port Stanley
 "Sarnia, on, Canada",Very High Risk,42.974536,-82.4065901,Very high (10+),Sarnia
 "Sault Ste. Marie, on, Canada",High Risk,46.5136494,-84.3357526,High (7-9),Sault Ste. Marie
