@@ -51,50 +51,50 @@ Location,Observed,Day_Forecast,Night_Forecast,Next_Day_Forecast,Next_Night_Forec
 "Buffalo Narrows, sk, Canada",Low Risk,2.0,3.0,2.0,,55.8628398,-108.4794604,Low (1-3),Buffalo Narrows
 "Estevan, sk, Canada",Low Risk,2.0,2.0,3.0,,49.1390842,-102.9914807,Low (1-3),Estevan
 "Prince Albert, sk, Canada",Low Risk,3.0,3.0,2.0,,53.2033494,-105.7530705,Low (1-3),Prince Albert
-"Regina, sk, Canada",Low Risk,3.0,3.0,3.0,,50.4452112,-104.6188944,Low (1-3),Regina
+"Regina, sk, Canada",,3.0,3.0,3.0,,50.4452112,-104.6188944,Low (1-3),Regina
 "Saskatoon, sk, Canada",Low Risk,3.0,3.0,3.0,,52.157902,-106.6701577,Low (1-3),Saskatoon
 "Swift Current, sk, Canada",Low Risk,3.0,2.0,3.0,,50.285069,-107.7971722,Low (1-3),Swift Current
 "Brandon, mb, Canada",Low Risk,3.0,3.0,3.0,3.0,49.8437486,-99.9514807,Low (1-3),Brandon
 "Flin Flon, mb, Canada",Low Risk,3.0,2.0,2.0,2.0,54.7751389,-101.8493669,Low (1-3),Flin Flon
 "Winnipeg, mb, Canada",Low Risk,4.0,3.0,2.0,2.0,49.8954221,-97.1385145,Moderate (4-6),Winnipeg
-"Barrie, on, Canada",Moderate Risk,7,7,3.0,1.0,44.3893556,-79.6903316,High (7-10),Barrie
-"Belleville, on, Canada",Low Risk,8,8,2.0,2.0,44.1627589,-77.3832315,High (7-10),Belleville
-"Brampton, on, Canada",Moderate Risk,5,7,2.0,2.0,43.7315479,-79.7624177,High (7-10),Brampton
+"Barrie, on, Canada",Low Risk,7,7,3.0,1.0,44.3893556,-79.6903316,High (7-10),Barrie
+"Belleville, on, Canada",High Risk,8,8,2.0,2.0,44.1627589,-77.3832315,High (7-10),Belleville
+"Brampton, on, Canada",Low Risk,5,7,2.0,2.0,43.7315479,-79.7624177,High (7-10),Brampton
 "Brantford, on, Canada",Low Risk,5,7,3.0,2.0,43.1393867,-80.2644254,High (7-10),Brantford
 "Burlington, on, Canada",Moderate Risk,6,7,2.0,2.0,43.3255196,-79.7990319,High (7-10),Burlington
 "Chatham, on, Canada",Low Risk,5,8,6.0,3.0,42.4048018,-82.1910376,High (7-10),Chatham
 "Cornwall, on, Canada",Low Risk,6,7,2.0,2.0,45.0212762,-74.730345,High (7-10),Cornwall
-"Dorset, on, Canada",High Risk,8,7,2.0,2.0,45.2444301,-78.8939439,High (7-10),Dorset
+"Dorset, on, Canada",Moderate Risk,8,7,2.0,2.0,45.2444301,-78.8939439,High (7-10),Dorset
 "Grand Bend, on, Canada",Low Risk,6,8,4.0,2.0,43.3130397,-81.7562242,High (7-10),Grand Bend
 "Guelph, on, Canada",Moderate Risk,5,7,3.0,2.0,43.5448048,-80.2481666,High (7-10),Guelph
-"Hamilton, on, Canada",Moderate Risk,6,7,2.0,2.0,43.2557206,-79.8711024,High (7-10),Hamilton
-"Hamilton Downtown, on, Canada",Moderate Risk,6,7,2.0,2.0,,,High (7-10),Hamilton Downtown
-"Hamilton Mountain, on, Canada",Moderate Risk,6,7,2.0,2.0,,,High (7-10),Hamilton Mountain
-"Hamilton West, on, Canada",Moderate Risk,6,7,2.0,2.0,,,High (7-10),Hamilton West
-"Kingston, on, Canada",Low Risk,8,8,2.0,2.0,44.2311717,-76.4859544,High (7-10),Kingston
+"Hamilton, on, Canada",Low Risk,6,7,2.0,2.0,43.2557206,-79.8711024,High (7-10),Hamilton
+"Hamilton Downtown, on, Canada",Low Risk,6,7,2.0,2.0,,,High (7-10),Hamilton Downtown
+"Hamilton Mountain, on, Canada",Low Risk,6,7,2.0,2.0,,,High (7-10),Hamilton Mountain
+"Hamilton West, on, Canada",Low Risk,6,7,2.0,2.0,,,High (7-10),Hamilton West
+"Kingston, on, Canada",Moderate Risk,8,8,2.0,2.0,44.2311717,-76.4859544,High (7-10),Kingston
 "Kitchener, on, Canada",Low Risk,5,7,3.0,2.0,43.4516395,-80.4925337,High (7-10),Kitchener
 "London, on, Canada",Low Risk,6,8,4.0,2.0,42.9849233,-81.2452768,High (7-10),London
 "Milton, on, Canada",Moderate Risk,5,7,2.0,2.0,43.5182991,-79.8774042,High (7-10),Milton
 "Mississauga, on, Canada",Moderate Risk,5,7,2.0,2.0,43.5890452,-79.6441198,High (7-10),Mississauga
-"Newmarket, on, Canada",Moderate Risk,7,7,3.0,2.0,44.059187,-79.461256,High (7-10),Newmarket
-"North Bay, on, Canada",Very High Risk,8,5,2.0,2.0,46.3091152,-79.4608204,High (7-10),North Bay
+"Newmarket, on, Canada",Low Risk,7,7,3.0,2.0,44.059187,-79.461256,High (7-10),Newmarket
+"North Bay, on, Canada",High Risk,8,5,2.0,2.0,46.3091152,-79.4608204,High (7-10),North Bay
 "Oakville, on, Canada",Moderate Risk,6,7,2.0,2.0,43.467517,-79.6876659,High (7-10),Oakville
-"Oshawa, on, Canada",High Risk,8,8,2.0,2.0,43.8970929,-78.8657912,High (7-10),Oshawa
+"Oshawa, on, Canada",Moderate Risk,8,8,2.0,2.0,43.8970929,-78.8657912,High (7-10),Oshawa
 "Ottawa, on, Canada",Low Risk,7,8,2.0,1.0,45.4215296,-75.6971931,High (7-10),Ottawa
 "Parry Sound, on, Canada",Moderate Risk,8,7,2.0,2.0,45.3473925,-80.034783,High (7-10),Parry Sound
 "Peterborough, on, Canada",Low Risk,7,6,2.0,2.0,44.3047061,-78.3199606,High (7-10),Peterborough
 "Port Stanley, on, Canada",Low Risk,6,8,4.0,2.0,42.6641353,-81.2156329,High (7-10),Port Stanley
 "Sarnia, on, Canada",Low Risk,6,8,4.0,2.0,42.974536,-82.4065901,High (7-10),Sarnia
-"Sault Ste. Marie, on, Canada",Very High Risk,10+,10,7.0,7.0,46.5136494,-84.3357526,Very high (10+),Sault Ste. Marie
+"Sault Ste. Marie, on, Canada",High Risk,10+,10,7.0,7.0,46.5136494,-84.3357526,Very high (10+),Sault Ste. Marie
 "St. Catharines, on, Canada",Moderate Risk,8,7,2.0,2.0,43.1593745,-79.2468626,High (7-10),St. Catharines
-"Sudbury, on, Canada",High Risk,8,6,2.0,2.0,46.4917317,-80.993029,High (7-10),Sudbury
+"Sudbury, on, Canada",Moderate Risk,8,6,2.0,2.0,46.4917317,-80.993029,High (7-10),Sudbury
 "Thunder Bay, on, Canada",Very High Risk,10+,10+,8.0,5.0,48.3808951,-89.2476823,Very high (10+),Thunder Bay
-"Tiverton, on, Canada",Moderate Risk,8,8,2.0,2.0,44.2676578,-81.5433231,High (7-10),Tiverton
-"Toronto, on, Canada",Moderate Risk,10+,7,2.0,2.0,43.653226,-79.3831843,Very high (10+),Toronto
-"Toronto Downtown, on, Canada",Moderate Risk,10+,7,2.0,2.0,,,Very high (10+),Toronto Downtown
-"Toronto East, on, Canada",Moderate Risk,10+,7,2.0,2.0,,,Very high (10+),Toronto East
-"Toronto North, on, Canada",Moderate Risk,10+,7,2.0,2.0,,,Very high (10+),Toronto North
-"Toronto West, on, Canada",Moderate Risk,10+,7,2.0,2.0,,,Very high (10+),Toronto West
+"Tiverton, on, Canada",Low Risk,8,8,2.0,2.0,44.2676578,-81.5433231,High (7-10),Tiverton
+"Toronto, on, Canada",Moderate Risk,6,7,2.0,2.0,43.653226,-79.3831843,High (7-10),Toronto
+"Toronto Downtown, on, Canada",Moderate Risk,6,7,2.0,2.0,,,High (7-10),Toronto Downtown
+"Toronto East, on, Canada",Moderate Risk,6,7,2.0,2.0,,,High (7-10),Toronto East
+"Toronto North, on, Canada",Moderate Risk,6,7,2.0,2.0,,,High (7-10),Toronto North
+"Toronto West, on, Canada",Moderate Risk,6,7,2.0,2.0,,,High (7-10),Toronto West
 "Windsor, on, Canada",Low Risk,5,8,6.0,3.0,42.3149367,-83.0363633,High (7-10),Windsor
 "Windsor Downtown, on, Canada",Low Risk,5,8,6.0,3.0,,,High (7-10),Windsor Downtown
 "Windsor West, on, Canada",Low Risk,5,8,6.0,3.0,,,High (7-10),Windsor West
@@ -125,11 +125,11 @@ Location,Observed,Day_Forecast,Night_Forecast,Next_Day_Forecast,Next_Night_Forec
 "Labrador City, nl, Canada",Low Risk,2.0,2.0,2.0,2.0,52.9383852,-66.9153137,Low (1-3),Labrador City
 "St. John's, nl, Canada",Low Risk,1.0,1.0,2.0,2.0,47.5556097,-52.7452511,Low (1-3),St. John's
 "Whitehorse, yt, Canada",Low Risk,2.0,2.0,2.0,2.0,60.7197137,-135.0522761,Low (1-3),Whitehorse
-"Fort Simpson, nt, Canada",,10+,10+,10+,10+,61.86330512,-121.3537357,Very high (10+),Fort Simpson
-"Fort Smith, nt, Canada",Low Risk,10+,10+,10+,10+,60.00552,-111.8849379,Very high (10+),Fort Smith
-"Inuvik, nt, Canada",Low Risk,2,2,2,2,68.3607437,-133.7230177,Low (1-3),Inuvik
-"Norman Wells, nt, Canada",Low Risk,4,4,2,2,65.2814938,-126.8286524,Moderate (4-6),Norman Wells
-"Yellowknife, nt, Canada",Low Risk,10+,10+,10+,10+,62.4539717,-114.3717886,Very high (10+),Yellowknife
+"Fort Simpson, nt, Canada",,7.0,10+,10+,10+,61.86330512,-121.3537357,Very high (10+),Fort Simpson
+"Fort Smith, nt, Canada",Low Risk,7.0,7,7,8,60.00552,-111.8849379,High (7-10),Fort Smith
+"Inuvik, nt, Canada",Low Risk,2.0,2,2,2,68.3607437,-133.7230177,Low (1-3),Inuvik
+"Norman Wells, nt, Canada",Low Risk,4.0,4,2,2,65.2814938,-126.8286524,Moderate (4-6),Norman Wells
+"Yellowknife, nt, Canada",Low Risk,7.0,8,8,8,62.4539717,-114.3717886,High (7-10),Yellowknife
 "Arviat, nu, Canada",,3.0,3.0,2.0,2.0,61.1078279,-94.0623691,Low (1-3),Arviat
 "Iqaluit, nu, Canada",,1.0,1.0,1.0,1.0,63.746693,-68.5169669,Low (1-3),Iqaluit
 "Kugluktuk, nu, Canada",,3.0,2.0,1.0,1.0,67.8252313,-115.0965503,Low (1-3),Kugluktuk
