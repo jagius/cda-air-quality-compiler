@@ -5,8 +5,8 @@ Location,Observed,Day_Forecast,Night_Forecast,Next_Day_Forecast,Next_Night_Forec
 "Comox Valley, bc, Canada",Low Risk,2.0,2.0,3.0,3.0,49.6735133,-124.9282659,Low (1-3),Comox Valley
 "Cranbrook, bc, Canada",Low Risk,4.0,4.0,4.0,4.0,49.5129678,-115.7694002,Moderate (4-6),Cranbrook
 "Duncan, bc, Canada",Low Risk,3.0,3.0,3.0,3.0,48.7786908,-123.7079416,Low (1-3),Duncan
-"Eastern Fraser Valley, bc, Canada",Low Risk,4.0,4.0,4.0,3.0,49.3764104,-121.8159307,Moderate (4-6),Eastern Fraser Valley
-"Fort St. John, bc, Canada",Low Risk,8.0,8.0,5.0,5.0,56.252423,-120.846409,High (7-10),Fort St. John
+"Eastern Fraser Valley, bc, Canada",Moderate Risk,4.0,4.0,4.0,3.0,49.3764104,-121.8159307,Moderate (4-6),Eastern Fraser Valley
+"Fort St. John, bc, Canada",Moderate Risk,8.0,8.0,5.0,5.0,56.252423,-120.846409,High (7-10),Fort St. John
 "Kamloops, bc, Canada",Low Risk,4.0,4.0,3.0,3.0,50.674522,-120.3272674,Moderate (4-6),Kamloops
 "Kitimat, bc, Canada",Low Risk,2.0,2.0,3.0,3.0,54.0632661,-128.637191,Low (1-3),Kitimat
 "Metro Vancouver - NE, bc, Canada",Low Risk,4.0,4.0,4.0,3.0,49.3224696,-122.8568391,Moderate (4-6),Metro Vancouver - NE
@@ -29,32 +29,32 @@ Location,Observed,Day_Forecast,Night_Forecast,Next_Day_Forecast,Next_Night_Forec
 "Airdrie, ab, Canada",Low Risk,5,6,6.0,6.0,51.2926968,-114.0134113,Moderate (4-6),Airdrie
 "Brooks, ab, Canada",Low Risk,4,6,6.0,6.0,50.56538876,-111.897462,Moderate (4-6),Brooks
 "Calgary, ab, Canada",Low Risk,5,6,6.0,6.0,51.0447331,-114.0718831,Moderate (4-6),Calgary
-"Cold Lake, ab, Canada",Low Risk,8,8,7.0,7.0,54.464249,-110.1731779,High (7-10),Cold Lake
+"Cold Lake, ab, Canada",Moderate Risk,8,8,7.0,7.0,54.464249,-110.1731779,High (7-10),Cold Lake
 "Drayton Valley, ab, Canada",Low Risk,7,7,7.0,7.0,53.2214945,-114.976746,High (7-10),Drayton Valley
-"Edmonton, ab, Canada",Low Risk,7,7,7.0,7.0,53.5460983,-113.4937266,High (7-10),Edmonton
-"Edson, ab, Canada",Low Risk,7,7,7.0,7.0,53.585422,-116.4337219,High (7-10),Edson
-"Fort Chipewyan, ab, Canada",Very High Risk,10+,9,10.0,8.0,58.7133284,-111.1574916,Very high (10+),Fort Chipewyan
-"Fort McKay, ab, Canada",Moderate Risk,10+,10+,8.0,8.0,57.186758,-111.636785,Very high (10+),Fort McKay
+"Edmonton, ab, Canada",Moderate Risk,7,7,7.0,7.0,53.5460983,-113.4937266,High (7-10),Edmonton
+"Edson, ab, Canada",Moderate Risk,7,7,7.0,7.0,53.585422,-116.4337219,High (7-10),Edson
+"Fort Chipewyan, ab, Canada",Moderate Risk,10+,9,10.0,8.0,58.7133284,-111.1574916,Very high (10+),Fort Chipewyan
+"Fort McKay, ab, Canada",High Risk,10+,10+,8.0,8.0,57.186758,-111.636785,Very high (10+),Fort McKay
 "Fort McMurray, ab, Canada",High Risk,10+,10+,8.0,8.0,56.7266231,-111.3790095,Very high (10+),Fort McMurray
-"Fort Saskatchewan, ab, Canada",Low Risk,7,7,7.0,7.0,53.6962239,-113.2163654,High (7-10),Fort Saskatchewan
+"Fort Saskatchewan, ab, Canada",Moderate Risk,7,7,7.0,7.0,53.6962239,-113.2163654,High (7-10),Fort Saskatchewan
 "Genesee, ab, Canada",Low Risk,7,7,7.0,7.0,53.34453394,-114.3267988,High (7-10),Genesee
 "Grande Prairie, ab, Canada",High Risk,10+,10,8.0,8.0,55.170691,-118.7884808,Very high (10+),Grande Prairie
-"Hinton, ab, Canada",Moderate Risk,7,7,7.0,7.0,53.399067,-117.5794057,High (7-10),Hinton
-"Lamont County, ab, Canada",Low Risk,7,7,7.0,7.0,53.7901566,-112.5577641,High (7-10),Lamont County
+"Hinton, ab, Canada",High Risk,7,7,7.0,7.0,53.399067,-117.5794057,High (7-10),Hinton
+"Lamont County, ab, Canada",High Risk,7,7,7.0,7.0,53.7901566,-112.5577641,High (7-10),Lamont County
 "Lethbridge, ab, Canada",Low Risk,4,4,3.0,3.0,49.6956181,-112.8451067,Moderate (4-6),Lethbridge
 "Medicine Hat, ab, Canada",Low Risk,4,6,6.0,6.0,50.0290218,-110.7031976,Moderate (4-6),Medicine Hat
 "Red Deer, ab, Canada",Low Risk,4,7,7.0,7.0,52.2690328,-113.8114955,High (7-10),Red Deer
-"St. Albert, ab, Canada",Low Risk,7,7,7.0,7.0,53.6539037,-113.6292701,High (7-10),St. Albert
-"Strathcona County, ab, Canada",Low Risk,7,7,7.0,7.0,53.5326776,-113.1553199,High (7-10),Strathcona County
-"Sturgeon County, ab, Canada",Low Risk,7,7,7.0,7.0,53.81567,-113.562732,High (7-10),Sturgeon County
-"Wood Buffalo - south, ab, Canada",Very High Risk,10+,10+,8.0,8.0,57.6066083,-111.6495855,Very high (10+),Wood Buffalo - south
+"St. Albert, ab, Canada",Moderate Risk,7,7,7.0,7.0,53.6539037,-113.6292701,High (7-10),St. Albert
+"Strathcona County, ab, Canada",Moderate Risk,7,7,7.0,7.0,53.5326776,-113.1553199,High (7-10),Strathcona County
+"Sturgeon County, ab, Canada",High Risk,7,7,7.0,7.0,53.81567,-113.562732,High (7-10),Sturgeon County
+"Wood Buffalo - south, ab, Canada",High Risk,10+,10+,8.0,8.0,57.6066083,-111.6495855,Very high (10+),Wood Buffalo - south
 "Buffalo Narrows, sk, Canada",Moderate Risk,7.0,4.0,4.0,3.0,55.8628398,-108.4794604,High (7-10),Buffalo Narrows
 "Estevan, sk, Canada",Low Risk,3.0,3.0,3.0,3.0,49.1390842,-102.9914807,Low (1-3),Estevan
 "Prince Albert, sk, Canada",Low Risk,4.0,3.0,4.0,3.0,53.2033494,-105.7530705,Moderate (4-6),Prince Albert
-"Regina, sk, Canada",,3.0,3.0,3.0,3.0,50.4452112,-104.6188944,Low (1-3),Regina
+"Regina, sk, Canada",Low Risk,3.0,3.0,3.0,3.0,50.4452112,-104.6188944,Low (1-3),Regina
 "Saskatoon, sk, Canada",Low Risk,4.0,3.0,4.0,4.0,52.157902,-106.6701577,Moderate (4-6),Saskatoon
 "Swift Current, sk, Canada",Low Risk,3.0,3.0,3.0,3.0,50.285069,-107.7971722,Low (1-3),Swift Current
-"Brandon, mb, Canada",Low Risk,3.0,3.0,3.0,4.0,49.8437486,-99.9514807,Moderate (4-6),Brandon
+"Brandon, mb, Canada",Moderate Risk,3.0,3.0,3.0,4.0,49.8437486,-99.9514807,Moderate (4-6),Brandon
 "Flin Flon, mb, Canada",Low Risk,3.0,4.0,4.0,4.0,54.7751389,-101.8493669,Moderate (4-6),Flin Flon
 "Winnipeg, mb, Canada",Low Risk,3.0,3.0,2.0,2.0,49.8954221,-97.1385145,Low (1-3),Winnipeg
 "Barrie, on, Canada",Low Risk,3.0,3.0,2.0,2.0,44.3893556,-79.6903316,Low (1-3),Barrie
@@ -85,13 +85,13 @@ Location,Observed,Day_Forecast,Night_Forecast,Next_Day_Forecast,Next_Night_Forec
 "Peterborough, on, Canada",Low Risk,3.0,3.0,3.0,3.0,44.3047061,-78.3199606,Low (1-3),Peterborough
 "Port Stanley, on, Canada",Low Risk,3.0,3.0,3.0,2.0,42.6641353,-81.2156329,Low (1-3),Port Stanley
 "Sarnia, on, Canada",Moderate Risk,4.0,4.0,3.0,2.0,42.974536,-82.4065901,Moderate (4-6),Sarnia
-"Sault Ste. Marie, on, Canada",Low Risk,4.0,4.0,3.0,2.0,46.5136494,-84.3357526,Moderate (4-6),Sault Ste. Marie
+"Sault Ste. Marie, on, Canada",Moderate Risk,4.0,4.0,3.0,2.0,46.5136494,-84.3357526,Moderate (4-6),Sault Ste. Marie
 "St. Catharines, on, Canada",Low Risk,3.0,3.0,3.0,3.0,43.1593745,-79.2468626,Low (1-3),St. Catharines
 "Sudbury, on, Canada",Low Risk,4.0,4.0,3.0,1.0,46.4917317,-80.993029,Moderate (4-6),Sudbury
 "Thunder Bay, on, Canada",Moderate Risk,7.0,5.0,4.0,2.0,48.3808951,-89.2476823,High (7-10),Thunder Bay
-"Tiverton, on, Canada",Low Risk,4.0,3.0,3.0,2.0,44.2676578,-81.5433231,Moderate (4-6),Tiverton
+"Tiverton, on, Canada",Moderate Risk,4.0,3.0,3.0,2.0,44.2676578,-81.5433231,Moderate (4-6),Tiverton
 "Toronto, on, Canada",Low Risk,3.0,3.0,3.0,3.0,43.653226,-79.3831843,Low (1-3),Toronto
-"Toronto Downtown, on, Canada",Moderate Risk,3.0,3.0,3.0,3.0,,,Low (1-3),Toronto Downtown
+"Toronto Downtown, on, Canada",Low Risk,3.0,3.0,3.0,3.0,,,Low (1-3),Toronto Downtown
 "Toronto East, on, Canada",Low Risk,3.0,3.0,3.0,3.0,,,Low (1-3),Toronto East
 "Toronto North, on, Canada",Low Risk,3.0,3.0,3.0,3.0,,,Low (1-3),Toronto North
 "Toronto West, on, Canada",Low Risk,3.0,3.0,3.0,3.0,,,Low (1-3),Toronto West
@@ -126,7 +126,7 @@ Location,Observed,Day_Forecast,Night_Forecast,Next_Day_Forecast,Next_Night_Forec
 "St. John's, nl, Canada",Low Risk,2.0,2.0,1.0,2.0,47.5556097,-52.7452511,Low (1-3),St. John's
 "Whitehorse, yt, Canada",Low Risk,2.0,2.0,2.0,2.0,60.7197137,-135.0522761,Low (1-3),Whitehorse
 "Fort Simpson, nt, Canada",,10+,10+,10+,10+,61.86330512,-121.3537357,Very high (10+),Fort Simpson
-"Fort Smith, nt, Canada",Very High Risk,10+,8,8,8,60.00552,-111.8849379,Very high (10+),Fort Smith
+"Fort Smith, nt, Canada",Moderate Risk,10+,8,8,8,60.00552,-111.8849379,Very high (10+),Fort Smith
 "Inuvik, nt, Canada",Low Risk,2,2,2,3,68.3607437,-133.7230177,Low (1-3),Inuvik
 "Norman Wells, nt, Canada",Low Risk,3,7,8,8,65.2814938,-126.8286524,High (7-10),Norman Wells
 "Yellowknife, nt, Canada",Low Risk,10+,8,8,8,62.4539717,-114.3717886,Very high (10+),Yellowknife
