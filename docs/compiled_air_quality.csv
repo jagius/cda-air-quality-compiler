@@ -4,13 +4,13 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Central Okanagan, bc, Canada",Moderate Risk,49.9473663,-119.5588209,Moderate (4-6),Central Okanagan
 "Comox Valley, bc, Canada",Low Risk,49.6735133,-124.9282659,Low (1-3),Comox Valley
 "Cranbrook, bc, Canada",Low Risk,49.5129678,-115.7694002,Low (1-3),Cranbrook
-"Duncan, bc, Canada",Moderate Risk,48.7786908,-123.7079416,Moderate (4-6),Duncan
+"Duncan, bc, Canada",Low Risk,48.7786908,-123.7079416,Low (1-3),Duncan
 "Eastern Fraser Valley, bc, Canada",Moderate Risk,49.3764104,-121.8159307,Moderate (4-6),Eastern Fraser Valley
 "Fort St. John, bc, Canada",Low Risk,56.252423,-120.846409,Low (1-3),Fort St. John
 "Kamloops, bc, Canada",Very High Risk,50.674522,-120.3272674,Very high (10+),Kamloops
 "Kitimat, bc, Canada",Low Risk,54.0632661,-128.637191,Low (1-3),Kitimat
-"Metro Vancouver - NE, bc, Canada",Moderate Risk,49.3224696,-122.8568391,Moderate (4-6),Metro Vancouver - NE
-"Metro Vancouver - NW, bc, Canada",Moderate Risk,49.2057179,-122.910956,Moderate (4-6),Metro Vancouver - NW
+"Metro Vancouver - NE, bc, Canada",Low Risk,49.3224696,-122.8568391,Low (1-3),Metro Vancouver - NE
+"Metro Vancouver - NW, bc, Canada",Low Risk,49.2057179,-122.910956,Low (1-3),Metro Vancouver - NW
 "Metro Vancouver - SE, bc, Canada",Low Risk,49.3224696,-122.8568391,Low (1-3),Metro Vancouver - SE
 "Metro Vancouver - SW, bc, Canada",Low Risk,49.3224696,-122.8568391,Low (1-3),Metro Vancouver - SW
 "Nanaimo, bc, Canada",Low Risk,49.1658836,-123.9400647,Low (1-3),Nanaimo
@@ -20,10 +20,10 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Smithers, bc, Canada",Low Risk,54.782355,-127.1685541,Low (1-3),Smithers
 "South Okanagan, bc, Canada",Moderate Risk,53.7266683,-127.6476206,Moderate (4-6),South Okanagan
 "Sparwood, bc, Canada",Moderate Risk,49.7308665,-114.8861593,Moderate (4-6),Sparwood
-"Squamish, bc, Canada",Moderate Risk,49.7016339,-123.1558121,Moderate (4-6),Squamish
+"Squamish, bc, Canada",Low Risk,49.7016339,-123.1558121,Low (1-3),Squamish
 "Terrace, bc, Canada",Low Risk,54.5181925,-128.603154,Low (1-3),Terrace
 "Victoria/Saanich, bc, Canada",Moderate Risk,48.4284207,-123.3656444,Moderate (4-6),Victoria/Saanich
-"WestShore, bc, Canada",Moderate Risk,48.4474626,-123.4956337,Moderate (4-6),WestShore
+"WestShore, bc, Canada",Low Risk,48.4474626,-123.4956337,Low (1-3),WestShore
 "Whistler, bc, Canada",Low Risk,50.1161686,-122.9535117,Low (1-3),Whistler
 "Williams Lake, bc, Canada",Moderate Risk,52.1416736,-122.1416885,Moderate (4-6),Williams Lake
 "Airdrie, ab, Canada",Low Risk,51.2926968,-114.0134113,Low (1-3),Airdrie
@@ -41,7 +41,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Grande Prairie, ab, Canada",Low Risk,55.170691,-118.7884808,Low (1-3),Grande Prairie
 "Hinton, ab, Canada",Moderate Risk,53.399067,-117.5794057,Moderate (4-6),Hinton
 "Lamont County, ab, Canada",Low Risk,53.7901566,-112.5577641,Low (1-3),Lamont County
-"Lethbridge, ab, Canada",Moderate Risk,49.6956181,-112.8451067,Moderate (4-6),Lethbridge
+"Lethbridge, ab, Canada",Low Risk,49.6956181,-112.8451067,Low (1-3),Lethbridge
 "Medicine Hat, ab, Canada",Low Risk,50.0290218,-110.7031976,Low (1-3),Medicine Hat
 "Red Deer, ab, Canada",Low Risk,52.2690328,-113.8114955,Low (1-3),Red Deer
 "St. Albert, ab, Canada",Low Risk,53.6539037,-113.6292701,Low (1-3),St. Albert
@@ -50,11 +50,11 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Wood Buffalo - south, ab, Canada",Moderate Risk,57.6066083,-111.6495855,Moderate (4-6),Wood Buffalo - south
 "Buffalo Narrows, sk, Canada",Moderate Risk,55.8628398,-108.4794604,Moderate (4-6),Buffalo Narrows
 "Estevan, sk, Canada",Moderate Risk,49.1390842,-102.9914807,Moderate (4-6),Estevan
-"Prince Albert, sk, Canada",Moderate Risk,53.2033494,-105.7530705,Moderate (4-6),Prince Albert
+"Prince Albert, sk, Canada",Low Risk,53.2033494,-105.7530705,Low (1-3),Prince Albert
 "Regina, sk, Canada",Moderate Risk,50.4452112,-104.6188944,Moderate (4-6),Regina
 "Saskatoon, sk, Canada",Low Risk,52.157902,-106.6701577,Low (1-3),Saskatoon
 "Swift Current, sk, Canada",Low Risk,50.285069,-107.7971722,Low (1-3),Swift Current
-"Brandon, mb, Canada",High Risk,49.8437486,-99.9514807,High (7-9),Brandon
+"Brandon, mb, Canada",Moderate Risk,49.8437486,-99.9514807,Moderate (4-6),Brandon
 "Flin Flon, mb, Canada",Moderate Risk,54.7751389,-101.8493669,Moderate (4-6),Flin Flon
 "Winnipeg, mb, Canada",High Risk,49.8954221,-97.1385145,High (7-9),Winnipeg
 "Barrie, on, Canada",Low Risk,44.3893556,-79.6903316,Low (1-3),Barrie
@@ -127,7 +127,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Whitehorse, yt, Canada",Low Risk,60.7197137,-135.0522761,Low (1-3),Whitehorse
 "Fort Simpson, nt, Canada",,61.86330512,-121.3537357,,Fort Simpson
 "Fort Smith, nt, Canada",High Risk,60.00552,-111.8849379,High (7-9),Fort Smith
-"Inuvik, nt, Canada",,68.3607437,-133.7230177,,Inuvik
+"Inuvik, nt, Canada",Low Risk,68.3607437,-133.7230177,Low (1-3),Inuvik
 "Norman Wells, nt, Canada",Very High Risk,65.2814938,-126.8286524,Very high (10+),Norman Wells
 "Yellowknife, nt, Canada",Low Risk,62.4539717,-114.3717886,Low (1-3),Yellowknife
 "Arviat, nu, Canada",,61.1078279,-94.0623691,,Arviat
