@@ -1,7 +1,7 @@
 Location,Observed,Day_Forecast,Night_Forecast,Next_Day_Forecast,Next_Night_Forecast,Latitude,Longitude,Risk,Label
 "Castlegar, bc, Canada",Moderate Risk,4.0,3.0,3.0,3.0,49.3237408,-117.6593341,Moderate (4-6),Castlegar
 "Central Fraser Valley, bc, Canada",Low Risk,5.0,5.0,3.0,3.0,49.3764104,-121.8159307,Moderate (4-6),Central Fraser Valley
-"Central Okanagan, bc, Canada",Low Risk,4.0,4.0,4.0,4.0,49.9473663,-119.5588209,Moderate (4-6),Central Okanagan
+"Central Okanagan, bc, Canada",Moderate Risk,4.0,4.0,4.0,4.0,49.9473663,-119.5588209,Moderate (4-6),Central Okanagan
 "Comox Valley, bc, Canada",Low Risk,3.0,3.0,3.0,3.0,49.6735133,-124.9282659,Low (1-3),Comox Valley
 "Cranbrook, bc, Canada",Moderate Risk,3.0,3.0,3.0,3.0,49.5129678,-115.7694002,Low (1-3),Cranbrook
 "Duncan, bc, Canada",Low Risk,3.0,3.0,2.0,2.0,48.7786908,-123.7079416,Low (1-3),Duncan
@@ -31,12 +31,12 @@ Location,Observed,Day_Forecast,Night_Forecast,Next_Day_Forecast,Next_Night_Forec
 "Calgary, ab, Canada",Moderate Risk,5.0,4.0,4.0,4.0,51.0447331,-114.0718831,Moderate (4-6),Calgary
 "Cold Lake, ab, Canada",Low Risk,4.0,4.0,3.0,3.0,54.464249,-110.1731779,Moderate (4-6),Cold Lake
 "Drayton Valley, ab, Canada",Moderate Risk,4.0,4.0,3.0,3.0,53.2214945,-114.976746,Moderate (4-6),Drayton Valley
-"Edmonton, ab, Canada",Low Risk,4.0,4.0,4.0,4.0,53.5460983,-113.4937266,Moderate (4-6),Edmonton
+"Edmonton, ab, Canada",Moderate Risk,4.0,4.0,4.0,4.0,53.5460983,-113.4937266,Moderate (4-6),Edmonton
 "Edson, ab, Canada",Low Risk,4.0,3.0,3.0,3.0,53.585422,-116.4337219,Moderate (4-6),Edson
 "Fort Chipewyan, ab, Canada",Low Risk,7.0,7.0,5.0,3.0,58.7133284,-111.1574916,High (7-10),Fort Chipewyan
 "Fort McKay, ab, Canada",Moderate Risk,7.0,5.0,3.0,3.0,57.186758,-111.636785,High (7-10),Fort McKay
 "Fort McMurray, ab, Canada",Moderate Risk,6.0,5.0,3.0,3.0,56.7266231,-111.3790095,Moderate (4-6),Fort McMurray
-"Fort Saskatchewan, ab, Canada",Low Risk,4.0,4.0,4.0,4.0,53.6962239,-113.2163654,Moderate (4-6),Fort Saskatchewan
+"Fort Saskatchewan, ab, Canada",Moderate Risk,4.0,4.0,4.0,4.0,53.6962239,-113.2163654,Moderate (4-6),Fort Saskatchewan
 "Genesee, ab, Canada",Moderate Risk,4.0,4.0,4.0,4.0,53.34453394,-114.3267988,Moderate (4-6),Genesee
 "Grande Prairie, ab, Canada",Low Risk,3.0,3.0,3.0,3.0,55.170691,-118.7884808,Low (1-3),Grande Prairie
 "Hinton, ab, Canada",Moderate Risk,5.0,4.0,4.0,4.0,53.399067,-117.5794057,Moderate (4-6),Hinton
@@ -52,7 +52,7 @@ Location,Observed,Day_Forecast,Night_Forecast,Next_Day_Forecast,Next_Night_Forec
 "Estevan, sk, Canada",Low Risk,4.0,5.0,7.0,6.0,49.1390842,-102.9914807,High (7-10),Estevan
 "Prince Albert, sk, Canada",Moderate Risk,5.0,4.0,4.0,3.0,53.2033494,-105.7530705,Moderate (4-6),Prince Albert
 "Regina, sk, Canada",Moderate Risk,4.0,6.0,7.0,5.0,50.4452112,-104.6188944,High (7-10),Regina
-"Saskatoon, sk, Canada",Moderate Risk,5.0,4.0,4.0,3.0,52.157902,-106.6701577,Moderate (4-6),Saskatoon
+"Saskatoon, sk, Canada",Low Risk,5.0,4.0,4.0,3.0,52.157902,-106.6701577,Moderate (4-6),Saskatoon
 "Swift Current, sk, Canada",Low Risk,4.0,7.0,7.0,6.0,50.285069,-107.7971722,High (7-10),Swift Current
 "Brandon, mb, Canada",Moderate Risk,6.0,5.0,6.0,6.0,49.8437486,-99.9514807,Moderate (4-6),Brandon
 "Flin Flon, mb, Canada",Moderate Risk,7.0,7.0,7.0,6.0,54.7751389,-101.8493669,High (7-10),Flin Flon
@@ -128,7 +128,7 @@ Location,Observed,Day_Forecast,Night_Forecast,Next_Day_Forecast,Next_Night_Forec
 "Fort Simpson, nt, Canada",,10+,10+,10.0,3.0,61.86330512,-121.3537357,Very high (10+),Fort Simpson
 "Fort Smith, nt, Canada",Moderate Risk,10,10,8.0,3.0,60.00552,-111.8849379,High (7-10),Fort Smith
 "Inuvik, nt, Canada",Low Risk,1,1,1.0,1.0,68.3607437,-133.7230177,Low (1-3),Inuvik
-"Norman Wells, nt, Canada",Low Risk,10+,10+,1.0,1.0,65.2814938,-126.8286524,Very high (10+),Norman Wells
+"Norman Wells, nt, Canada",High Risk,10+,10+,1.0,1.0,65.2814938,-126.8286524,Very high (10+),Norman Wells
 "Yellowknife, nt, Canada",Low Risk,9,10,8.0,3.0,62.4539717,-114.3717886,High (7-10),Yellowknife
 "Arviat, nu, Canada",,1.0,1.0,1.0,1.0,61.1078279,-94.0623691,Low (1-3),Arviat
 "Iqaluit, nu, Canada",,2.0,2.0,2.0,1.0,63.746693,-68.5169669,Low (1-3),Iqaluit
