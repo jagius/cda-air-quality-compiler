@@ -1,5 +1,5 @@
 Location,Observed,Latitude,Longitude,Risk,Label
-"Castlegar, bc, Canada",Moderate Risk,49.3237408,-117.6593341,Moderate (4-6),Castlegar
+"Castlegar, bc, Canada",High Risk,49.3237408,-117.6593341,High (7-9),Castlegar
 "Central Fraser Valley, bc, Canada",Low Risk,49.3764104,-121.8159307,Low (1-3),Central Fraser Valley
 "Central Okanagan, bc, Canada",Very High Risk,49.9473663,-119.5588209,Very high (10+),Central Okanagan
 "Comox Valley, bc, Canada",Low Risk,49.6735133,-124.9282659,Low (1-3),Comox Valley
@@ -14,11 +14,11 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Metro Vancouver - SE, bc, Canada",Low Risk,49.3224696,-122.8568391,Low (1-3),Metro Vancouver - SE
 "Metro Vancouver - SW, bc, Canada",Low Risk,49.3224696,-122.8568391,Low (1-3),Metro Vancouver - SW
 "Nanaimo, bc, Canada",Low Risk,49.1658836,-123.9400647,Low (1-3),Nanaimo
-"North Okanagan, bc, Canada",High Risk,50.3398977,-118.7840936,High (7-9),North Okanagan
+"North Okanagan, bc, Canada",Very High Risk,50.3398977,-118.7840936,Very high (10+),North Okanagan
 "Prince George, bc, Canada",Low Risk,53.9170641,-122.7496693,Low (1-3),Prince George
 "Quesnel, bc, Canada",Moderate Risk,52.9817372,-122.4949058,Moderate (4-6),Quesnel
 "Smithers, bc, Canada",Low Risk,54.782355,-127.1685541,Low (1-3),Smithers
-"South Okanagan, bc, Canada",High Risk,53.7266683,-127.6476206,High (7-9),South Okanagan
+"South Okanagan, bc, Canada",Very High Risk,53.7266683,-127.6476206,Very high (10+),South Okanagan
 "Sparwood, bc, Canada",Moderate Risk,49.7308665,-114.8861593,Moderate (4-6),Sparwood
 "Squamish, bc, Canada",Low Risk,49.7016339,-123.1558121,Low (1-3),Squamish
 "Terrace, bc, Canada",Low Risk,54.5181925,-128.603154,Low (1-3),Terrace
@@ -32,7 +32,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Cold Lake, ab, Canada",Low Risk,54.464249,-110.1731779,Low (1-3),Cold Lake
 "Drayton Valley, ab, Canada",Moderate Risk,53.2214945,-114.976746,Moderate (4-6),Drayton Valley
 "Edmonton, ab, Canada",Moderate Risk,53.5460983,-113.4937266,Moderate (4-6),Edmonton
-"Edson, ab, Canada",Moderate Risk,53.585422,-116.4337219,Moderate (4-6),Edson
+"Edson, ab, Canada",,53.585422,-116.4337219,,Edson
 "Fort Chipewyan, ab, Canada",Low Risk,58.7133284,-111.1574916,Low (1-3),Fort Chipewyan
 "Fort McKay, ab, Canada",Low Risk,57.186758,-111.636785,Low (1-3),Fort McKay
 "Fort McMurray, ab, Canada",Moderate Risk,56.7266231,-111.3790095,Moderate (4-6),Fort McMurray
@@ -41,15 +41,15 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Grande Prairie, ab, Canada",Low Risk,55.170691,-118.7884808,Low (1-3),Grande Prairie
 "Hinton, ab, Canada",Moderate Risk,53.399067,-117.5794057,Moderate (4-6),Hinton
 "Lamont County, ab, Canada",Moderate Risk,53.7901566,-112.5577641,Moderate (4-6),Lamont County
-"Lethbridge, ab, Canada",Moderate Risk,49.6956181,-112.8451067,Moderate (4-6),Lethbridge
+"Lethbridge, ab, Canada",High Risk,49.6956181,-112.8451067,High (7-9),Lethbridge
 "Medicine Hat, ab, Canada",Moderate Risk,50.0290218,-110.7031976,Moderate (4-6),Medicine Hat
 "Red Deer, ab, Canada",Moderate Risk,52.2690328,-113.8114955,Moderate (4-6),Red Deer
 "St. Albert, ab, Canada",Moderate Risk,53.6539037,-113.6292701,Moderate (4-6),St. Albert
 "Strathcona County, ab, Canada",Moderate Risk,53.5326776,-113.1553199,Moderate (4-6),Strathcona County
-"Sturgeon County, ab, Canada",Moderate Risk,53.81567,-113.562732,Moderate (4-6),Sturgeon County
+"Sturgeon County, ab, Canada",Low Risk,53.81567,-113.562732,Low (1-3),Sturgeon County
 "Wood Buffalo - south, ab, Canada",Low Risk,57.6066083,-111.6495855,Low (1-3),Wood Buffalo - south
 "Buffalo Narrows, sk, Canada",Low Risk,55.8628398,-108.4794604,Low (1-3),Buffalo Narrows
-"Estevan, sk, Canada",Low Risk,49.1390842,-102.9914807,Low (1-3),Estevan
+"Estevan, sk, Canada",Moderate Risk,49.1390842,-102.9914807,Moderate (4-6),Estevan
 "Prince Albert, sk, Canada",Low Risk,53.2033494,-105.7530705,Low (1-3),Prince Albert
 "Regina, sk, Canada",Moderate Risk,50.4452112,-104.6188944,Moderate (4-6),Regina
 "Saskatoon, sk, Canada",Low Risk,52.157902,-106.6701577,Low (1-3),Saskatoon
@@ -122,13 +122,13 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Burin, nl, Canada",Low Risk,47.0777517,-55.1762977,Low (1-3),Burin
 "Corner Brook, nl, Canada",Low Risk,48.9523316,-57.9460401,Low (1-3),Corner Brook
 "Grand Falls-Windsor, nl, Canada",Low Risk,48.9279047,-55.6598977,Low (1-3),Grand Falls-Windsor
-"Labrador City, nl, Canada",,52.9383852,-66.9153137,,Labrador City
+"Labrador City, nl, Canada",Low Risk,52.9383852,-66.9153137,Low (1-3),Labrador City
 "St. John's, nl, Canada",Low Risk,47.5556097,-52.7452511,Low (1-3),St. John's
 "Whitehorse, yt, Canada",Low Risk,60.7197137,-135.0522761,Low (1-3),Whitehorse
 "Fort Simpson, nt, Canada",,61.86330512,-121.3537357,,Fort Simpson
 "Fort Smith, nt, Canada",Low Risk,60.00552,-111.8849379,Low (1-3),Fort Smith
 "Inuvik, nt, Canada",,68.3607437,-133.7230177,,Inuvik
-"Norman Wells, nt, Canada",High Risk,65.2814938,-126.8286524,High (7-9),Norman Wells
+"Norman Wells, nt, Canada",Very High Risk,65.2814938,-126.8286524,Very high (10+),Norman Wells
 "Yellowknife, nt, Canada",Low Risk,62.4539717,-114.3717886,Low (1-3),Yellowknife
 "Arviat, nu, Canada",,61.1078279,-94.0623691,,Arviat
 "Iqaluit, nu, Canada",,63.746693,-68.5169669,,Iqaluit
