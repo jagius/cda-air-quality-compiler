@@ -39,11 +39,11 @@ Location,Observed,Day_Forecast,Night_Forecast,Next_Day_Forecast,Next_Night_Forec
 "Fort Saskatchewan, ab, Canada",Low Risk,7,7,7.0,6.0,53.6962239,-113.2163654,High (7-10),Fort Saskatchewan
 "Genesee, ab, Canada",Low Risk,7,7,7.0,6.0,53.34453394,-114.3267988,High (7-10),Genesee
 "Grande Prairie, ab, Canada",Low Risk,4,5,5.0,5.0,55.170691,-118.7884808,Moderate (4-6),Grande Prairie
-"Hinton, ab, Canada",Low Risk,10+,10+,9.0,7.0,53.399067,-117.5794057,Very high (10+),Hinton
+"Hinton, ab, Canada",Moderate Risk,10+,10+,9.0,7.0,53.399067,-117.5794057,Very high (10+),Hinton
 "Lamont County, ab, Canada",Low Risk,7,7,7.0,6.0,53.7901566,-112.5577641,High (7-10),Lamont County
 "Lethbridge, ab, Canada",Low Risk,6,6,5.0,5.0,49.6956181,-112.8451067,Moderate (4-6),Lethbridge
 "Medicine Hat, ab, Canada",Low Risk,6,6,5.0,5.0,50.0290218,-110.7031976,Moderate (4-6),Medicine Hat
-"Red Deer, ab, Canada",High Risk,9,8,6.0,6.0,52.2690328,-113.8114955,High (7-10),Red Deer
+"Red Deer, ab, Canada",Moderate Risk,9,8,6.0,6.0,52.2690328,-113.8114955,High (7-10),Red Deer
 "St. Albert, ab, Canada",Low Risk,7,7,7.0,6.0,53.6539037,-113.6292701,High (7-10),St. Albert
 "Strathcona County, ab, Canada",Low Risk,7,7,7.0,6.0,53.5326776,-113.1553199,High (7-10),Strathcona County
 "Sturgeon County, ab, Canada",Low Risk,7,7,7.0,6.0,53.81567,-113.562732,High (7-10),Sturgeon County
