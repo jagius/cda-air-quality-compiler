@@ -1,9 +1,9 @@
 Location,Observed,Latitude,Longitude,Risk,Label
 "Castlegar, bc, Canada",Moderate Risk,49.3237408,-117.6593341,Moderate (4-6),Castlegar
 "Central Fraser Valley, bc, Canada",Low Risk,49.3764104,-121.8159307,Low (1-3),Central Fraser Valley
-"Central Okanagan, bc, Canada",Low Risk,49.9473663,-119.5588209,Low (1-3),Central Okanagan
+"Central Okanagan, bc, Canada",Moderate Risk,49.9473663,-119.5588209,Moderate (4-6),Central Okanagan
 "Comox Valley, bc, Canada",Low Risk,49.6735133,-124.9282659,Low (1-3),Comox Valley
-"Cranbrook, bc, Canada",Moderate Risk,49.5129678,-115.7694002,Moderate (4-6),Cranbrook
+"Cranbrook, bc, Canada",Low Risk,49.5129678,-115.7694002,Low (1-3),Cranbrook
 "Duncan, bc, Canada",Low Risk,48.7786908,-123.7079416,Low (1-3),Duncan
 "Eastern Fraser Valley, bc, Canada",Low Risk,49.3764104,-121.8159307,Low (1-3),Eastern Fraser Valley
 "Fort St. John, bc, Canada",Low Risk,56.252423,-120.846409,Low (1-3),Fort St. John
@@ -14,12 +14,12 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Metro Vancouver - SE, bc, Canada",Low Risk,49.3224696,-122.8568391,Low (1-3),Metro Vancouver - SE
 "Metro Vancouver - SW, bc, Canada",Low Risk,49.3224696,-122.8568391,Low (1-3),Metro Vancouver - SW
 "Nanaimo, bc, Canada",Low Risk,49.1658836,-123.9400647,Low (1-3),Nanaimo
-"North Okanagan, bc, Canada",High Risk,50.3398977,-118.7840936,High (7-9),North Okanagan
-"Prince George, bc, Canada",Moderate Risk,53.9170641,-122.7496693,Moderate (4-6),Prince George
-"Quesnel, bc, Canada",High Risk,52.9817372,-122.4949058,High (7-9),Quesnel
+"North Okanagan, bc, Canada",Moderate Risk,50.3398977,-118.7840936,Moderate (4-6),North Okanagan
+"Prince George, bc, Canada",Low Risk,53.9170641,-122.7496693,Low (1-3),Prince George
+"Quesnel, bc, Canada",Low Risk,52.9817372,-122.4949058,Low (1-3),Quesnel
 "Smithers, bc, Canada",Low Risk,54.782355,-127.1685541,Low (1-3),Smithers
-"South Okanagan, bc, Canada",Moderate Risk,53.7266683,-127.6476206,Moderate (4-6),South Okanagan
-"Sparwood, bc, Canada",Moderate Risk,49.7308665,-114.8861593,Moderate (4-6),Sparwood
+"South Okanagan, bc, Canada",High Risk,53.7266683,-127.6476206,High (7-9),South Okanagan
+"Sparwood, bc, Canada",Low Risk,49.7308665,-114.8861593,Low (1-3),Sparwood
 "Squamish, bc, Canada",Low Risk,49.7016339,-123.1558121,Low (1-3),Squamish
 "Terrace, bc, Canada",Low Risk,54.5181925,-128.603154,Low (1-3),Terrace
 "Victoria/Saanich, bc, Canada",Low Risk,48.4284207,-123.3656444,Low (1-3),Victoria/Saanich
@@ -28,7 +28,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Williams Lake, bc, Canada",High Risk,52.1416736,-122.1416885,High (7-9),Williams Lake
 "Airdrie, ab, Canada",Moderate Risk,51.2926968,-114.0134113,Moderate (4-6),Airdrie
 "Brooks, ab, Canada",Moderate Risk,50.56538876,-111.897462,Moderate (4-6),Brooks
-"Calgary, ab, Canada",High Risk,51.0447331,-114.0718831,High (7-9),Calgary
+"Calgary, ab, Canada",Moderate Risk,51.0447331,-114.0718831,Moderate (4-6),Calgary
 "Cold Lake, ab, Canada",Low Risk,54.464249,-110.1731779,Low (1-3),Cold Lake
 "Drayton Valley, ab, Canada",Low Risk,53.2214945,-114.976746,Low (1-3),Drayton Valley
 "Edmonton, ab, Canada",Low Risk,53.5460983,-113.4937266,Low (1-3),Edmonton
@@ -53,7 +53,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Prince Albert, sk, Canada",Low Risk,53.2033494,-105.7530705,Low (1-3),Prince Albert
 "Regina, sk, Canada",Low Risk,50.4452112,-104.6188944,Low (1-3),Regina
 "Saskatoon, sk, Canada",Low Risk,52.157902,-106.6701577,Low (1-3),Saskatoon
-"Swift Current, sk, Canada",Moderate Risk,50.285069,-107.7971722,Moderate (4-6),Swift Current
+"Swift Current, sk, Canada",Low Risk,50.285069,-107.7971722,Low (1-3),Swift Current
 "Brandon, mb, Canada",Low Risk,49.8437486,-99.9514807,Low (1-3),Brandon
 "Flin Flon, mb, Canada",Low Risk,54.7751389,-101.8493669,Low (1-3),Flin Flon
 "Winnipeg, mb, Canada",Low Risk,49.8954221,-97.1385145,Low (1-3),Winnipeg
@@ -90,7 +90,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Sudbury, on, Canada",Low Risk,46.4917317,-80.993029,Low (1-3),Sudbury
 "Thunder Bay, on, Canada",Low Risk,48.3808951,-89.2476823,Low (1-3),Thunder Bay
 "Tiverton, on, Canada",Low Risk,44.2676578,-81.5433231,Low (1-3),Tiverton
-"Toronto, on, Canada",Moderate Risk,43.653226,-79.3831843,Moderate (4-6),Toronto
+"Toronto, on, Canada",Low Risk,43.653226,-79.3831843,Low (1-3),Toronto
 "Toronto Downtown, on, Canada",Moderate Risk,,,Moderate (4-6),Toronto Downtown
 "Toronto East, on, Canada",Low Risk,,,Low (1-3),Toronto East
 "Toronto North, on, Canada",Low Risk,,,Low (1-3),Toronto North
