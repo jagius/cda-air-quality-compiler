@@ -7,8 +7,8 @@ Location,Observed,Day_Forecast,Night_Forecast,Next_Day_Forecast,Next_Night_Forec
 "Duncan, bc, Canada",Low Risk,2.0,3.0,3.0,3.0,48.7786908,-123.7079416,Low (1-3),Duncan
 "Eastern Fraser Valley, bc, Canada",Low Risk,3.0,4.0,4.0,4.0,49.3764104,-121.8159307,Moderate (4-6),Eastern Fraser Valley
 "Fort St. John, bc, Canada",Low Risk,2.0,2.0,2.0,2.0,56.252423,-120.846409,Low (1-3),Fort St. John
-"Kamloops, bc, Canada",Moderate Risk,6.0,5.0,4.0,4.0,50.674522,-120.3272674,Moderate (4-6),Kamloops
-"Kitimat, bc, Canada",,2.0,1.0,1.0,1.0,54.0632661,-128.637191,Low (1-3),Kitimat
+"Kamloops, bc, Canada",Low Risk,6.0,5.0,4.0,4.0,50.674522,-120.3272674,Moderate (4-6),Kamloops
+"Kitimat, bc, Canada",Low Risk,2.0,1.0,1.0,1.0,54.0632661,-128.637191,Low (1-3),Kitimat
 "Metro Vancouver - NE, bc, Canada",Low Risk,2.0,3.0,3.0,4.0,49.3224696,-122.8568391,Moderate (4-6),Metro Vancouver - NE
 "Metro Vancouver - NW, bc, Canada",Low Risk,2.0,3.0,3.0,4.0,49.2057179,-122.910956,Moderate (4-6),Metro Vancouver - NW
 "Metro Vancouver - SE, bc, Canada",Low Risk,2.0,3.0,3.0,4.0,49.3224696,-122.8568391,Moderate (4-6),Metro Vancouver - SE
@@ -17,9 +17,9 @@ Location,Observed,Day_Forecast,Night_Forecast,Next_Day_Forecast,Next_Night_Forec
 "North Okanagan, bc, Canada",Moderate Risk,5.0,5.0,5.0,4.0,50.3398977,-118.7840936,Moderate (4-6),North Okanagan
 "Prince George, bc, Canada",Low Risk,2.0,2.0,1.0,2.0,53.9170641,-122.7496693,Low (1-3),Prince George
 "Quesnel, bc, Canada",Low Risk,2.0,2.0,2.0,2.0,52.9817372,-122.4949058,Low (1-3),Quesnel
-"Smithers, bc, Canada",,1.0,1.0,1.0,2.0,54.782355,-127.1685541,Low (1-3),Smithers
+"Smithers, bc, Canada",Low Risk,1.0,1.0,1.0,2.0,54.782355,-127.1685541,Low (1-3),Smithers
 "South Okanagan, bc, Canada",Low Risk,4.0,4.0,4.0,4.0,53.7266683,-127.6476206,Moderate (4-6),South Okanagan
-"Sparwood, bc, Canada",Moderate Risk,5.0,5.0,5.0,5.0,49.7308665,-114.8861593,Moderate (4-6),Sparwood
+"Sparwood, bc, Canada",Low Risk,5.0,5.0,5.0,5.0,49.7308665,-114.8861593,Moderate (4-6),Sparwood
 "Squamish, bc, Canada",Low Risk,2.0,3.0,4.0,4.0,49.7016339,-123.1558121,Moderate (4-6),Squamish
 "Terrace, bc, Canada",,2.0,1.0,1.0,1.0,54.5181925,-128.603154,Low (1-3),Terrace
 "Victoria/Saanich, bc, Canada",Low Risk,2.0,3.0,3.0,3.0,48.4284207,-123.3656444,Low (1-3),Victoria/Saanich
@@ -27,8 +27,8 @@ Location,Observed,Day_Forecast,Night_Forecast,Next_Day_Forecast,Next_Night_Forec
 "Whistler, bc, Canada",Low Risk,3.0,4.0,4.0,4.0,50.1161686,-122.9535117,Moderate (4-6),Whistler
 "Williams Lake, bc, Canada",Low Risk,3.0,3.0,2.0,2.0,52.1416736,-122.1416885,Low (1-3),Williams Lake
 "Airdrie, ab, Canada",Low Risk,6.0,3.0,3.0,3.0,51.2926968,-114.0134113,Moderate (4-6),Airdrie
-"Brooks, ab, Canada",Moderate Risk,6.0,2.0,2.0,2.0,50.56538876,-111.897462,Moderate (4-6),Brooks
-"Calgary, ab, Canada",Moderate Risk,6.0,3.0,3.0,3.0,51.0447331,-114.0718831,Moderate (4-6),Calgary
+"Brooks, ab, Canada",Low Risk,6.0,2.0,2.0,2.0,50.56538876,-111.897462,Moderate (4-6),Brooks
+"Calgary, ab, Canada",Low Risk,6.0,3.0,3.0,3.0,51.0447331,-114.0718831,Moderate (4-6),Calgary
 "Cold Lake, ab, Canada",Low Risk,2.0,2.0,2.0,2.0,54.464249,-110.1731779,Low (1-3),Cold Lake
 "Drayton Valley, ab, Canada",Low Risk,2.0,2.0,2.0,2.0,53.2214945,-114.976746,Low (1-3),Drayton Valley
 "Edmonton, ab, Canada",Low Risk,2.0,2.0,2.0,3.0,53.5460983,-113.4937266,Low (1-3),Edmonton
@@ -41,20 +41,20 @@ Location,Observed,Day_Forecast,Night_Forecast,Next_Day_Forecast,Next_Night_Forec
 "Grande Prairie, ab, Canada",Low Risk,3.0,2.0,2.0,2.0,55.170691,-118.7884808,Low (1-3),Grande Prairie
 "Hinton, ab, Canada",Low Risk,1.0,2.0,2.0,2.0,53.399067,-117.5794057,Low (1-3),Hinton
 "Lamont County, ab, Canada",Low Risk,1.0,1.0,1.0,3.0,53.7901566,-112.5577641,Low (1-3),Lamont County
-"Lethbridge, ab, Canada",Moderate Risk,9.0,3.0,3.0,3.0,49.6956181,-112.8451067,High (7-10),Lethbridge
-"Medicine Hat, ab, Canada",Very High Risk,6.0,2.0,2.0,3.0,50.0290218,-110.7031976,Moderate (4-6),Medicine Hat
+"Lethbridge, ab, Canada",Low Risk,9.0,3.0,3.0,3.0,49.6956181,-112.8451067,High (7-10),Lethbridge
+"Medicine Hat, ab, Canada",Moderate Risk,6.0,2.0,2.0,3.0,50.0290218,-110.7031976,Moderate (4-6),Medicine Hat
 "Red Deer, ab, Canada",Low Risk,3.0,2.0,2.0,2.0,52.2690328,-113.8114955,Low (1-3),Red Deer
 "St. Albert, ab, Canada",Low Risk,2.0,2.0,2.0,3.0,53.6539037,-113.6292701,Low (1-3),St. Albert
 "Strathcona County, ab, Canada",Low Risk,2.0,2.0,2.0,3.0,53.5326776,-113.1553199,Low (1-3),Strathcona County
 "Sturgeon County, ab, Canada",Low Risk,1.0,1.0,1.0,3.0,53.81567,-113.562732,Low (1-3),Sturgeon County
 "Wood Buffalo - south, ab, Canada",Low Risk,2.0,2.0,2.0,2.0,57.6066083,-111.6495855,Low (1-3),Wood Buffalo - south
 "Buffalo Narrows, sk, Canada",Low Risk,3.0,2.0,2.0,2.0,55.8628398,-108.4794604,Low (1-3),Buffalo Narrows
-"Estevan, sk, Canada",Moderate Risk,9.0,5.0,2.0,2.0,49.1390842,-102.9914807,High (7-10),Estevan
+"Estevan, sk, Canada",High Risk,9.0,5.0,2.0,2.0,49.1390842,-102.9914807,High (7-10),Estevan
 "Prince Albert, sk, Canada",Low Risk,3.0,2.0,2.0,2.0,53.2033494,-105.7530705,Low (1-3),Prince Albert
 "Regina, sk, Canada",Moderate Risk,7.0,3.0,2.0,3.0,50.4452112,-104.6188944,High (7-10),Regina
 "Saskatoon, sk, Canada",Low Risk,4.0,3.0,3.0,3.0,52.157902,-106.6701577,Moderate (4-6),Saskatoon
-"Swift Current, sk, Canada",High Risk,8.0,3.0,2.0,3.0,50.285069,-107.7971722,High (7-10),Swift Current
-"Brandon, mb, Canada",High Risk,4.0,4.0,3.0,2.0,49.8437486,-99.9514807,Moderate (4-6),Brandon
+"Swift Current, sk, Canada",Moderate Risk,8.0,3.0,2.0,3.0,50.285069,-107.7971722,High (7-10),Swift Current
+"Brandon, mb, Canada",Moderate Risk,4.0,4.0,3.0,2.0,49.8437486,-99.9514807,Moderate (4-6),Brandon
 "Flin Flon, mb, Canada",Low Risk,3.0,3.0,3.0,3.0,54.7751389,-101.8493669,Low (1-3),Flin Flon
 "Winnipeg, mb, Canada",Low Risk,4.0,4.0,4.0,2.0,49.8954221,-97.1385145,Moderate (4-6),Winnipeg
 "Barrie, on, Canada",Low Risk,2.0,2.0,2.0,2.0,44.3893556,-79.6903316,Low (1-3),Barrie
