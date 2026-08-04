@@ -5,7 +5,7 @@ Location,Observed,Day_Forecast,Night_Forecast,Next_Day_Forecast,Next_Night_Forec
 "Comox Valley, bc, Canada",Low Risk,3.0,3.0,1.0,2.0,49.6735133,-124.9282659,Low (1-3),Comox Valley
 "Cranbrook, bc, Canada",Low Risk,3.0,3.0,3.0,2.0,49.5129678,-115.7694002,Low (1-3),Cranbrook
 "Duncan, bc, Canada",Low Risk,3.0,3.0,2.0,3.0,48.7786908,-123.7079416,Low (1-3),Duncan
-"Eastern Fraser Valley, bc, Canada",Low Risk,4.0,4.0,4.0,3.0,49.3764104,-121.8159307,Moderate (4-6),Eastern Fraser Valley
+"Eastern Fraser Valley, bc, Canada",High Risk,4.0,4.0,4.0,3.0,49.3764104,-121.8159307,Moderate (4-6),Eastern Fraser Valley
 "Fort St. John, bc, Canada",Low Risk,2.0,2.0,2.0,2.0,56.252423,-120.846409,Low (1-3),Fort St. John
 "Kamloops, bc, Canada",Low Risk,4.0,4.0,3.0,3.0,50.674522,-120.3272674,Moderate (4-6),Kamloops
 "Kitimat, bc, Canada",Low Risk,1.0,1.0,1.0,1.0,54.0632661,-128.637191,Low (1-3),Kitimat
@@ -31,7 +31,7 @@ Location,Observed,Day_Forecast,Night_Forecast,Next_Day_Forecast,Next_Night_Forec
 "Calgary, ab, Canada",Low Risk,3.0,3.0,3.0,3.0,51.0447331,-114.0718831,Low (1-3),Calgary
 "Cold Lake, ab, Canada",Low Risk,2.0,2.0,2.0,2.0,54.464249,-110.1731779,Low (1-3),Cold Lake
 "Drayton Valley, ab, Canada",Low Risk,2.0,2.0,2.0,2.0,53.2214945,-114.976746,Low (1-3),Drayton Valley
-"Edmonton, ab, Canada",Moderate Risk,2.0,2.0,2.0,2.0,53.5460983,-113.4937266,Low (1-3),Edmonton
+"Edmonton, ab, Canada",Low Risk,2.0,2.0,2.0,2.0,53.5460983,-113.4937266,Low (1-3),Edmonton
 "Edson, ab, Canada",Low Risk,2.0,2.0,2.0,2.0,53.585422,-116.4337219,Low (1-3),Edson
 "Fort Chipewyan, ab, Canada",Low Risk,2.0,2.0,2.0,2.0,58.7133284,-111.1574916,Low (1-3),Fort Chipewyan
 "Fort McKay, ab, Canada",Low Risk,2.0,2.0,2.0,2.0,57.186758,-111.636785,Low (1-3),Fort McKay
@@ -116,10 +116,10 @@ Location,Observed,Day_Forecast,Night_Forecast,Next_Day_Forecast,Next_Night_Forec
 "Pictou, ns, Canada",Low Risk,2.0,2.0,2.0,2.0,45.6761282,-62.708845,Low (1-3),Pictou
 "Port Hawkesbury, ns, Canada",Low Risk,2.0,2.0,2.0,2.0,45.6148755,-61.3518164,Low (1-3),Port Hawkesbury
 "Sydney, ns, Canada",Low Risk,2.0,2.0,2.0,2.0,46.1367899,-60.194224,Low (1-3),Sydney
-"Charlottetown, pe, Canada",Low Risk,2.0,1.0,1.0,2.0,46.23824,-63.1310704,Low (1-3),Charlottetown
-"St. Peters Bay, pe, Canada",,2.0,1.0,1.0,2.0,46.4174453,-62.5810333,Low (1-3),St. Peters Bay
-"Summerside (Wellington), pe, Canada",Low Risk,2.0,1.0,1.0,2.0,46.4538293,-63.9995297,Low (1-3),Summerside (Wellington)
-"Burin, nl, Canada",Low Risk,1.0,2.0,2.0,2.0,47.0777517,-55.1762977,Low (1-3),Burin
+"Charlottetown, pe, Canada",Low Risk,2.0,2.0,2.0,2.0,46.23824,-63.1310704,Low (1-3),Charlottetown
+"St. Peters Bay, pe, Canada",,2.0,2.0,2.0,2.0,46.4174453,-62.5810333,Low (1-3),St. Peters Bay
+"Summerside (Wellington), pe, Canada",Low Risk,2.0,2.0,2.0,2.0,46.4538293,-63.9995297,Low (1-3),Summerside (Wellington)
+"Burin, nl, Canada",Low Risk,1.0,2.0,1.0,1.0,47.0777517,-55.1762977,Low (1-3),Burin
 "Corner Brook, nl, Canada",Low Risk,1.0,1.0,1.0,1.0,48.9523316,-57.9460401,Low (1-3),Corner Brook
 "Grand Falls-Windsor, nl, Canada",Low Risk,1.0,1.0,1.0,1.0,48.9279047,-55.6598977,Low (1-3),Grand Falls-Windsor
 "Labrador City, nl, Canada",Low Risk,2.0,2.0,2.0,2.0,52.9383852,-66.9153137,Low (1-3),Labrador City
