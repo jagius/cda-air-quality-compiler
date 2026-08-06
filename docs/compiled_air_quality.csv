@@ -1,7 +1,7 @@
 Location,Observed,Latitude,Longitude,Risk,Label
 "Castlegar, bc, Canada",High Risk,49.3237408,-117.6593341,High (7-9),Castlegar
 "Central Fraser Valley, bc, Canada",Moderate Risk,49.3764104,-121.8159307,Moderate (4-6),Central Fraser Valley
-"Central Okanagan, bc, Canada",High Risk,49.9473663,-119.5588209,High (7-9),Central Okanagan
+"Central Okanagan, bc, Canada",Moderate Risk,49.9473663,-119.5588209,Moderate (4-6),Central Okanagan
 "Comox Valley, bc, Canada",Low Risk,49.6735133,-124.9282659,Low (1-3),Comox Valley
 "Cranbrook, bc, Canada",Moderate Risk,49.5129678,-115.7694002,Moderate (4-6),Cranbrook
 "Duncan, bc, Canada",Low Risk,48.7786908,-123.7079416,Low (1-3),Duncan
@@ -22,8 +22,8 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Sparwood, bc, Canada",,49.7308665,-114.8861593,,Sparwood
 "Squamish, bc, Canada",Moderate Risk,49.7016339,-123.1558121,Moderate (4-6),Squamish
 "Terrace, bc, Canada",Low Risk,54.5181925,-128.603154,Low (1-3),Terrace
-"Victoria/Saanich, bc, Canada",Moderate Risk,48.4284207,-123.3656444,Moderate (4-6),Victoria/Saanich
-"WestShore, bc, Canada",Moderate Risk,48.4474626,-123.4956337,Moderate (4-6),WestShore
+"Victoria/Saanich, bc, Canada",Low Risk,48.4284207,-123.3656444,Low (1-3),Victoria/Saanich
+"WestShore, bc, Canada",Low Risk,48.4474626,-123.4956337,Low (1-3),WestShore
 "Whistler, bc, Canada",Moderate Risk,50.1161686,-122.9535117,Moderate (4-6),Whistler
 "Williams Lake, bc, Canada",Moderate Risk,52.1416736,-122.1416885,Moderate (4-6),Williams Lake
 "Airdrie, ab, Canada",Low Risk,51.2926968,-114.0134113,Low (1-3),Airdrie
@@ -41,7 +41,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Grande Prairie, ab, Canada",Low Risk,55.170691,-118.7884808,Low (1-3),Grande Prairie
 "Hinton, ab, Canada",Low Risk,53.399067,-117.5794057,Low (1-3),Hinton
 "Lamont County, ab, Canada",Low Risk,53.7901566,-112.5577641,Low (1-3),Lamont County
-"Lethbridge, ab, Canada",Moderate Risk,49.6956181,-112.8451067,Moderate (4-6),Lethbridge
+"Lethbridge, ab, Canada",Low Risk,49.6956181,-112.8451067,Low (1-3),Lethbridge
 "Medicine Hat, ab, Canada",Low Risk,50.0290218,-110.7031976,Low (1-3),Medicine Hat
 "Red Deer, ab, Canada",Low Risk,52.2690328,-113.8114955,Low (1-3),Red Deer
 "St. Albert, ab, Canada",Low Risk,53.6539037,-113.6292701,Low (1-3),St. Albert
@@ -91,10 +91,10 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Thunder Bay, on, Canada",Low Risk,48.3808951,-89.2476823,Low (1-3),Thunder Bay
 "Tiverton, on, Canada",Low Risk,44.2676578,-81.5433231,Low (1-3),Tiverton
 "Toronto, on, Canada",Low Risk,43.653226,-79.3831843,Low (1-3),Toronto
-"Toronto Downtown, on, Canada",Low Risk,,,Low (1-3),Toronto Downtown
+"Toronto Downtown, on, Canada",Moderate Risk,,,Moderate (4-6),Toronto Downtown
 "Toronto East, on, Canada",Low Risk,,,Low (1-3),Toronto East
 "Toronto North, on, Canada",Low Risk,,,Low (1-3),Toronto North
-"Toronto West, on, Canada",Low Risk,,,Low (1-3),Toronto West
+"Toronto West, on, Canada",Moderate Risk,,,Moderate (4-6),Toronto West
 "Windsor, on, Canada",Low Risk,42.3149367,-83.0363633,Low (1-3),Windsor
 "Windsor Downtown, on, Canada",Low Risk,,,Low (1-3),Windsor Downtown
 "Windsor West, on, Canada",Low Risk,,,Low (1-3),Windsor West
