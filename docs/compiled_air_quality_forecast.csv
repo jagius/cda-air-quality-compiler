@@ -25,7 +25,7 @@ Location,Observed,Day_Forecast,Night_Forecast,Next_Day_Forecast,Next_Night_Forec
 "Victoria/Saanich, bc, Canada",Low Risk,3.0,3.0,3.0,3.0,48.4284207,-123.3656444,Low (1-3),Victoria/Saanich
 "WestShore, bc, Canada",Low Risk,3.0,3.0,3.0,3.0,48.4474626,-123.4956337,Low (1-3),WestShore
 "Whistler, bc, Canada",Low Risk,4.0,3.0,3.0,3.0,50.1161686,-122.9535117,Moderate (4-6),Whistler
-"Williams Lake, bc, Canada",Low Risk,4.0,4.0,3.0,3.0,52.1416736,-122.1416885,Moderate (4-6),Williams Lake
+"Williams Lake, bc, Canada",Moderate Risk,4.0,4.0,3.0,3.0,52.1416736,-122.1416885,Moderate (4-6),Williams Lake
 "Airdrie, ab, Canada",Low Risk,4.0,4.0,4.0,4.0,51.2926968,-114.0134113,Moderate (4-6),Airdrie
 "Brooks, ab, Canada",Low Risk,2.0,2.0,3.0,4.0,50.56538876,-111.897462,Moderate (4-6),Brooks
 "Calgary, ab, Canada",Low Risk,4.0,4.0,4.0,4.0,51.0447331,-114.0718831,Moderate (4-6),Calgary
@@ -40,7 +40,7 @@ Location,Observed,Day_Forecast,Night_Forecast,Next_Day_Forecast,Next_Night_Forec
 "Genesee, ab, Canada",Low Risk,4.0,4.0,4.0,4.0,53.34453394,-114.3267988,Moderate (4-6),Genesee
 "Grande Prairie, ab, Canada",Low Risk,2.0,2.0,3.0,3.0,55.170691,-118.7884808,Low (1-3),Grande Prairie
 "Hinton, ab, Canada",Low Risk,3.0,5.0,6.0,3.0,53.399067,-117.5794057,Moderate (4-6),Hinton
-"Lamont County, ab, Canada",Moderate Risk,5.0,5.0,5.0,5.0,53.7901566,-112.5577641,Moderate (4-6),Lamont County
+"Lamont County, ab, Canada",Low Risk,5.0,5.0,5.0,5.0,53.7901566,-112.5577641,Moderate (4-6),Lamont County
 "Lethbridge, ab, Canada",Low Risk,4.0,4.0,4.0,4.0,49.6956181,-112.8451067,Moderate (4-6),Lethbridge
 "Medicine Hat, ab, Canada",Low Risk,3.0,4.0,4.0,4.0,50.0290218,-110.7031976,Moderate (4-6),Medicine Hat
 "Red Deer, ab, Canada",Low Risk,3.0,4.0,4.0,4.0,52.2690328,-113.8114955,Moderate (4-6),Red Deer
@@ -57,7 +57,7 @@ Location,Observed,Day_Forecast,Night_Forecast,Next_Day_Forecast,Next_Night_Forec
 "Brandon, mb, Canada",Low Risk,2.0,2.0,3.0,3.0,49.8437486,-99.9514807,Low (1-3),Brandon
 "Flin Flon, mb, Canada",Low Risk,1.0,1.0,1.0,1.0,54.7751389,-101.8493669,Low (1-3),Flin Flon
 "Winnipeg, mb, Canada",Low Risk,1.0,2.0,2.0,2.0,49.8954221,-97.1385145,Low (1-3),Winnipeg
-"Barrie, on, Canada",Low Risk,4.0,4.0,3.0,2.0,44.3893556,-79.6903316,Moderate (4-6),Barrie
+"Barrie, on, Canada",Low Risk,3.0,3.0,3.0,2.0,44.3893556,-79.6903316,Low (1-3),Barrie
 "Belleville, on, Canada",Low Risk,3.0,3.0,3.0,3.0,44.1627589,-77.3832315,Low (1-3),Belleville
 "Brampton, on, Canada",Low Risk,4.0,4.0,4.0,3.0,43.7315479,-79.7624177,Moderate (4-6),Brampton
 "Brantford, on, Canada",Low Risk,3.0,3.0,3.0,3.0,43.1393867,-80.2644254,Low (1-3),Brantford
@@ -76,10 +76,10 @@ Location,Observed,Day_Forecast,Night_Forecast,Next_Day_Forecast,Next_Night_Forec
 "London, on, Canada",Low Risk,3.0,3.0,3.0,3.0,42.9849233,-81.2452768,Low (1-3),London
 "Milton, on, Canada",Low Risk,4.0,4.0,3.0,3.0,43.5182991,-79.8774042,Moderate (4-6),Milton
 "Mississauga, on, Canada",Low Risk,4.0,4.0,4.0,3.0,43.5890452,-79.6441198,Moderate (4-6),Mississauga
-"Newmarket, on, Canada",Low Risk,4.0,4.0,3.0,2.0,44.059187,-79.461256,Moderate (4-6),Newmarket
+"Newmarket, on, Canada",Low Risk,3.0,3.0,3.0,2.0,44.059187,-79.461256,Low (1-3),Newmarket
 "North Bay, on, Canada",Low Risk,3.0,3.0,2.0,2.0,46.3091152,-79.4608204,Low (1-3),North Bay
 "Oakville, on, Canada",Low Risk,4.0,4.0,3.0,3.0,43.467517,-79.6876659,Moderate (4-6),Oakville
-"Oshawa, on, Canada",Low Risk,5.0,4.0,3.0,3.0,43.8970929,-78.8657912,Moderate (4-6),Oshawa
+"Oshawa, on, Canada",Low Risk,3.0,3.0,3.0,3.0,43.8970929,-78.8657912,Low (1-3),Oshawa
 "Ottawa, on, Canada",Low Risk,3.0,3.0,2.0,2.0,45.4215296,-75.6971931,Low (1-3),Ottawa
 "Parry Sound, on, Canada",Low Risk,3.0,3.0,3.0,3.0,45.3473925,-80.034783,Low (1-3),Parry Sound
 "Peterborough, on, Canada",Low Risk,3.0,3.0,3.0,3.0,44.3047061,-78.3199606,Low (1-3),Peterborough
@@ -96,13 +96,13 @@ Location,Observed,Day_Forecast,Night_Forecast,Next_Day_Forecast,Next_Night_Forec
 "Toronto North, on, Canada",Low Risk,4.0,4.0,4.0,3.0,,,Moderate (4-6),Toronto North
 "Toronto West, on, Canada",Low Risk,4.0,4.0,4.0,3.0,,,Moderate (4-6),Toronto West
 "Windsor, on, Canada",Low Risk,4.0,4.0,3.0,3.0,42.3149367,-83.0363633,Moderate (4-6),Windsor
-"Windsor Downtown, on, Canada",Low Risk,4.0,4.0,3.0,3.0,,,Moderate (4-6),Windsor Downtown
+"Windsor Downtown, on, Canada",Moderate Risk,4.0,4.0,3.0,3.0,,,Moderate (4-6),Windsor Downtown
 "Windsor West, on, Canada",Low Risk,4.0,4.0,3.0,3.0,,,Moderate (4-6),Windsor West
 "Gatineau, qc, Canada",calculated,3.0,3.0,2.0,2.0,45.4765446,-75.7012723,Low (1-3),Gatineau
 "Montréal, qc, Canada",calculated,3.0,3.0,3.0,3.0,45.5018869,-73.5673919,Low (1-3),Montréal
 "Québec, qc, Canada",calculated,2.0,2.0,2.0,2.0,46.8130816,-71.2074596,Low (1-3),Québec
-"Bathurst, nb, Canada",Moderate Risk,2.0,2.0,2.0,2.0,47.6183507,-65.6513358,Low (1-3),Bathurst
-"Campbellton, nb, Canada",Moderate Risk,2.0,2.0,2.0,2.0,48.007399,-66.6722057,Low (1-3),Campbellton
+"Bathurst, nb, Canada",Low Risk,2.0,2.0,2.0,2.0,47.6183507,-65.6513358,Low (1-3),Bathurst
+"Campbellton, nb, Canada",Low Risk,2.0,2.0,2.0,2.0,48.007399,-66.6722057,Low (1-3),Campbellton
 "Edmundston, nb, Canada",Low Risk,2.0,2.0,2.0,2.0,47.3690127,-68.3266741,Low (1-3),Edmundston
 "Fredericton, nb, Canada",Low Risk,2.0,2.0,2.0,2.0,45.9635895,-66.6431151,Low (1-3),Fredericton
 "Miramichi, nb, Canada",Low Risk,2.0,2.0,2.0,2.0,47.0295709,-65.5059061,Low (1-3),Miramichi
@@ -111,7 +111,7 @@ Location,Observed,Day_Forecast,Night_Forecast,Next_Day_Forecast,Next_Night_Forec
 "Saint John, nb, Canada",Low Risk,2.0,2.0,2.0,2.0,45.2733153,-66.0633081,Low (1-3),Saint John
 "Halifax, ns, Canada",Low Risk,2.0,2.0,2.0,2.0,44.8857087,-63.1005273,Low (1-3),Halifax
 "Halifax - Lake Major, ns, Canada",Low Risk,2.0,2.0,2.0,2.0,,,Low (1-3),Halifax - Lake Major
-"Halifax Downtown, ns, Canada",Moderate Risk,2.0,2.0,2.0,2.0,,,Low (1-3),Halifax Downtown
+"Halifax Downtown, ns, Canada",Low Risk,2.0,2.0,2.0,2.0,,,Low (1-3),Halifax Downtown
 "Kentville, ns, Canada",Low Risk,2.0,2.0,2.0,2.0,45.0771182,-64.4942826,Low (1-3),Kentville
 "Pictou, ns, Canada",Low Risk,2.0,2.0,2.0,2.0,45.6761282,-62.708845,Low (1-3),Pictou
 "Port Hawkesbury, ns, Canada",Low Risk,2.0,2.0,2.0,2.0,45.6148755,-61.3518164,Low (1-3),Port Hawkesbury
