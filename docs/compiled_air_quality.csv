@@ -1,5 +1,5 @@
 Location,Observed,Latitude,Longitude,Risk,Label
-"Castlegar, bc, Canada",Moderate Risk,49.3237408,-117.6593341,Moderate (4-6),Castlegar
+"Castlegar, bc, Canada",High Risk,49.3237408,-117.6593341,High (7-9),Castlegar
 "Central Fraser Valley, bc, Canada",Low Risk,49.3764104,-121.8159307,Low (1-3),Central Fraser Valley
 "Central Okanagan, bc, Canada",Low Risk,49.9473663,-119.5588209,Low (1-3),Central Okanagan
 "Comox Valley, bc, Canada",Low Risk,49.6735133,-124.9282659,Low (1-3),Comox Valley
@@ -74,7 +74,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Kingston, on, Canada",Low Risk,44.2311717,-76.4859544,Low (1-3),Kingston
 "Kitchener, on, Canada",Low Risk,43.4516395,-80.4925337,Low (1-3),Kitchener
 "London, on, Canada",Low Risk,42.9849233,-81.2452768,Low (1-3),London
-"Milton, on, Canada",Moderate Risk,43.5182991,-79.8774042,Moderate (4-6),Milton
+"Milton, on, Canada",Low Risk,43.5182991,-79.8774042,Low (1-3),Milton
 "Mississauga, on, Canada",Low Risk,43.5890452,-79.6441198,Low (1-3),Mississauga
 "Newmarket, on, Canada",Low Risk,44.059187,-79.461256,Low (1-3),Newmarket
 "North Bay, on, Canada",Low Risk,46.3091152,-79.4608204,Low (1-3),North Bay
