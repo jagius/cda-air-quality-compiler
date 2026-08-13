@@ -18,7 +18,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Prince George, bc, Canada",Low Risk,53.9170641,-122.7496693,Low (1-3),Prince George
 "Quesnel, bc, Canada",Low Risk,52.9817372,-122.4949058,Low (1-3),Quesnel
 "Smithers, bc, Canada",Low Risk,54.782355,-127.1685541,Low (1-3),Smithers
-"South Okanagan, bc, Canada",Very High Risk,53.7266683,-127.6476206,Very high (10+),South Okanagan
+"South Okanagan, bc, Canada",High Risk,53.7266683,-127.6476206,High (7-9),South Okanagan
 "Sparwood, bc, Canada",Low Risk,49.7308665,-114.8861593,Low (1-3),Sparwood
 "Squamish, bc, Canada",Low Risk,49.7016339,-123.1558121,Low (1-3),Squamish
 "Terrace, bc, Canada",Low Risk,54.5181925,-128.603154,Low (1-3),Terrace
@@ -96,13 +96,13 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Toronto North, on, Canada",Low Risk,,,Low (1-3),Toronto North
 "Toronto West, on, Canada",Low Risk,,,Low (1-3),Toronto West
 "Windsor, on, Canada",Low Risk,42.3149367,-83.0363633,Low (1-3),Windsor
-"Windsor Downtown, on, Canada",Low Risk,,,Low (1-3),Windsor Downtown
+"Windsor Downtown, on, Canada",Moderate Risk,,,Moderate (4-6),Windsor Downtown
 "Windsor West, on, Canada",Low Risk,,,Low (1-3),Windsor West
 "Gatineau, qc, Canada",calculated,45.4765446,-75.7012723,,Gatineau
 "Montréal, qc, Canada",calculated,45.5018869,-73.5673919,,Montréal
 "Québec, qc, Canada",calculated,46.8130816,-71.2074596,,Québec
 "Bathurst, nb, Canada",Low Risk,47.6183507,-65.6513358,Low (1-3),Bathurst
-"Campbellton, nb, Canada",,48.007399,-66.6722057,,Campbellton
+"Campbellton, nb, Canada",Low Risk,48.007399,-66.6722057,Low (1-3),Campbellton
 "Edmundston, nb, Canada",Low Risk,47.3690127,-68.3266741,Low (1-3),Edmundston
 "Fredericton, nb, Canada",Low Risk,45.9635895,-66.6431151,Low (1-3),Fredericton
 "Miramichi, nb, Canada",Low Risk,47.0295709,-65.5059061,Low (1-3),Miramichi
