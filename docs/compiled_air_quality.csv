@@ -71,7 +71,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Hamilton Downtown, on, Canada",Low Risk,,,Low (1-3),Hamilton Downtown
 "Hamilton Mountain, on, Canada",Low Risk,,,Low (1-3),Hamilton Mountain
 "Hamilton West, on, Canada",Low Risk,,,Low (1-3),Hamilton West
-"Kingston, on, Canada",,44.2311717,-76.4859544,,Kingston
+"Kingston, on, Canada",Low Risk,44.2311717,-76.4859544,Low (1-3),Kingston
 "Kitchener, on, Canada",Low Risk,43.4516395,-80.4925337,Low (1-3),Kitchener
 "London, on, Canada",Low Risk,42.9849233,-81.2452768,Low (1-3),London
 "Milton, on, Canada",Low Risk,43.5182991,-79.8774042,Low (1-3),Milton
