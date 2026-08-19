@@ -7,7 +7,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Duncan, bc, Canada",Low Risk,48.7786908,-123.7079416,Low (1-3),Duncan
 "Eastern Fraser Valley, bc, Canada",Low Risk,49.3764104,-121.8159307,Low (1-3),Eastern Fraser Valley
 "Fort St. John, bc, Canada",,56.252423,-120.846409,,Fort St. John
-"Kamloops, bc, Canada",Low Risk,50.674522,-120.3272674,Low (1-3),Kamloops
+"Kamloops, bc, Canada",Moderate Risk,50.674522,-120.3272674,Moderate (4-6),Kamloops
 "Kitimat, bc, Canada",Low Risk,54.0632661,-128.637191,Low (1-3),Kitimat
 "Metro Vancouver - NE, bc, Canada",Low Risk,49.3224696,-122.8568391,Low (1-3),Metro Vancouver - NE
 "Metro Vancouver - NW, bc, Canada",Low Risk,49.2057179,-122.910956,Low (1-3),Metro Vancouver - NW
@@ -18,7 +18,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Prince George, bc, Canada",Low Risk,53.9170641,-122.7496693,Low (1-3),Prince George
 "Quesnel, bc, Canada",Low Risk,52.9817372,-122.4949058,Low (1-3),Quesnel
 "Smithers, bc, Canada",Low Risk,54.782355,-127.1685541,Low (1-3),Smithers
-"South Okanagan, bc, Canada",Moderate Risk,53.7266683,-127.6476206,Moderate (4-6),South Okanagan
+"South Okanagan, bc, Canada",High Risk,53.7266683,-127.6476206,High (7-9),South Okanagan
 "Sparwood, bc, Canada",Low Risk,49.7308665,-114.8861593,Low (1-3),Sparwood
 "Squamish, bc, Canada",Low Risk,49.7016339,-123.1558121,Low (1-3),Squamish
 "Terrace, bc, Canada",Low Risk,54.5181925,-128.603154,Low (1-3),Terrace
@@ -27,7 +27,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Whistler, bc, Canada",Low Risk,50.1161686,-122.9535117,Low (1-3),Whistler
 "Williams Lake, bc, Canada",Low Risk,52.1416736,-122.1416885,Low (1-3),Williams Lake
 "Airdrie, ab, Canada",Low Risk,51.2926968,-114.0134113,Low (1-3),Airdrie
-"Brooks, ab, Canada",Moderate Risk,50.56538876,-111.897462,Moderate (4-6),Brooks
+"Brooks, ab, Canada",Low Risk,50.56538876,-111.897462,Low (1-3),Brooks
 "Calgary, ab, Canada",Low Risk,51.0447331,-114.0718831,Low (1-3),Calgary
 "Cold Lake, ab, Canada",Low Risk,54.464249,-110.1731779,Low (1-3),Cold Lake
 "Drayton Valley, ab, Canada",Low Risk,53.2214945,-114.976746,Low (1-3),Drayton Valley
@@ -56,7 +56,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Swift Current, sk, Canada",Low Risk,50.285069,-107.7971722,Low (1-3),Swift Current
 "Brandon, mb, Canada",Low Risk,49.8437486,-99.9514807,Low (1-3),Brandon
 "Flin Flon, mb, Canada",Low Risk,54.7751389,-101.8493669,Low (1-3),Flin Flon
-"Winnipeg, mb, Canada",Low Risk,49.8954221,-97.1385145,Low (1-3),Winnipeg
+"Winnipeg, mb, Canada",Moderate Risk,49.8954221,-97.1385145,Moderate (4-6),Winnipeg
 "Barrie, on, Canada",Low Risk,44.3893556,-79.6903316,Low (1-3),Barrie
 "Belleville, on, Canada",Low Risk,44.1627589,-77.3832315,Low (1-3),Belleville
 "Brampton, on, Canada",Low Risk,43.7315479,-79.7624177,Low (1-3),Brampton
