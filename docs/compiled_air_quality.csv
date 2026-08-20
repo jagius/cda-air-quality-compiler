@@ -33,7 +33,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Drayton Valley, ab, Canada",Low Risk,53.2214945,-114.976746,Low (1-3),Drayton Valley
 "Edmonton, ab, Canada",Low Risk,53.5460983,-113.4937266,Low (1-3),Edmonton
 "Edson, ab, Canada",Low Risk,53.585422,-116.4337219,Low (1-3),Edson
-"Fort Chipewyan, ab, Canada",High Risk,58.7133284,-111.1574916,High (7-9),Fort Chipewyan
+"Fort Chipewyan, ab, Canada",Low Risk,58.7133284,-111.1574916,Low (1-3),Fort Chipewyan
 "Fort McKay, ab, Canada",High Risk,57.186758,-111.636785,High (7-9),Fort McKay
 "Fort McMurray, ab, Canada",Moderate Risk,56.7266231,-111.3790095,Moderate (4-6),Fort McMurray
 "Fort Saskatchewan, ab, Canada",Low Risk,53.6962239,-113.2163654,Low (1-3),Fort Saskatchewan
