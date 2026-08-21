@@ -19,14 +19,14 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Quesnel, bc, Canada",Low Risk,52.9817372,-122.4949058,Low (1-3),Quesnel
 "Smithers, bc, Canada",Low Risk,54.782355,-127.1685541,Low (1-3),Smithers
 "South Okanagan, bc, Canada",Moderate Risk,53.7266683,-127.6476206,Moderate (4-6),South Okanagan
-"Sparwood, bc, Canada",Low Risk,49.7308665,-114.8861593,Low (1-3),Sparwood
+"Sparwood, bc, Canada",Moderate Risk,49.7308665,-114.8861593,Moderate (4-6),Sparwood
 "Squamish, bc, Canada",Low Risk,49.7016339,-123.1558121,Low (1-3),Squamish
 "Terrace, bc, Canada",Low Risk,54.5181925,-128.603154,Low (1-3),Terrace
 "Victoria/Saanich, bc, Canada",Low Risk,48.4284207,-123.3656444,Low (1-3),Victoria/Saanich
 "WestShore, bc, Canada",Low Risk,48.4474626,-123.4956337,Low (1-3),WestShore
 "Whistler, bc, Canada",Low Risk,50.1161686,-122.9535117,Low (1-3),Whistler
 "Williams Lake, bc, Canada",Low Risk,52.1416736,-122.1416885,Low (1-3),Williams Lake
-"Airdrie, ab, Canada",Low Risk,51.2926968,-114.0134113,Low (1-3),Airdrie
+"Airdrie, ab, Canada",Moderate Risk,51.2926968,-114.0134113,Moderate (4-6),Airdrie
 "Brooks, ab, Canada",Low Risk,50.56538876,-111.897462,Low (1-3),Brooks
 "Calgary, ab, Canada",Low Risk,51.0447331,-114.0718831,Low (1-3),Calgary
 "Cold Lake, ab, Canada",Low Risk,54.464249,-110.1731779,Low (1-3),Cold Lake
@@ -74,7 +74,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Kingston, on, Canada",Low Risk,44.2311717,-76.4859544,Low (1-3),Kingston
 "Kitchener, on, Canada",Low Risk,43.4516395,-80.4925337,Low (1-3),Kitchener
 "London, on, Canada",Low Risk,42.9849233,-81.2452768,Low (1-3),London
-"Milton, on, Canada",Low Risk,43.5182991,-79.8774042,Low (1-3),Milton
+"Milton, on, Canada",Moderate Risk,43.5182991,-79.8774042,Moderate (4-6),Milton
 "Mississauga, on, Canada",Low Risk,43.5890452,-79.6441198,Low (1-3),Mississauga
 "Newmarket, on, Canada",Low Risk,44.059187,-79.461256,Low (1-3),Newmarket
 "North Bay, on, Canada",Low Risk,46.3091152,-79.4608204,Low (1-3),North Bay
@@ -126,10 +126,10 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "St. John's, nl, Canada",Low Risk,47.5556097,-52.7452511,Low (1-3),St. John's
 "Whitehorse, yt, Canada",Low Risk,60.7197137,-135.0522761,Low (1-3),Whitehorse
 "Fort Simpson, nt, Canada",,61.86330512,-121.3537357,,Fort Simpson
-"Fort Smith, nt, Canada",Moderate Risk,60.00552,-111.8849379,Moderate (4-6),Fort Smith
+"Fort Smith, nt, Canada",Low Risk,60.00552,-111.8849379,Low (1-3),Fort Smith
 "Inuvik, nt, Canada",,68.3607437,-133.7230177,,Inuvik
 "Norman Wells, nt, Canada",Low Risk,65.2814938,-126.8286524,Low (1-3),Norman Wells
-"Yellowknife, nt, Canada",Moderate Risk,62.4539717,-114.3717886,Moderate (4-6),Yellowknife
+"Yellowknife, nt, Canada",Low Risk,62.4539717,-114.3717886,Low (1-3),Yellowknife
 "Arviat, nu, Canada",,61.1078279,-94.0623691,,Arviat
 "Iqaluit, nu, Canada",,63.746693,-68.5169669,,Iqaluit
 "Kugluktuk, nu, Canada",,67.8252313,-115.0965503,,Kugluktuk
