@@ -19,10 +19,10 @@ Location,Observed,Day_Forecast,Night_Forecast,Next_Day_Forecast,Next_Night_Forec
 "Quesnel, bc, Canada",Low Risk,2.0,2.0,3.0,3.0,52.9817372,-122.4949058,Low (1-3),Quesnel
 "Smithers, bc, Canada",Low Risk,1.0,2.0,2.0,1.0,54.782355,-127.1685541,Low (1-3),Smithers
 "South Okanagan, bc, Canada",High Risk,4.0,4.0,4.0,4.0,53.7266683,-127.6476206,Moderate (4-6),South Okanagan
-"Sparwood, bc, Canada",Moderate Risk,4.0,4.0,4.0,4.0,49.7308665,-114.8861593,Moderate (4-6),Sparwood
+"Sparwood, bc, Canada",Low Risk,4.0,4.0,4.0,4.0,49.7308665,-114.8861593,Moderate (4-6),Sparwood
 "Squamish, bc, Canada",Low Risk,2.0,2.0,2.0,2.0,49.7016339,-123.1558121,Low (1-3),Squamish
 "Terrace, bc, Canada",Low Risk,1.0,2.0,2.0,1.0,54.5181925,-128.603154,Low (1-3),Terrace
-"Victoria/Saanich, bc, Canada",Low Risk,3.0,2.0,3.0,2.0,48.4284207,-123.3656444,Low (1-3),Victoria/Saanich
+"Victoria/Saanich, bc, Canada",Moderate Risk,3.0,2.0,3.0,2.0,48.4284207,-123.3656444,Low (1-3),Victoria/Saanich
 "WestShore, bc, Canada",Low Risk,3.0,2.0,3.0,2.0,48.4474626,-123.4956337,Low (1-3),WestShore
 "Whistler, bc, Canada",Low Risk,2.0,2.0,2.0,2.0,50.1161686,-122.9535117,Low (1-3),Whistler
 "Williams Lake, bc, Canada",Low Risk,2.0,2.0,3.0,3.0,52.1416736,-122.1416885,Low (1-3),Williams Lake
@@ -31,7 +31,7 @@ Location,Observed,Day_Forecast,Night_Forecast,Next_Day_Forecast,Next_Night_Forec
 "Calgary, ab, Canada",Moderate Risk,4.0,4.0,4.0,4.0,51.0447331,-114.0718831,Moderate (4-6),Calgary
 "Cold Lake, ab, Canada",Low Risk,3.0,3.0,3.0,2.0,54.464249,-110.1731779,Low (1-3),Cold Lake
 "Drayton Valley, ab, Canada",Low Risk,2.0,2.0,2.0,4.0,53.2214945,-114.976746,Moderate (4-6),Drayton Valley
-"Edmonton, ab, Canada",Moderate Risk,3.0,3.0,3.0,4.0,53.5460983,-113.4937266,Moderate (4-6),Edmonton
+"Edmonton, ab, Canada",Low Risk,3.0,3.0,3.0,4.0,53.5460983,-113.4937266,Moderate (4-6),Edmonton
 "Edson, ab, Canada",Low Risk,3.0,3.0,3.0,4.0,53.585422,-116.4337219,Moderate (4-6),Edson
 "Fort Chipewyan, ab, Canada",Low Risk,7.0,6.0,3.0,3.0,58.7133284,-111.1574916,High (7-10),Fort Chipewyan
 "Fort McKay, ab, Canada",Low Risk,3.0,2.0,2.0,3.0,57.186758,-111.636785,Low (1-3),Fort McKay
@@ -40,7 +40,7 @@ Location,Observed,Day_Forecast,Night_Forecast,Next_Day_Forecast,Next_Night_Forec
 "Genesee, ab, Canada",Low Risk,2.0,2.0,2.0,5.0,53.34453394,-114.3267988,Moderate (4-6),Genesee
 "Grande Prairie, ab, Canada",Low Risk,2.0,3.0,3.0,3.0,55.170691,-118.7884808,Low (1-3),Grande Prairie
 "Hinton, ab, Canada",Low Risk,3.0,2.0,2.0,4.0,53.399067,-117.5794057,Moderate (4-6),Hinton
-"Lamont County, ab, Canada",Low Risk,3.0,2.0,2.0,4.0,53.7901566,-112.5577641,Moderate (4-6),Lamont County
+"Lamont County, ab, Canada",Moderate Risk,3.0,2.0,2.0,4.0,53.7901566,-112.5577641,Moderate (4-6),Lamont County
 "Lethbridge, ab, Canada",Moderate Risk,4.0,3.0,3.0,3.0,49.6956181,-112.8451067,Moderate (4-6),Lethbridge
 "Medicine Hat, ab, Canada",Low Risk,3.0,3.0,3.0,3.0,50.0290218,-110.7031976,Low (1-3),Medicine Hat
 "Red Deer, ab, Canada",Low Risk,3.0,3.0,3.0,3.0,52.2690328,-113.8114955,Low (1-3),Red Deer
