@@ -40,7 +40,7 @@ Location,Observed,Day_Forecast,Night_Forecast,Next_Day_Forecast,Next_Night_Forec
 "Genesee, ab, Canada",Low Risk,3.0,3.0,3.0,2.0,53.34453394,-114.3267988,Low (1-3),Genesee
 "Grande Prairie, ab, Canada",Low Risk,4.0,3.0,2.0,2.0,55.170691,-118.7884808,Moderate (4-6),Grande Prairie
 "Hinton, ab, Canada",Moderate Risk,6.0,6.0,4.0,2.0,53.399067,-117.5794057,Moderate (4-6),Hinton
-"Lamont County, ab, Canada",Moderate Risk,3.0,3.0,4.0,3.0,53.7901566,-112.5577641,Moderate (4-6),Lamont County
+"Lamont County, ab, Canada",Low Risk,3.0,3.0,4.0,3.0,53.7901566,-112.5577641,Moderate (4-6),Lamont County
 "Lethbridge, ab, Canada",Low Risk,3.0,3.0,3.0,2.0,49.6956181,-112.8451067,Low (1-3),Lethbridge
 "Medicine Hat, ab, Canada",Low Risk,3.0,3.0,3.0,3.0,50.0290218,-110.7031976,Low (1-3),Medicine Hat
 "Red Deer, ab, Canada",Low Risk,3.0,3.0,3.0,2.0,52.2690328,-113.8114955,Low (1-3),Red Deer
@@ -128,7 +128,7 @@ Location,Observed,Day_Forecast,Night_Forecast,Next_Day_Forecast,Next_Night_Forec
 "Fort Simpson, nt, Canada",,7.0,7.0,7.0,6.0,61.86330512,-121.3537357,High (7-10),Fort Simpson
 "Fort Smith, nt, Canada",Low Risk,2.0,3.0,2.0,2.0,60.00552,-111.8849379,Low (1-3),Fort Smith
 "Inuvik, nt, Canada",,1.0,1.0,1.0,1.0,68.3607437,-133.7230177,Low (1-3),Inuvik
-"Norman Wells, nt, Canada",Low Risk,5.0,4.0,2.0,1.0,65.2814938,-126.8286524,Moderate (4-6),Norman Wells
+"Norman Wells, nt, Canada",High Risk,7.0,4.0,2.0,1.0,65.2814938,-126.8286524,High (7-10),Norman Wells
 "Yellowknife, nt, Canada",Low Risk,3.0,3.0,2.0,2.0,62.4539717,-114.3717886,Low (1-3),Yellowknife
 "Arviat, nu, Canada",,1.0,1.0,1.0,2.0,61.1078279,-94.0623691,Low (1-3),Arviat
 "Iqaluit, nu, Canada",,2.0,2.0,2.0,2.0,63.746693,-68.5169669,Low (1-3),Iqaluit
