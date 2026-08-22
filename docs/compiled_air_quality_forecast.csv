@@ -5,7 +5,7 @@ Location,Observed,Day_Forecast,Night_Forecast,Next_Day_Forecast,Next_Night_Forec
 "Comox Valley, bc, Canada",Low Risk,3.0,2.0,2.0,2.0,49.6735133,-124.9282659,Low (1-3),Comox Valley
 "Cranbrook, bc, Canada",Low Risk,4.0,4.0,4.0,3.0,49.5129678,-115.7694002,Moderate (4-6),Cranbrook
 "Duncan, bc, Canada",Moderate Risk,3.0,2.0,2.0,2.0,48.7786908,-123.7079416,Low (1-3),Duncan
-"Eastern Fraser Valley, bc, Canada",Very High Risk,7.0,5.0,4.0,3.0,49.3764104,-121.8159307,High (7-10),Eastern Fraser Valley
+"Eastern Fraser Valley, bc, Canada",Moderate Risk,7.0,5.0,4.0,3.0,49.3764104,-121.8159307,High (7-10),Eastern Fraser Valley
 "Fort St. John, bc, Canada",Low Risk,3.0,3.0,2.0,3.0,56.252423,-120.846409,Low (1-3),Fort St. John
 "Kamloops, bc, Canada",Moderate Risk,4.0,4.0,4.0,2.0,50.674522,-120.3272674,Moderate (4-6),Kamloops
 "Kitimat, bc, Canada",Low Risk,2.0,1.0,1.0,1.0,54.0632661,-128.637191,Low (1-3),Kitimat
@@ -128,7 +128,7 @@ Location,Observed,Day_Forecast,Night_Forecast,Next_Day_Forecast,Next_Night_Forec
 "Fort Simpson, nt, Canada",,7.0,7.0,4.0,4.0,61.86330512,-121.3537357,High (7-10),Fort Simpson
 "Fort Smith, nt, Canada",Low Risk,3.0,2.0,2.0,2.0,60.00552,-111.8849379,Low (1-3),Fort Smith
 "Inuvik, nt, Canada",,1.0,1.0,1.0,1.0,68.3607437,-133.7230177,Low (1-3),Inuvik
-"Norman Wells, nt, Canada",Low Risk,2.0,3.0,3.0,3.0,65.2814938,-126.8286524,Low (1-3),Norman Wells
+"Norman Wells, nt, Canada",Moderate Risk,2.0,3.0,3.0,3.0,65.2814938,-126.8286524,Low (1-3),Norman Wells
 "Yellowknife, nt, Canada",Moderate Risk,6.0,2.0,2.0,2.0,62.4539717,-114.3717886,Moderate (4-6),Yellowknife
 "Arviat, nu, Canada",,2.0,1.0,1.0,1.0,61.1078279,-94.0623691,Low (1-3),Arviat
 "Iqaluit, nu, Canada",,2.0,2.0,2.0,2.0,63.746693,-68.5169669,Low (1-3),Iqaluit
