@@ -1,31 +1,31 @@
 Location,Observed,Day_Forecast,Night_Forecast,Next_Day_Forecast,Next_Night_Forecast,Latitude,Longitude,Risk,Label
 "Castlegar, bc, Canada",Low Risk,3.0,3.0,3.0,3.0,49.3237408,-117.6593341,Low (1-3),Castlegar
-"Central Fraser Valley, bc, Canada",Low Risk,3.0,4.0,5.0,5.0,49.3764104,-121.8159307,Moderate (4-6),Central Fraser Valley
+"Central Fraser Valley, bc, Canada",Low Risk,4.0,5.0,5.0,2.0,49.3764104,-121.8159307,Moderate (4-6),Central Fraser Valley
 "Central Okanagan, bc, Canada",Low Risk,3.0,3.0,3.0,3.0,49.9473663,-119.5588209,Low (1-3),Central Okanagan
-"Comox Valley, bc, Canada",Low Risk,2.0,2.0,3.0,3.0,49.6735133,-124.9282659,Low (1-3),Comox Valley
-"Cranbrook, bc, Canada",Low Risk,3.0,2.0,2.0,2.0,49.5129678,-115.7694002,Low (1-3),Cranbrook
-"Duncan, bc, Canada",Low Risk,2.0,2.0,3.0,3.0,48.7786908,-123.7079416,Low (1-3),Duncan
-"Eastern Fraser Valley, bc, Canada",Moderate Risk,7.0,7.0,5.0,5.0,49.3764104,-121.8159307,High (7-10),Eastern Fraser Valley
-"Fort St. John, bc, Canada",,2.0,3.0,2.0,3.0,56.252423,-120.846409,Low (1-3),Fort St. John
-"Kamloops, bc, Canada",Low Risk,3.0,3.0,3.0,3.0,50.674522,-120.3272674,Low (1-3),Kamloops
-"Kitimat, bc, Canada",Low Risk,1.0,1.0,3.0,3.0,54.0632661,-128.637191,Low (1-3),Kitimat
-"Metro Vancouver - NE, bc, Canada",Low Risk,3.0,3.0,5.0,4.0,49.3224696,-122.8568391,Moderate (4-6),Metro Vancouver - NE
-"Metro Vancouver - NW, bc, Canada",Low Risk,3.0,3.0,5.0,4.0,49.2057179,-122.910956,Moderate (4-6),Metro Vancouver - NW
-"Metro Vancouver - SE, bc, Canada",Low Risk,3.0,3.0,5.0,4.0,49.3224696,-122.8568391,Moderate (4-6),Metro Vancouver - SE
-"Metro Vancouver - SW, bc, Canada",Low Risk,3.0,3.0,5.0,4.0,49.3224696,-122.8568391,Moderate (4-6),Metro Vancouver - SW
-"Nanaimo, bc, Canada",Low Risk,2.0,2.0,3.0,3.0,49.1658836,-123.9400647,Low (1-3),Nanaimo
+"Comox Valley, bc, Canada",Low Risk,2.0,3.0,3.0,2.0,49.6735133,-124.9282659,Low (1-3),Comox Valley
+"Cranbrook, bc, Canada",Low Risk,3.0,2.0,2.0,3.0,49.5129678,-115.7694002,Low (1-3),Cranbrook
+"Duncan, bc, Canada",Low Risk,2.0,3.0,3.0,2.0,48.7786908,-123.7079416,Low (1-3),Duncan
+"Eastern Fraser Valley, bc, Canada",Moderate Risk,7.0,5.0,5.0,4.0,49.3764104,-121.8159307,High (7-10),Eastern Fraser Valley
+"Fort St. John, bc, Canada",,3.0,2.0,3.0,3.0,56.252423,-120.846409,Low (1-3),Fort St. John
+"Kamloops, bc, Canada",Low Risk,4.0,4.0,4.0,4.0,50.674522,-120.3272674,Moderate (4-6),Kamloops
+"Kitimat, bc, Canada",Low Risk,1.0,3.0,3.0,2.0,54.0632661,-128.637191,Low (1-3),Kitimat
+"Metro Vancouver - NE, bc, Canada",Low Risk,3.0,5.0,4.0,3.0,49.3224696,-122.8568391,Moderate (4-6),Metro Vancouver - NE
+"Metro Vancouver - NW, bc, Canada",Low Risk,3.0,5.0,4.0,3.0,49.2057179,-122.910956,Moderate (4-6),Metro Vancouver - NW
+"Metro Vancouver - SE, bc, Canada",Low Risk,3.0,5.0,4.0,3.0,49.3224696,-122.8568391,Moderate (4-6),Metro Vancouver - SE
+"Metro Vancouver - SW, bc, Canada",Low Risk,3.0,5.0,4.0,3.0,49.3224696,-122.8568391,Moderate (4-6),Metro Vancouver - SW
+"Nanaimo, bc, Canada",Low Risk,2.0,3.0,3.0,2.0,49.1658836,-123.9400647,Low (1-3),Nanaimo
 "North Okanagan, bc, Canada",Low Risk,3.0,3.0,3.0,3.0,50.3398977,-118.7840936,Low (1-3),North Okanagan
-"Prince George, bc, Canada",Low Risk,2.0,2.0,3.0,3.0,53.9170641,-122.7496693,Low (1-3),Prince George
-"Quesnel, bc, Canada",Low Risk,4.0,5.0,5.0,5.0,52.9817372,-122.4949058,Moderate (4-6),Quesnel
-"Smithers, bc, Canada",Low Risk,1.0,1.0,3.0,3.0,54.782355,-127.1685541,Low (1-3),Smithers
-"South Okanagan, bc, Canada",Low Risk,3.0,3.0,3.0,3.0,53.7266683,-127.6476206,Low (1-3),South Okanagan
-"Sparwood, bc, Canada",Low Risk,3.0,2.0,2.0,2.0,49.7308665,-114.8861593,Low (1-3),Sparwood
-"Squamish, bc, Canada",Low Risk,3.0,3.0,4.0,4.0,49.7016339,-123.1558121,Moderate (4-6),Squamish
-"Terrace, bc, Canada",Low Risk,1.0,1.0,3.0,3.0,54.5181925,-128.603154,Low (1-3),Terrace
-"Victoria/Saanich, bc, Canada",Low Risk,2.0,2.0,3.0,3.0,48.4284207,-123.3656444,Low (1-3),Victoria/Saanich
-"WestShore, bc, Canada",Low Risk,2.0,2.0,3.0,3.0,48.4474626,-123.4956337,Low (1-3),WestShore
-"Whistler, bc, Canada",Low Risk,3.0,3.0,4.0,4.0,50.1161686,-122.9535117,Moderate (4-6),Whistler
-"Williams Lake, bc, Canada",Low Risk,4.0,5.0,5.0,5.0,52.1416736,-122.1416885,Moderate (4-6),Williams Lake
+"Prince George, bc, Canada",Low Risk,2.0,3.0,3.0,3.0,53.9170641,-122.7496693,Low (1-3),Prince George
+"Quesnel, bc, Canada",Low Risk,3.0,3.0,5.0,4.0,52.9817372,-122.4949058,Moderate (4-6),Quesnel
+"Smithers, bc, Canada",Low Risk,1.0,3.0,3.0,2.0,54.782355,-127.1685541,Low (1-3),Smithers
+"South Okanagan, bc, Canada",Low Risk,4.0,4.0,4.0,3.0,53.7266683,-127.6476206,Moderate (4-6),South Okanagan
+"Sparwood, bc, Canada",Low Risk,3.0,2.0,2.0,3.0,49.7308665,-114.8861593,Low (1-3),Sparwood
+"Squamish, bc, Canada",Low Risk,3.0,4.0,4.0,3.0,49.7016339,-123.1558121,Moderate (4-6),Squamish
+"Terrace, bc, Canada",Low Risk,1.0,3.0,3.0,2.0,54.5181925,-128.603154,Low (1-3),Terrace
+"Victoria/Saanich, bc, Canada",Low Risk,2.0,3.0,3.0,2.0,48.4284207,-123.3656444,Low (1-3),Victoria/Saanich
+"WestShore, bc, Canada",Low Risk,2.0,3.0,3.0,2.0,48.4474626,-123.4956337,Low (1-3),WestShore
+"Whistler, bc, Canada",Low Risk,3.0,4.0,4.0,3.0,50.1161686,-122.9535117,Moderate (4-6),Whistler
+"Williams Lake, bc, Canada",Low Risk,3.0,3.0,5.0,4.0,52.1416736,-122.1416885,Moderate (4-6),Williams Lake
 "Airdrie, ab, Canada",Low Risk,2.0,3.0,3.0,3.0,51.2926968,-114.0134113,Low (1-3),Airdrie
 "Brooks, ab, Canada",Low Risk,2.0,2.0,2.0,3.0,50.56538876,-111.897462,Low (1-3),Brooks
 "Calgary, ab, Canada",Low Risk,2.0,3.0,3.0,3.0,51.0447331,-114.0718831,Low (1-3),Calgary
@@ -124,9 +124,9 @@ Location,Observed,Day_Forecast,Night_Forecast,Next_Day_Forecast,Next_Night_Forec
 "Grand Falls-Windsor, nl, Canada",Low Risk,2.0,1.0,2.0,1.0,48.9279047,-55.6598977,Low (1-3),Grand Falls-Windsor
 "Labrador City, nl, Canada",Low Risk,2.0,2.0,2.0,2.0,52.9383852,-66.9153137,Low (1-3),Labrador City
 "St. John's, nl, Canada",Low Risk,2.0,2.0,2.0,2.0,47.5556097,-52.7452511,Low (1-3),St. John's
-"Whitehorse, yt, Canada",Low Risk,2.0,2.0,1.0,1.0,60.7197137,-135.0522761,Low (1-3),Whitehorse
+"Whitehorse, yt, Canada",Low Risk,2.0,1.0,1.0,1.0,60.7197137,-135.0522761,Low (1-3),Whitehorse
 "Fort Simpson, nt, Canada",,7.0,7.0,7.0,8.0,61.86330512,-121.3537357,High (7-10),Fort Simpson
-"Fort Smith, nt, Canada",Moderate Risk,5.0,4.0,2.0,2.0,60.00552,-111.8849379,Moderate (4-6),Fort Smith
+"Fort Smith, nt, Canada",Low Risk,5.0,4.0,2.0,2.0,60.00552,-111.8849379,Moderate (4-6),Fort Smith
 "Inuvik, nt, Canada",,1.0,1.0,1.0,1.0,68.3607437,-133.7230177,Low (1-3),Inuvik
 "Norman Wells, nt, Canada",Low Risk,1.0,1.0,1.0,1.0,65.2814938,-126.8286524,Low (1-3),Norman Wells
 "Yellowknife, nt, Canada",Low Risk,2.0,2.0,2.0,2.0,62.4539717,-114.3717886,Low (1-3),Yellowknife
