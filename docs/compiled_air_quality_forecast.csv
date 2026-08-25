@@ -34,7 +34,7 @@ Location,Observed,Day_Forecast,Night_Forecast,Next_Day_Forecast,Next_Night_Forec
 "Edmonton, ab, Canada",Low Risk,3.0,3.0,3.0,4.0,53.5460983,-113.4937266,Moderate (4-6),Edmonton
 "Edson, ab, Canada",Low Risk,2.0,2.0,2.0,2.0,53.585422,-116.4337219,Low (1-3),Edson
 "Fort Chipewyan, ab, Canada",Low Risk,4.0,3.0,3.0,2.0,58.7133284,-111.1574916,Moderate (4-6),Fort Chipewyan
-"Fort McKay, ab, Canada",Low Risk,4.0,4.0,2.0,2.0,57.186758,-111.636785,Moderate (4-6),Fort McKay
+"Fort McKay, ab, Canada",Moderate Risk,4.0,4.0,2.0,2.0,57.186758,-111.636785,Moderate (4-6),Fort McKay
 "Fort McMurray, ab, Canada",Moderate Risk,4.0,4.0,2.0,2.0,56.7266231,-111.3790095,Moderate (4-6),Fort McMurray
 "Fort Saskatchewan, ab, Canada",Low Risk,2.0,2.0,2.0,2.0,53.6962239,-113.2163654,Low (1-3),Fort Saskatchewan
 "Genesee, ab, Canada",Low Risk,2.0,2.0,3.0,3.0,53.34453394,-114.3267988,Low (1-3),Genesee
@@ -52,7 +52,7 @@ Location,Observed,Day_Forecast,Night_Forecast,Next_Day_Forecast,Next_Night_Forec
 "Estevan, sk, Canada",Low Risk,2.0,2.0,2.0,2.0,49.1390842,-102.9914807,Low (1-3),Estevan
 "Prince Albert, sk, Canada",Low Risk,3.0,3.0,3.0,3.0,53.2033494,-105.7530705,Low (1-3),Prince Albert
 "Regina, sk, Canada",Low Risk,2.0,3.0,3.0,3.0,50.4452112,-104.6188944,Low (1-3),Regina
-"Saskatoon, sk, Canada",Moderate Risk,3.0,3.0,3.0,2.0,52.157902,-106.6701577,Low (1-3),Saskatoon
+"Saskatoon, sk, Canada",Low Risk,3.0,3.0,3.0,2.0,52.157902,-106.6701577,Low (1-3),Saskatoon
 "Swift Current, sk, Canada",Low Risk,2.0,2.0,2.0,2.0,50.285069,-107.7971722,Low (1-3),Swift Current
 "Brandon, mb, Canada",Low Risk,2.0,2.0,2.0,2.0,49.8437486,-99.9514807,Low (1-3),Brandon
 "Flin Flon, mb, Canada",Low Risk,3.0,2.0,1.0,1.0,54.7751389,-101.8493669,Low (1-3),Flin Flon
@@ -62,7 +62,7 @@ Location,Observed,Day_Forecast,Night_Forecast,Next_Day_Forecast,Next_Night_Forec
 "Brampton, on, Canada",Low Risk,2.0,2.0,2.0,2.0,43.7315479,-79.7624177,Low (1-3),Brampton
 "Brantford, on, Canada",Low Risk,2.0,2.0,2.0,2.0,43.1393867,-80.2644254,Low (1-3),Brantford
 "Burlington, on, Canada",Low Risk,2.0,2.0,2.0,2.0,43.3255196,-79.7990319,Low (1-3),Burlington
-"Chatham, on, Canada",,2.0,2.0,2.0,2.0,42.4048018,-82.1910376,Low (1-3),Chatham
+"Chatham, on, Canada",Low Risk,2.0,2.0,2.0,2.0,42.4048018,-82.1910376,Low (1-3),Chatham
 "Cornwall, on, Canada",Low Risk,2.0,2.0,2.0,2.0,45.0212762,-74.730345,Low (1-3),Cornwall
 "Dorset, on, Canada",Low Risk,2.0,2.0,2.0,2.0,45.2444301,-78.8939439,Low (1-3),Dorset
 "Grand Bend, on, Canada",Low Risk,2.0,2.0,2.0,2.0,43.3130397,-81.7562242,Low (1-3),Grand Bend
@@ -109,19 +109,19 @@ Location,Observed,Day_Forecast,Night_Forecast,Next_Day_Forecast,Next_Night_Forec
 "Moncton, nb, Canada",Low Risk,2.0,2.0,2.0,2.0,46.0878165,-64.7782313,Low (1-3),Moncton
 "Saint Andrews, nb, Canada",Low Risk,2.0,2.0,2.0,2.0,45.0738432,-67.0530897,Low (1-3),Saint Andrews
 "Saint John, nb, Canada",Low Risk,2.0,2.0,2.0,2.0,45.2733153,-66.0633081,Low (1-3),Saint John
-"Halifax, ns, Canada",Low Risk,2.0,2.0,2.0,1.0,44.8857087,-63.1005273,Low (1-3),Halifax
-"Halifax - Lake Major, ns, Canada",Low Risk,2.0,2.0,2.0,1.0,,,Low (1-3),Halifax - Lake Major
-"Halifax Downtown, ns, Canada",Low Risk,2.0,2.0,2.0,1.0,,,Low (1-3),Halifax Downtown
-"Kentville, ns, Canada",Low Risk,2.0,2.0,2.0,1.0,45.0771182,-64.4942826,Low (1-3),Kentville
-"Pictou, ns, Canada",Low Risk,2.0,2.0,2.0,1.0,45.6761282,-62.708845,Low (1-3),Pictou
-"Port Hawkesbury, ns, Canada",Low Risk,2.0,2.0,2.0,1.0,45.6148755,-61.3518164,Low (1-3),Port Hawkesbury
-"Sydney, ns, Canada",Low Risk,2.0,2.0,2.0,1.0,46.1367899,-60.194224,Low (1-3),Sydney
-"Charlottetown, pe, Canada",Low Risk,2.0,2.0,2.0,1.0,46.23824,-63.1310704,Low (1-3),Charlottetown
-"St. Peters Bay, pe, Canada",,2.0,2.0,2.0,1.0,46.4174453,-62.5810333,Low (1-3),St. Peters Bay
-"Summerside (Wellington), pe, Canada",Low Risk,2.0,2.0,1.0,1.0,46.4538293,-63.9995297,Low (1-3),Summerside (Wellington)
-"Burin, nl, Canada",Low Risk,1.0,1.0,2.0,2.0,47.0777517,-55.1762977,Low (1-3),Burin
-"Corner Brook, nl, Canada",Low Risk,2.0,2.0,2.0,2.0,48.9523316,-57.9460401,Low (1-3),Corner Brook
-"Grand Falls-Windsor, nl, Canada",Low Risk,1.0,1.0,2.0,1.0,48.9279047,-55.6598977,Low (1-3),Grand Falls-Windsor
+"Halifax, ns, Canada",Low Risk,2.0,2.0,2.0,2.0,44.8857087,-63.1005273,Low (1-3),Halifax
+"Halifax - Lake Major, ns, Canada",Low Risk,2.0,2.0,2.0,2.0,,,Low (1-3),Halifax - Lake Major
+"Halifax Downtown, ns, Canada",Low Risk,2.0,2.0,2.0,2.0,,,Low (1-3),Halifax Downtown
+"Kentville, ns, Canada",Low Risk,2.0,2.0,2.0,2.0,45.0771182,-64.4942826,Low (1-3),Kentville
+"Pictou, ns, Canada",Low Risk,2.0,2.0,2.0,2.0,45.6761282,-62.708845,Low (1-3),Pictou
+"Port Hawkesbury, ns, Canada",Low Risk,2.0,2.0,2.0,2.0,45.6148755,-61.3518164,Low (1-3),Port Hawkesbury
+"Sydney, ns, Canada",Low Risk,2.0,2.0,2.0,2.0,46.1367899,-60.194224,Low (1-3),Sydney
+"Charlottetown, pe, Canada",Low Risk,2.0,2.0,2.0,2.0,46.23824,-63.1310704,Low (1-3),Charlottetown
+"St. Peters Bay, pe, Canada",,2.0,2.0,2.0,2.0,46.4174453,-62.5810333,Low (1-3),St. Peters Bay
+"Summerside (Wellington), pe, Canada",Low Risk,2.0,2.0,2.0,2.0,46.4538293,-63.9995297,Low (1-3),Summerside (Wellington)
+"Burin, nl, Canada",Low Risk,2.0,2.0,2.0,2.0,47.0777517,-55.1762977,Low (1-3),Burin
+"Corner Brook, nl, Canada",Low Risk,2.0,1.0,2.0,1.0,48.9523316,-57.9460401,Low (1-3),Corner Brook
+"Grand Falls-Windsor, nl, Canada",Low Risk,1.0,2.0,2.0,1.0,48.9279047,-55.6598977,Low (1-3),Grand Falls-Windsor
 "Labrador City, nl, Canada",Low Risk,2.0,2.0,2.0,2.0,52.9383852,-66.9153137,Low (1-3),Labrador City
 "St. John's, nl, Canada",Low Risk,2.0,2.0,2.0,2.0,47.5556097,-52.7452511,Low (1-3),St. John's
 "Whitehorse, yt, Canada",Low Risk,1.0,1.0,1.0,2.0,60.7197137,-135.0522761,Low (1-3),Whitehorse
