@@ -5,7 +5,7 @@ Location,Observed,Day_Forecast,Night_Forecast,Next_Day_Forecast,Next_Night_Forec
 "Comox Valley, bc, Canada",Low Risk,2.0,3.0,3.0,2.0,49.6735133,-124.9282659,Low (1-3),Comox Valley
 "Cranbrook, bc, Canada",Low Risk,3.0,2.0,2.0,3.0,49.5129678,-115.7694002,Low (1-3),Cranbrook
 "Duncan, bc, Canada",Low Risk,2.0,3.0,3.0,2.0,48.7786908,-123.7079416,Low (1-3),Duncan
-"Eastern Fraser Valley, bc, Canada",Low Risk,7.0,5.0,5.0,4.0,49.3764104,-121.8159307,High (7-10),Eastern Fraser Valley
+"Eastern Fraser Valley, bc, Canada",Moderate Risk,7.0,5.0,5.0,4.0,49.3764104,-121.8159307,High (7-10),Eastern Fraser Valley
 "Fort St. John, bc, Canada",Low Risk,3.0,2.0,3.0,3.0,56.252423,-120.846409,Low (1-3),Fort St. John
 "Kamloops, bc, Canada",Low Risk,4.0,4.0,4.0,4.0,50.674522,-120.3272674,Moderate (4-6),Kamloops
 "Kitimat, bc, Canada",Low Risk,1.0,3.0,3.0,2.0,54.0632661,-128.637191,Low (1-3),Kitimat
@@ -101,24 +101,24 @@ Location,Observed,Day_Forecast,Night_Forecast,Next_Day_Forecast,Next_Night_Forec
 "Gatineau, qc, Canada",calculated,2.0,2.0,2.0,2.0,45.4765446,-75.7012723,Low (1-3),Gatineau
 "Montréal, qc, Canada",calculated,1.0,1.0,1.0,2.0,45.5018869,-73.5673919,Low (1-3),Montréal
 "Québec, qc, Canada",calculated,1.0,1.0,1.0,1.0,46.8130816,-71.2074596,Low (1-3),Québec
-"Bathurst, nb, Canada",Low Risk,3.0,3.0,3.0,2.0,47.6183507,-65.6513358,Low (1-3),Bathurst
-"Campbellton, nb, Canada",Low Risk,3.0,3.0,3.0,2.0,48.007399,-66.6722057,Low (1-3),Campbellton
-"Edmundston, nb, Canada",Low Risk,3.0,3.0,3.0,2.0,47.3690127,-68.3266741,Low (1-3),Edmundston
-"Fredericton, nb, Canada",Low Risk,3.0,3.0,3.0,2.0,45.9635895,-66.6431151,Low (1-3),Fredericton
-"Miramichi, nb, Canada",Low Risk,3.0,3.0,3.0,2.0,47.0295709,-65.5059061,Low (1-3),Miramichi
-"Moncton, nb, Canada",Low Risk,3.0,3.0,3.0,2.0,46.0878165,-64.7782313,Low (1-3),Moncton
-"Saint Andrews, nb, Canada",Low Risk,3.0,3.0,3.0,2.0,45.0738432,-67.0530897,Low (1-3),Saint Andrews
-"Saint John, nb, Canada",Low Risk,3.0,3.0,3.0,2.0,45.2733153,-66.0633081,Low (1-3),Saint John
-"Halifax, ns, Canada",Low Risk,2.0,3.0,2.0,2.0,44.8857087,-63.1005273,Low (1-3),Halifax
-"Halifax - Lake Major, ns, Canada",Low Risk,2.0,3.0,2.0,2.0,,,Low (1-3),Halifax - Lake Major
-"Halifax Downtown, ns, Canada",Low Risk,2.0,3.0,2.0,2.0,,,Low (1-3),Halifax Downtown
-"Kentville, ns, Canada",Low Risk,2.0,3.0,2.0,2.0,45.0771182,-64.4942826,Low (1-3),Kentville
-"Pictou, ns, Canada",Low Risk,2.0,3.0,2.0,2.0,45.6761282,-62.708845,Low (1-3),Pictou
-"Port Hawkesbury, ns, Canada",Low Risk,2.0,3.0,2.0,2.0,45.6148755,-61.3518164,Low (1-3),Port Hawkesbury
-"Sydney, ns, Canada",Low Risk,2.0,3.0,2.0,2.0,46.1367899,-60.194224,Low (1-3),Sydney
-"Charlottetown, pe, Canada",Low Risk,2.0,2.0,2.0,2.0,46.23824,-63.1310704,Low (1-3),Charlottetown
-"St. Peters Bay, pe, Canada",,2.0,2.0,2.0,2.0,46.4174453,-62.5810333,Low (1-3),St. Peters Bay
-"Summerside (Wellington), pe, Canada",Low Risk,2.0,2.0,2.0,2.0,46.4538293,-63.9995297,Low (1-3),Summerside (Wellington)
+"Bathurst, nb, Canada",Low Risk,2.0,2.0,2.0,2.0,47.6183507,-65.6513358,Low (1-3),Bathurst
+"Campbellton, nb, Canada",Low Risk,2.0,2.0,2.0,2.0,48.007399,-66.6722057,Low (1-3),Campbellton
+"Edmundston, nb, Canada",Low Risk,2.0,2.0,2.0,2.0,47.3690127,-68.3266741,Low (1-3),Edmundston
+"Fredericton, nb, Canada",Low Risk,2.0,2.0,2.0,2.0,45.9635895,-66.6431151,Low (1-3),Fredericton
+"Miramichi, nb, Canada",Low Risk,2.0,2.0,2.0,2.0,47.0295709,-65.5059061,Low (1-3),Miramichi
+"Moncton, nb, Canada",Low Risk,2.0,2.0,2.0,2.0,46.0878165,-64.7782313,Low (1-3),Moncton
+"Saint Andrews, nb, Canada",Low Risk,2.0,2.0,2.0,2.0,45.0738432,-67.0530897,Low (1-3),Saint Andrews
+"Saint John, nb, Canada",Low Risk,2.0,2.0,2.0,2.0,45.2733153,-66.0633081,Low (1-3),Saint John
+"Halifax, ns, Canada",Low Risk,2.0,2.0,2.0,1.0,44.8857087,-63.1005273,Low (1-3),Halifax
+"Halifax - Lake Major, ns, Canada",Low Risk,2.0,2.0,2.0,1.0,,,Low (1-3),Halifax - Lake Major
+"Halifax Downtown, ns, Canada",Low Risk,2.0,2.0,2.0,1.0,,,Low (1-3),Halifax Downtown
+"Kentville, ns, Canada",Low Risk,2.0,2.0,2.0,1.0,45.0771182,-64.4942826,Low (1-3),Kentville
+"Pictou, ns, Canada",Low Risk,2.0,2.0,2.0,1.0,45.6761282,-62.708845,Low (1-3),Pictou
+"Port Hawkesbury, ns, Canada",Low Risk,2.0,2.0,2.0,1.0,45.6148755,-61.3518164,Low (1-3),Port Hawkesbury
+"Sydney, ns, Canada",Low Risk,2.0,2.0,2.0,1.0,46.1367899,-60.194224,Low (1-3),Sydney
+"Charlottetown, pe, Canada",Low Risk,2.0,2.0,2.0,1.0,46.23824,-63.1310704,Low (1-3),Charlottetown
+"St. Peters Bay, pe, Canada",,2.0,2.0,2.0,1.0,46.4174453,-62.5810333,Low (1-3),St. Peters Bay
+"Summerside (Wellington), pe, Canada",Low Risk,2.0,2.0,1.0,1.0,46.4538293,-63.9995297,Low (1-3),Summerside (Wellington)
 "Burin, nl, Canada",Low Risk,1.0,1.0,2.0,2.0,47.0777517,-55.1762977,Low (1-3),Burin
 "Corner Brook, nl, Canada",Low Risk,2.0,2.0,2.0,2.0,48.9523316,-57.9460401,Low (1-3),Corner Brook
 "Grand Falls-Windsor, nl, Canada",Low Risk,1.0,1.0,2.0,1.0,48.9279047,-55.6598977,Low (1-3),Grand Falls-Windsor
