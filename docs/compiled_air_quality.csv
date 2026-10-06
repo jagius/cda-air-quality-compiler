@@ -101,7 +101,7 @@ Location,Observed,Latitude,Longitude,Risk,Label
 "Gatineau, qc, Canada",calculated,45.4765446,-75.7012723,,Gatineau
 "Montréal, qc, Canada",calculated,45.5018869,-73.5673919,,Montréal
 "Québec, qc, Canada",calculated,46.8130816,-71.2074596,,Québec
-"Bathurst, nb, Canada",Low Risk,47.6183507,-65.6513358,Low (1-3),Bathurst
+"Bathurst, nb, Canada",,47.6183507,-65.6513358,,Bathurst
 "Campbellton, nb, Canada",,48.007399,-66.6722057,,Campbellton
 "Edmundston, nb, Canada",Low Risk,47.3690127,-68.3266741,Low (1-3),Edmundston
 "Fredericton, nb, Canada",Low Risk,45.9635895,-66.6431151,Low (1-3),Fredericton
